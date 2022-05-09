@@ -1,0 +1,72 @@
+%fonts {
+    font-family: 'SF Pro Text';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+}
+
+
+.header {
+    height: 64px;
+    display: flex;
+    justify-content: space-around;
+    gap: 150px;
+    background: #FFFFFF;
+    position: sticky;
+    top: 0px;
+    
+}
+
+.headerLogo {
+    margin-left: 197px;
+    width: 141px;
+    height: 32px;
+    align-self: center;
+    cursor: pointer;
+}
+
+.headerMenu {
+    display: flex;
+    gap: 32px;
+    align-self: center;
+}
+
+.basket {
+    width: 89px;
+    height: 40px;
+    border-radius: 4px;
+    background: #FF7010;
+    display: flex;
+    border: none;
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+}
+
+.basketIco {
+    width: 24px;
+    height: 24px;
+}
+
+.basketPosition {
+    align-self: center;
+    margin-right: 195px;
+}
+
+.basketTitle {
+    font-family: 'SF Pro Text';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: #FFFFFF;
+    margin-left: 8px;
+}
+
+.headerMenu {
+    div {
+        cursor: pointer;
+        @extend %fonts
+    }
+}

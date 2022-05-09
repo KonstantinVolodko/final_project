@@ -1,0 +1,38 @@
+.btnFilter {
+    background: #FFFFFF;
+    border: 1px solid #F0F0F0;
+    box-sizing: border-box;
+    border-radius: 6px;
+    cursor: pointer;
+    width: 126px;
+    height: 40px;
+    display: flex;
+    font-family: 'SF Pro Text';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: #191919;
+    align-items: center;
+    justify-content: center;
+        img {
+            width: 16px;
+            height: 16px;
+            margin-right: 8px;
+        }
+}
+
+
+.mainPizzaTitle {
+    display: flex;
+    color: #191919;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 48px;
+    justify-content: space-between;
+    margin-left: 155px;
+    margin-right: 155px;
+    margin-top: 30px;
+}

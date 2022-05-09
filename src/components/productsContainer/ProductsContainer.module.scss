@@ -1,0 +1,21 @@
+.productsContainer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
+    margin-top: 32px;
+}
+
+.sushiTitle {
+    display: flex;
+    color: #191919;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 48px;
+    justify-content: space-between;
+    margin-left: 155px;
+    margin-right: 155px;
+    margin-top: 48px;
+}

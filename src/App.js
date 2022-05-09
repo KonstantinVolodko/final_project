@@ -1,25 +1,26 @@
-import logo from './logo.svg';
-import './App.css';
+import React, {useState} from "react";
+import styles from "./App.module.scss"
+import { Header } from "./components/header/Header";
+import { Main } from "./components/main/Main";
 
-function App() {
+
+
+export const App = function () {
+  const [products, setProducts] = useState([]);
+  const [basket, setBasket] = useState([])
+
+console.log(basket)
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className={styles.App}>
+      <Header 
+      basket={basket}
+      />
+      <Main 
+      products={products}
+      setProducts={setProducts}
+      setBasket={setBasket}
+      />
     </div>
   );
 }
-
-export default App;

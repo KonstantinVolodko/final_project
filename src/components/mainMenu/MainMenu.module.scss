@@ -1,0 +1,124 @@
+%fonts {
+    color: #191919;
+    font-family: 'SF Pro Text';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+}
+
+%backgroundPosition {
+        background-position-y: 20px;
+        background-position-x: 51px;
+        background-repeat: no-repeat;
+        background-size: 32px;
+}
+
+
+.mainMenu {
+    @extend %fonts;
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    margin-top: 30px;
+
+    span {
+        margin-top: 60px;
+    }
+
+    .btnSales {
+        background-image: url(../../icons/fireIco.svg);
+        @extend %backgroundPosition;
+    }
+
+    .btnSales:hover {
+        color: red;
+        background-image: url(../../icons/hoverFireIco.svg);
+        @extend %backgroundPosition;
+    }
+
+    .btnPizza {
+        @extend %backgroundPosition;
+        background-image: url(../../icons/pizzaIco.svg);
+    }
+
+    .btnPizza:hover {
+        color: #FF7010;
+        background-image: url(../../icons/hoverPizzaIco.svg);
+    }
+
+    .btnSushi {
+        @extend %backgroundPosition;
+        background-image: url(../../icons/sushiIco.svg);
+    }
+
+    .btnSushi:hover {
+        color: #FF7010;
+        background-image: url(../../icons/hoverSushiIco.svg);
+    }
+
+    .btnCoctails {
+        @extend %backgroundPosition;
+        background-image: url(../../icons/coctailIco.svg);
+    }
+
+    .btnCoctails:hover {
+        color: #FF7010;
+        background-image: url(../../icons/hoverCoctailIco.svg);
+    }
+
+    .btnSnacks {
+        @extend %backgroundPosition;
+        background-image: url(../../icons/snacksIco.svg);
+    }
+
+    .btnSnacks:hover {
+        color: #FF7010;
+        background-image: url(../../icons/hoverSnacksIco.svg);
+    }
+
+    .btnCombo {
+        @extend %backgroundPosition;
+        background-image: url(../../icons/comboIco.svg);
+    }
+
+    .btnCombo:hover {
+        color: #FF7010;
+        background-image: url(../../icons/hoverComboIco.svg);
+    }
+
+    .btnDesserts {
+        @extend %backgroundPosition;
+        background-image: url(../../icons/dessertsIco.svg);
+    }
+
+    .btnDesserts:hover {
+        color: #FF7010;
+        background-image: url(../../icons/hoverDessertsIco.svg);
+    }
+
+    .btnSauce {
+        @extend %backgroundPosition;
+        background-image: url(../../icons/sauceIco.svg);
+    }
+
+    .btnSauce:hover {
+        color: #FF7010;
+        background-image: url(../../icons/hoverSauceIco.svg);
+    }
+    
+    button {
+        width: 135px;
+        height: 104px;
+        background: #FFFFFF;
+        border: 1px solid #F0F0F0;
+        box-sizing: border-box;
+        border-radius: 12px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        align-self: center;
+        justify-content: center;
+        cursor: pointer;
+    }
+}
