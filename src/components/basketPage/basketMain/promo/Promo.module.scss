@@ -1,0 +1,54 @@
+.promoInputContainer {
+    width: 320px;
+    height: 48px;
+    display: flex;
+    margin-left: 24px;
+}
+
+.promoContainer {
+    background: #FFFFFF;
+    border: 1px solid #F0F0F0;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+    width: 850px;
+    height: 80px;
+    align-items: center;
+}
+
+.inp {
+    background: #FFFFFF;
+    border: 1px solid #F0F0F0;
+    border-right: none;
+    border-radius: 6px;
+    width: 280px;
+    height: 48px;
+    outline: none;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    font-family: 'Open Sans';
+    padding-left: 16px;
+}
+
+.inpButton {
+    background: #FF7010;
+    border-radius: 6px;
+    width: 48px;
+    height: 48px;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.price {
+    color: #FF7010;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 28px;
+    margin-right: 24px;
+}

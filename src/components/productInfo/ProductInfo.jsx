@@ -18,6 +18,7 @@ export const ProductInfo = ({
                     name={name}
                     description={description}
                     price={price}
+                    setBasket={setBasket}
                     />
                     <div className={styles.price}>от {price} ₽</div>
                 </div>

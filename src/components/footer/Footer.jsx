@@ -5,11 +5,14 @@ import phoneIco from "../../icons/phoneIco.svg"
 import geoIco from "../../icons/geoIco.svg"
 import facebookIco from "../../icons/facebookIco.svg"
 import instaIco from "../../icons/instaIco.svg"
+import { Link } from "react-router-dom";
 
 export const Footer = () => {
     return (
         <div className={styles.footer}>
-            <div className={styles.footerLogo}><img src={logo} alt="#" /></div>
+            <Link className={styles.footerLogo} to='/'>
+            <div><img src={logo} alt="#" /></div>
+            </Link>
             <div className={styles.footerContainer}>
                 <div className={styles.contacts}>Контакты</div>
                 <div className={styles.phoneContainer}>

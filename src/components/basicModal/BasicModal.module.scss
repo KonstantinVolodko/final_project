@@ -1,5 +1,5 @@
 %fonts {
-    font-family: 'Inter';
+    font-family: 'Open Sans';
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -210,7 +210,7 @@
     input:checked ~ label { 
         border: 1px solid #FF7010;
         color: #FFFFFF;
-        box-shadow: 10px 5px 5px #FF7010;
+        // box-shadow: 10px 5px 5px #FF7010;
     }
 }
 
@@ -251,5 +251,5 @@
     right: -50px;
     top: 10px;
     cursor: pointer;
-    z-index: -1000px;
 }
+

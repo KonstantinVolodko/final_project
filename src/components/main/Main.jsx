@@ -1,12 +1,13 @@
 import React, { useEffect} from "react";
 import { MainMenu } from "../mainMenu/MainMenu";
-import { MainPizza } from "../mainPizza/MainPizza";
 import { Api } from "../../constants/Constants";
 import { ProductInfo } from "../productInfo/ProductInfo";
 import styles from "./Main.module.scss"
 import { Footer } from "../footer/Footer";
 import { ProductsContainer } from "../productsContainer/ProductsContainer";
 import { isLabelWithInternallyDisabledControl } from "@testing-library/user-event/dist/utils";
+import { Header } from "../header/Header";
+import { BasketWindow } from "../basketWindow/BasketWindow";
 
 
 export const Main = ({
@@ -38,7 +39,6 @@ export const Main = ({
     return (
         <div>
             <MainMenu />
-            <MainPizza />
             <ProductsContainer 
             products={products}
             setBasket={setBasket}

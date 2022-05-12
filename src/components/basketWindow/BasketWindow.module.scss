@@ -1,0 +1,30 @@
+.basket {
+    width: 89px;
+    height: 40px;
+    border-radius: 4px;
+    background: #FF7010;
+    display: flex;
+    border: none;
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+}
+
+.basketIco {
+    width: 24px;
+    height: 24px;
+}
+
+.basketTitle {
+    font-family: 'SF Pro Text';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: #FFFFFF;
+    margin-left: 8px;
+}
+
+.windowContainer {
+    height: 500px;
+}

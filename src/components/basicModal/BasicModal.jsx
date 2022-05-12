@@ -10,12 +10,22 @@ import crossIco from '../../icons/crossIco.svg'
 
 
 
+
 export const BasicModal = ({
-    img, description, name, price
+    img, description, name, price, setBasket
 }) => {
   const [open, setOpen] = React.useState(false);
   const handleOpen = () => setOpen(true);
   const handleClose = () => setOpen(false);
+
+  const addFunction = () => {
+    return(
+        setBasket(),
+        handleClose()
+        
+    )
+  }
+
 
   return (
     <div>
@@ -30,7 +40,7 @@ export const BasicModal = ({
                 <img src={img} alt="#" />
             </div>
             <div className={styles.titleContainer}>
-                {/* <div className={styles.cross}><img src={crossIco} alt="#" /></div> */}
+                <div className={styles.cross} onClick={() => handleClose()}><img src={crossIco} alt="#" /></div>
                 <div>
                     <div className={styles.name}>{name}</div>
                     <div className={styles.addContainer}>Выберите тесто</div>
@@ -60,7 +70,7 @@ export const BasicModal = ({
                         </div>
                     </div>
                 </div>
-                <div className={styles.addContainer}>Добавте в пиццу</div>
+                <div className={styles.addContainer}>Добавьте в пиццу</div>
                 <div className={styles.doppingContainer}>
                     <div>
                         <div className={styles.btnDopping}>
@@ -97,7 +107,7 @@ export const BasicModal = ({
                 </div>
                 <div className={styles.priceContainer}>
                     <div className={styles.price}>Итого: {price} ₽</div>
-                    <button>Добавить</button>
+                    <button onClick={() => addFunction()}>Добавить</button>
                 </div>
             </div>
         </Box>

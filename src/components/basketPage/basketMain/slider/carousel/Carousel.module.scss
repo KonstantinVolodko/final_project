@@ -1,0 +1,22 @@
+.mainContainer {
+    width: 150px;
+    height: 450px;
+    display: flex;
+    align-items: center;
+}
+
+.window {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
+.allPagesContainer {
+    height: 100%;
+    display: flex;
+
+}
+
+.arrow {
+    cursor: pointer;
+}
