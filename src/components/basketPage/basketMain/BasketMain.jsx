@@ -1,5 +1,6 @@
 import React from "react";
 import { BasketProductInfo } from "../basketProductInfo/BasketProductInfo";
+import { AboutUsForm } from "../forms/AboutUsForm";
 import styles from './BasketMain.module.scss'
 import { Promo } from "./promo/Promo";
 import { Slider } from "./slider/Slider";
@@ -28,6 +29,15 @@ export const BasketMain = ({
                 products={products}
                 />
             </div>
+            <div className={styles.formContainer}>
+                <div>
+                    <AboutUsForm 
+                    getSum={getSum}
+                    />
+                </div>
+            </div>
+            
+
         </div>
     )
 

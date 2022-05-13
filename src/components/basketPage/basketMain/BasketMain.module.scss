@@ -24,6 +24,12 @@
     font-size: 24px;
     line-height: 32px;
     color: #191919;
-    margin-left: 415px;
     margin-top: 30px;
+    margin-bottom: 16px;
+}
+
+.formContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
