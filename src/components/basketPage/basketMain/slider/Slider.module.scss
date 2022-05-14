@@ -82,3 +82,39 @@
   background-color: aqua;
 }
 
+.cont {
+  display: flex;
+  align-items: center;
+}
+
+.arrowLeft {
+  display: block;
+  background-color: #FF7010;
+  border-radius: 41px;
+  width: 40px;
+  height: 40px;
+  background-image: url(../../../../icons/arrowLeft.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+  cursor: pointer;
+  position: relative;
+  right: 60px;
+  top: 180px;
+}
+
+.arrowRight {
+  display: block;
+  background-color: #FF7010;
+  border-radius: 41px;
+  width: 40px;
+  height: 40px;
+  background-image: url(../../../../icons/arrowRight.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+  cursor: pointer;
+  position: relative;
+  left: 870px;
+  top: -210px;
+}
+
+

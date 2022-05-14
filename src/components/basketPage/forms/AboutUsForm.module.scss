@@ -250,5 +250,78 @@
         width: 175px;
         height: 48px;
     }
+
+    button:disabled {
+        background: #ff701059;
+        border-radius: 6px;
+        @extend %fonts;
+        font-size: 16px;
+        line-height: 22px;
+        color: #FFFFFF;
+        border: none;
+        width: 175px;
+        height: 48px;
+        cursor: pointer;
+    }
+}
+
+.inp::-webkit-outer-spin-button,
+.inp::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+
+.faster {
+  position: relative;
+  height: 16px;
+  width: 16px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  outline: none;
+  z-index: 1;
+  cursor: pointer;
+}
+
+.faster::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  border: 2px solid #FF7010;
+}
+
+.faster:checked::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background-color: #FF7010;
+  transform: translate(-50%, -50%);
+  visibility: visible;
+}
+
+.inpContainer {
+    display: flex;
+    align-items: center;
+}
+
+.submitText {
+    text-decoration: none;
+}
+
+.errorContainer {
+    color: red;
+    font-size: 12px;
+    font-family: 'Open Sans';
 }
 

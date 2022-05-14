@@ -1,6 +1,3 @@
-import React from "react";
-
-
 import p1 from '../images/p1.svg';
 import p2 from '../images/p2.svg';
 import p3 from '../images/p3.svg';
@@ -50,6 +47,10 @@ import so1 from '../images/so1.svg';
 import so2 from '../images/so2.svg';
 import so3 from '../images/so3.svg';
 import so4 from '../images/so4.svg';
+import so5 from '../images/so5.jpg';
+import so6 from '../images/so6.jpg';
+import so7 from '../images/so7.jpg';
+import so8 from '../images/so8.jpg';
 
 import comb1 from '../images/comb1.webp'
 import comb2 from '../images/comb2.webp'
@@ -460,6 +461,42 @@ export const Api = [
     },
 
     {
+        "name": "Пармеджано",
+        "description": "Пармеджано",
+        "price": "49",
+        "category": "sauce",
+        "type": "other",
+        "image": so5,
+    },
+
+    {
+        "name": "Кисло-сладкий",
+        "description": "Кисло-сладкий",
+        "price": "49",
+        "category": "sauce",
+        "type": "other",
+        "image": so6,
+    },
+
+    {
+        "name": "Горчичный",
+        "description": "Горчичный",
+        "price": "49",
+        "category": "sauce",
+        "type": "other",
+        "image": so7,
+    },
+
+    {
+        "name": "Чесночный",
+        "description": "Чесночный",
+        "price": "49",
+        "category": "sauce",
+        "type": "other",
+        "image": so8,
+    },
+
+    {
         "name": "2 пиццы и напиток",
         "description": "2 пиццы 25 см и напиток на выбор. Для компании из 2–4 человек",
         "price": "475",
@@ -496,3 +533,5 @@ export const Api = [
     },
 
 ]
+
+

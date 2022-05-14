@@ -2,6 +2,7 @@ import React from "react";
 import styles from "./ProductsContainer.module.scss"
 import { ProductInfo } from "../productInfo/ProductInfo";
 import filterIco from "../../icons/filterIco.svg"
+import { ProductInfoOther } from "../productInfo/productInfoOther/ProductInfoOther";
 
 export const ProductsContainer = ({
     products, setBasket, addedBasket
@@ -38,7 +39,7 @@ export const ProductsContainer = ({
                 products.map(el => {
                     if(el.category === "sushi"){
                         return(
-                            <ProductInfo 
+                            <ProductInfoOther 
                             img={el.image}
                             name={el.name}
                             description={el.description}
@@ -56,7 +57,7 @@ export const ProductsContainer = ({
                 products.map(el => {
                     if(el.category === "snack"){
                         return(
-                            <ProductInfo 
+                            <ProductInfoOther 
                             img={el.image}
                             name={el.name}
                             description={el.description}
@@ -74,7 +75,7 @@ export const ProductsContainer = ({
                 products.map(el => {
                     if(el.category === "desserts"){
                         return(
-                            <ProductInfo 
+                            <ProductInfoOther 
                             img={el.image}
                             name={el.name}
                             description={el.description}
@@ -92,7 +93,7 @@ export const ProductsContainer = ({
                 products.map(el => {
                     if(el.category === "drinks"){
                         return(
-                            <ProductInfo 
+                            <ProductInfoOther 
                             img={el.image}
                             name={el.name}
                             description=""
@@ -110,7 +111,7 @@ export const ProductsContainer = ({
                 products.map(el => {
                     if(el.category === "sauce"){
                         return(
-                            <ProductInfo 
+                            <ProductInfoOther 
                             img={el.image}
                             name={el.name}
                             description=""
@@ -129,7 +130,7 @@ export const ProductsContainer = ({
                 products.map(el => {
                     if(el.category === "combo"){
                         return(
-                            <ProductInfo 
+                            <ProductInfoOther 
                             img={el.image}
                             name={el.name}
                             description={el.description}

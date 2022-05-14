@@ -4,12 +4,13 @@ import { Header } from "./components/header/Header";
 import { Main } from "./components/main/Main";
 import { Routes, Route } from "react-router-dom";
 import { BasketPage } from "./components/basketPage/BasketPage";
+import { AdoptedPage } from "./components/adoptedPage/AdoptedPage";
 
 
 
 export const App = function () {
   const [products, setProducts] = useState([]);
-  const [basket, setBasket] = useState([])
+  const [basket, setBasket] = useState([]);
 
 
 console.log(basket, 'app')
@@ -19,6 +20,7 @@ console.log(basket, 'app')
             return acc + Number(el.price)
         }, 0)
     }
+
 
   return (
     <div className={styles.App}>
@@ -43,6 +45,13 @@ console.log(basket, 'app')
         products={products}
         />
       }/>
+      <Route path="/adopted" element={
+        <AdoptedPage 
+        basket={basket}
+        getSum={getSum()}
+        />
+      }
+      />
       </Routes>
     </div>
   );

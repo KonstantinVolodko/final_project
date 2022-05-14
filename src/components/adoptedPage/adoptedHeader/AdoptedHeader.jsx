@@ -1,11 +1,10 @@
 import React from "react";
-import logo from '../../../icons/logo.svg'
-import styles from './BasketHeader.module.scss'
 import { BasketWindow } from "../../basketWindow/BasketWindow";
+import styles from './AdoptedHeader.module.scss';
+import logo from '../../../icons/logo.svg'
 import { Link } from "react-router-dom";
 
-
-export const BasketHeader = ({
+export const AdoptedHeader = ({
     getSum, basket
 }) => {
     return (
@@ -33,6 +32,5 @@ export const BasketHeader = ({
                 />
             </div>
         </div>
-    )
-
+    )   
 }
