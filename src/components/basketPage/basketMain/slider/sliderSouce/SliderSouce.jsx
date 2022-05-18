@@ -24,7 +24,7 @@ function SampleNextArrow(props) {
   }
 
 export const SliderSouce = ({
-    products
+    products, setBasket, addedBasket
 }) => {
 
     const settings = {
@@ -55,7 +55,7 @@ export const SliderSouce = ({
                                         <div className={styles.description}>
                                             
                                         </div>
-                                        <button className={styles.btnPrice}>
+                                        <button onClick={() => addedBasket(el)} className={styles.btnPrice}>
                                             {el.price} ₽
                                         </button>
                                     </div>

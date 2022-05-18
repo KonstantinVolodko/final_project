@@ -1,4 +1,4 @@
-import * as React from 'react';
+import React, {useState} from 'react';
 import Box from '@mui/material/Box';
 import Modal from '@mui/material/Modal';
 import styles from './BasicModal.module.scss'
@@ -12,17 +12,43 @@ import crossIco from '../../icons/crossIco.svg'
 
 
 export const BasicModal = ({
-    img, description, name, price, setBasket
+    img, description, name, price, setBasket, setProducts, products
 }) => {
   const [open, setOpen] = React.useState(false);
   const handleOpen = () => setOpen(true);
   const handleClose = () => setOpen(false);
 
+  const [dough, setDough] = useState('classic')
+  const [size, setSize] = useState('20')
+  const [mozarella, setMozarella] = useState(false)
+  const [shamp, setShamp] = useState(false)
+  const [onion, setOnion] = useState(false)
+  const [pepper, setPepper] = useState(false)
+  const [elPrice, setElPrice] = useState(price)
+  console.log(elPrice)
+
+  const doppingFunction = (dopping) => {
+    if(dopping === false) {
+        products.map(el => {
+            return(
+                Number(el.price) + 59
+            )
+        })
+    }else if (dopping === true) {
+        products.map(el => {
+            return(
+                Number(el.price) + 59 - 59
+            )
+        })
+    }
+  }
+
+
+
   const addFunction = () => {
     return(
         setBasket(),
         handleClose()
-        
     )
   }
 
@@ -46,26 +72,68 @@ export const BasicModal = ({
                     <div className={styles.addContainer}>Выберите тесто</div>
                     <div className={styles.btnCategory}>
                         <div className={styles.switch}>
-                            <input type="checkbox" />
+                            <input 
+                            type="radio" 
+                            value={dough}
+                            name="dough"
+                            checked={dough == "classic"}
+                            onClick={() => {
+                                setDough("classic");
+                              }}
+                              />
                             <label>Традиционное</label>
                         </div>
                         <div className={styles.switch}>
-                            <input type="checkbox" />
+                            <input
+                            type="radio" 
+                            value={dough}
+                            name="dough"
+                            checked={dough == "thin"}
+                            onClick={() => {
+                                setDough("thin");
+                              }} />
                             <label>Тонкое</label>
                         </div>
                     </div>
                     <div className={styles.addContainer}>Выберите размер</div>
                     <div className={styles.btnSizeContainer}>    
                         <div className={styles.btnSize}>
-                            <input type="checkbox" />
+                            <input 
+                            type="radio" 
+                            value={size}
+                            name="20"
+                            checked={size == "20"}
+                            onClick={() => {
+                                setSize("20");
+                              }}
+                            />
                             <label>20 см</label>
                         </div>
                         <div className={styles.btnSize}>
-                            <input type="checkbox" />
+                            <input
+                            type="radio" 
+                            value={size}
+                            name="20"
+                            onClick={() => {
+                                setSize("28");
+                                return (
+                                    price = Number(price) + (Number(price) * 0.3),
+
+                                    console.log(price)
+                                )
+                              }}
+                            />
                             <label>28 см</label>
                         </div>
                         <div className={styles.btnSize}>
-                            <input type="checkbox" />
+                            <input
+                            type="radio" 
+                            value={size}
+                            name="20"
+                            onClick={() => {
+                                setSize("33");
+                              }}
+                            />
                             <label>33 см</label>
                         </div>
                     </div>
@@ -74,7 +142,15 @@ export const BasicModal = ({
                 <div className={styles.doppingContainer}>
                     <div>
                         <div className={styles.btnDopping}>
-                            <input type="checkbox" />
+                            <input type="checkbox" 
+                            onChange={(e) => {
+                                return(
+                                    setMozarella(e.target.checked),
+                                    doppingFunction(mozarella),
+                                    console.log(price)
+                                ) 
+                            }}
+                            />
                             <label><img src={mozarellaIco} alt="#" /></label>
                         </div>
                         <div className={styles.doppingName}>Моцарелла</div>
@@ -82,7 +158,15 @@ export const BasicModal = ({
                     </div>
                     <div>
                         <div className={styles.btnDopping}>
-                            <input type="checkbox" />
+                            <input type="checkbox" 
+                            onChange={(e) => {
+                                return(
+                                    setShamp(e.target.checked),
+                                    doppingFunction(shamp),
+                                    console.log(price)
+                                ) 
+                            }}
+                            />
                             <label><img src={mashroomsIco} alt="#" /></label>
                         </div>
                         <div className={styles.doppingName}>Шампиньоны</div>
@@ -90,7 +174,15 @@ export const BasicModal = ({
                     </div>
                     <div>
                         <div className={styles.btnDopping}>
-                            <input type="checkbox" />
+                            <input type="checkbox" 
+                            onChange={(e) => {
+                                return(
+                                    setOnion(e.target.checked),
+                                    doppingFunction(onion),
+                                    console.log(price)
+                                ) 
+                            }}
+                            />
                             <label><img src={onionIco} alt="#" /></label>
                         </div>
                         <div className={styles.doppingName}>Красный лук</div>
@@ -98,7 +190,15 @@ export const BasicModal = ({
                     </div>
                     <div>
                         <div className={styles.btnDopping}>
-                            <input type="checkbox" />
+                            <input type="checkbox" 
+                            onChange={(e) => {
+                                return(
+                                    setPepper(e.target.checked),
+                                    doppingFunction(pepper),
+                                    console.log(e.target)
+                                ) 
+                            }}
+                            />
                             <label><img src={pepperIco} alt="#" /></label>
                         </div>
                         <div className={styles.doppingName}>Сладкий перец</div>

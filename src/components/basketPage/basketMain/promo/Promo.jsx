@@ -1,35 +1,28 @@
-import React, {useState} from "react";
+import React, { useRef } from "react";
 import styles from './Promo.module.scss'
 import promoIco from "../../../../icons/promoIco.svg"
 
 
 
 export const Promo = ({
-    getSum, setBasketPrice, basketPrice
+    getSum, setBasketPrice, basketPrice, basket, setBasket, promo, setPromo
 }) => {
 
-    const [promo, setPromo] = useState('')
+    const textInput = useRef()
     
-
-    const getPromo = () => {
-        if(promo === "pizza228") {
-            return(
-                setBasketPrice(getSum - (getSum * 0.1))
-                
-            )
-        }
-    }
+    const getInput = () => setPromo(textInput.current.value)
 
     return (
         <div className={styles.promoContainer}>
             <div className={styles.promoInputContainer}>
-                <input className={styles.inp} type="text" onChange={event => setPromo(event.target.value)} placeholder="Промокод" />
-                <button onClick={() => getPromo()} className={styles.inpButton}>
+                <input className={styles.inp} type="text" ref={textInput} placeholder="Промокод" />
+                <button onClick={getInput} className={styles.inpButton}>
                     <img src={promoIco} alt="#" />
                 </button>
+                
             </div>
             <div className={styles.price}>
-                Итого: {basketPrice} ₽
+                Итого: {getSum} ₽
             </div>
         </div>
     )

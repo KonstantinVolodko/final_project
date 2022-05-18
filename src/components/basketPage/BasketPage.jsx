@@ -4,10 +4,10 @@ import { BasketMain } from "./basketMain/BasketMain";
 import { Footer } from "../footer/Footer"
 
 export const BasketPage = ({
-    basket, getSum, products
+    basket, getSum, products, addedBasket, setBasket, promo, setPromo
 }) => {
 
-    console.log(basket)
+    console.log(addedBasket)
 
     return (
         <div>
@@ -20,6 +20,10 @@ export const BasketPage = ({
             basket={basket}
             getSum={getSum}
             products={products}
+            setBasket={setBasket}
+            addedBasket={addedBasket}
+            promo={promo}
+            setPromo={setPromo}
             />
 
             <Footer />

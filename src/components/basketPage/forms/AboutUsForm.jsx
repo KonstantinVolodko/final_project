@@ -3,7 +3,7 @@ import styles from './AboutUsForm.module.scss'
 import { Link } from "react-router-dom";
 
 export const AboutUsForm = ({
-    getSum, basketPrice, basket
+    getSum, basketPrice, basket, setBasket
 }) => {
 
     const [tripType, setTripType] = useState("oneWay");
@@ -82,8 +82,7 @@ export const AboutUsForm = ({
 
     const clearBasket = () => {
         return(
-            basket.length = 0,
-            getSum = 0
+            basket.length = 0
         )
     }
 
@@ -283,7 +282,7 @@ export const AboutUsForm = ({
                 </fieldset>
 
                 <div className={styles.sendContainer}>
-                    <div className={styles.finalPrice}>Итого: {basketPrice} ₽</div>
+                    <div className={styles.finalPrice}>Итого: {getSum} ₽</div>
                     <Link to='/adopted'>
                     <button onClick={() => clearBasket()} disabled={!formValid}>
                         Оформить заказ

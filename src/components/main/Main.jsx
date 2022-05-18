@@ -11,7 +11,7 @@ import { BasketWindow } from "../basketWindow/BasketWindow";
 
 
 export const Main = ({
-    products, setProducts, setBasket
+    products, setProducts, setBasket, addedBasket
 }) => {
 
     
@@ -26,15 +26,14 @@ export const Main = ({
 
     useEffect(() => {
         const timer = setTimeout(() => {
-          getData()
+          setProducts(Api)
         }, 1000);
         return () => clearTimeout(timer);
       }, []);
 
 
-    const addedBasket = el => setBasket(state => [...state, el])
-
     
+
     
     return (
         <div>
@@ -43,6 +42,7 @@ export const Main = ({
             products={products}
             setBasket={setBasket}
             addedBasket={addedBasket}
+            setProducts={setProducts}
             />
             <Footer />
 

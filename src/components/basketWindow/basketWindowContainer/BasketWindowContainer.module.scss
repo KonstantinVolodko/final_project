@@ -28,7 +28,19 @@
 .priceContainer {
     display: flex;
     margin-top: 18px;
-    justify-content: space-between;
+    gap: 20px;
+    align-items: center;
+}
+
+.deleteBtn {
+    font-family: 'Inter';
+    font-style: normal;
+    width: 63px;
+    height: 28px;
+    background: #FF7010;
+    border-radius: 6px;
+    color: #F0F0F0;
+    border: none;
 }
 
 .title {
@@ -67,7 +79,7 @@
 
 .titleContainer {
     width: 238px;
-    height: 94px;
+    height: 114px;
 }
 
 .downContainer {
@@ -111,6 +123,31 @@
     position: absolute;
 }
 
-// .container {
-//     overflow: scroll;
-// }
+.addContainer {
+    background: #FFEEE2;
+    border-radius: 6px;
+    width: 92px;
+    height: 36px;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+        div {
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 600;
+            font-size: 16px;
+            line-height: 20px;
+            color: #FF7010;
+        }
+        button {
+            border: none;
+            background-color: #FFEEE2;
+            color: #FF7010;
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 600;
+            font-size: 20px;
+            line-height: 20px;
+        }
+}

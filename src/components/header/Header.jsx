@@ -7,7 +7,7 @@ import { BasketWindow } from "../basketWindow/BasketWindow";
 
 
 export const Header = ({
-    basket, getSum
+    basket, getSum, setBasket,
 }) => {
 
 
@@ -44,12 +44,10 @@ export const Header = ({
                 <div>Другое</div>
             </div>
             <div className={styles.basketPosition}>
-                {/* <BasketComponent
-                getSum={getSum()}
-                /> */}
                 <BasketWindow 
                     getSum={getSum}
                     basket={basket}
+                    setBasket={setBasket}
                 />
             </div>
         </div>

@@ -60,7 +60,7 @@ import comb4 from '../images/comb4.webp'
 
 
 
-
+export const promoCodes = ['pizza228', 'ананасыЗло', 'хочуПиццы']
 
 
 
@@ -72,6 +72,7 @@ export const Api = [
         "category": "pizza",
         "type": "meat",
         "image": p1,
+        "id": 1,
     },
     {
         "name": "EASY PEASY огуречный расколбас",
@@ -80,6 +81,7 @@ export const Api = [
         "category": "pizza",
         "type": "meat",
         "image": p2,
+        "id": 2,
     },
 
     {
@@ -89,6 +91,7 @@ export const Api = [
         "category": "pizza",
         "type": "meat",
         "image": p3,
+        "id": 3,
     },
 
     {
@@ -98,6 +101,7 @@ export const Api = [
         "category": "pizza",
         "type": "meat",
         "image": p4,
+        "id": 4,
     },
 
     {
@@ -107,6 +111,7 @@ export const Api = [
         "category": "pizza",
         "type": "meat",
         "image": p5,
+        "id": 5,
     },
 
     {
@@ -116,6 +121,7 @@ export const Api = [
         "category": "pizza",
         "type": "meat",
         "image": p6,
+        "id": 6,
     },
 
     {
@@ -125,6 +131,7 @@ export const Api = [
         "category": "pizza",
         "type": "meat",
         "image": p7,
+        "id": 7,
     },
 
     {
@@ -134,6 +141,7 @@ export const Api = [
         "category": "pizza",
         "type": "meat",
         "image": p8,
+        "id": 8,
     },
 
     {
@@ -143,6 +151,7 @@ export const Api = [
         "category": "sushi",
         "type": "fish",
         "image": s1,
+        "id": 9,
     },
 
     {
@@ -152,6 +161,7 @@ export const Api = [
         "category": "sushi",
         "type": "fish",
         "image": s2,
+        "id": 10,
     },
 
     {
@@ -161,6 +171,7 @@ export const Api = [
         "category": "sushi",
         "type": "fish",
         "image": s3,
+        "id": 11,
     },
 
     {
@@ -170,6 +181,7 @@ export const Api = [
         "category": "sushi",
         "type": "fish",
         "image": s4,
+        "id": 12,
     },
 
     {
@@ -179,6 +191,7 @@ export const Api = [
         "category": "sushi",
         "type": "fish",
         "image": s5,
+        "id": 13,
     },
 
     {
@@ -188,6 +201,7 @@ export const Api = [
         "category": "sushi",
         "type": "fish",
         "image": s6,
+        "id": 14,
     },
 
     {
@@ -197,6 +211,7 @@ export const Api = [
         "category": "sushi",
         "type": "fish",
         "image": s7,
+        "id": 15,
     },
 
     {
@@ -206,6 +221,7 @@ export const Api = [
         "category": "sushi",
         "type": "fish",
         "image": s8,
+        "id": 16,
     },
 
     {
@@ -215,6 +231,7 @@ export const Api = [
         "category": "snack",
         "type": "other",
         "image": sn1,
+        "id": 17,
     },
     
     {
@@ -224,6 +241,7 @@ export const Api = [
         "category": "snack",
         "type": "other",
         "image": sn2,
+        "id": 18,
     },
 
     {
@@ -233,6 +251,7 @@ export const Api = [
         "category": "snack",
         "type": "other",
         "image": sn3,
+        "id": 19,
     },
 
     {
@@ -242,6 +261,7 @@ export const Api = [
         "category": "snack",
         "type": "other",
         "image": sn4,
+        "id": 20,
     },
 
     {
@@ -251,6 +271,7 @@ export const Api = [
         "category": "snack",
         "type": "other",
         "image": sn5,
+        "id": 21,
     },
 
     {
@@ -260,6 +281,7 @@ export const Api = [
         "category": "snack",
         "type": "other",
         "image": sn6,
+        "id": 22,
     },
 
     {
@@ -269,6 +291,7 @@ export const Api = [
         "category": "snack",
         "type": "other",
         "image": sn7,
+        "id": 23,
     },
 
     {
@@ -278,6 +301,7 @@ export const Api = [
         "category": "snack",
         "type": "other",
         "image": sn8,
+        "id": 24,
     },
 
     {
@@ -287,6 +311,7 @@ export const Api = [
         "category": "desserts",
         "type": "other",
         "image": d1,
+        "id": 25,
     },
 
     {
@@ -296,6 +321,7 @@ export const Api = [
         "category": "desserts",
         "type": "other",
         "image": d2,
+        "id": 26,
     },
 
     {
@@ -305,6 +331,7 @@ export const Api = [
         "category": "desserts",
         "type": "other",
         "image": d3,
+        "id": 27,
     },
 
     {
@@ -314,6 +341,7 @@ export const Api = [
         "category": "desserts",
         "type": "other",
         "image": d4,
+        "id": 28,
     },
 
     {
@@ -323,6 +351,7 @@ export const Api = [
         "category": "desserts",
         "type": "other",
         "image": d5,
+        "id": 29,
     },
 
     {
@@ -332,6 +361,7 @@ export const Api = [
         "category": "desserts",
         "type": "other",
         "image": d6,
+        "id": 30,
     },
 
     {
@@ -341,6 +371,7 @@ export const Api = [
         "category": "desserts",
         "type": "other",
         "image": d7,
+        "id": 31,
     },
 
     {
@@ -350,6 +381,7 @@ export const Api = [
         "category": "desserts",
         "type": "other",
         "image": d8,
+        "id": 32,
     },
 
     {
@@ -359,6 +391,7 @@ export const Api = [
         "category": "drinks",
         "type": "other",
         "image": dr1,
+        "id": 33,
     },
 
     {
@@ -368,6 +401,7 @@ export const Api = [
         "category": "drinks",
         "type": "other",
         "image": dr2,
+        "id": 34,
     },
 
     {
@@ -377,6 +411,7 @@ export const Api = [
         "category": "drinks",
         "type": "other",
         "image": dr3,
+        "id": 35,
     },
 
     {
@@ -386,6 +421,7 @@ export const Api = [
         "category": "drinks",
         "type": "other",
         "image": dr4,
+        "id": 36,
     },
 
     {
@@ -395,6 +431,7 @@ export const Api = [
         "category": "drinks",
         "type": "other",
         "image": dr5,
+        "id": 37,
     },
 
     {
@@ -404,6 +441,7 @@ export const Api = [
         "category": "drinks",
         "type": "other",
         "image": dr6,
+        "id": 38,
     },
 
     {
@@ -413,6 +451,7 @@ export const Api = [
         "category": "drinks",
         "type": "other",
         "image": dr7,
+        "id": 39,
     },
 
     {
@@ -422,6 +461,7 @@ export const Api = [
         "category": "drinks",
         "type": "other",
         "image": dr8,
+        "id": 40,
     },
 
     {
@@ -431,6 +471,7 @@ export const Api = [
         "category": "sauce",
         "type": "other",
         "image": so1,
+        "id": 41,
     },
 
     {
@@ -440,6 +481,7 @@ export const Api = [
         "category": "sauce",
         "type": "other",
         "image": so2,
+        "id": 42,
     },
 
     {
@@ -449,6 +491,7 @@ export const Api = [
         "category": "sauce",
         "type": "other",
         "image": so3,
+        "id": 43,
     },
 
     {
@@ -458,6 +501,7 @@ export const Api = [
         "category": "sauce",
         "type": "other",
         "image": so4,
+        "id": 44,
     },
 
     {
@@ -467,6 +511,7 @@ export const Api = [
         "category": "sauce",
         "type": "other",
         "image": so5,
+        "id": 45,
     },
 
     {
@@ -476,6 +521,7 @@ export const Api = [
         "category": "sauce",
         "type": "other",
         "image": so6,
+        "id": 46,
     },
 
     {
@@ -485,6 +531,7 @@ export const Api = [
         "category": "sauce",
         "type": "other",
         "image": so7,
+        "id": 47,
     },
 
     {
@@ -494,6 +541,7 @@ export const Api = [
         "category": "sauce",
         "type": "other",
         "image": so8,
+        "id": 48,
     },
 
     {
@@ -503,6 +551,7 @@ export const Api = [
         "category": "combo",
         "type": "other",
         "image": comb1,
+        "id": 49,
     },
 
     {
@@ -512,6 +561,7 @@ export const Api = [
         "category": "combo",
         "type": "other",
         "image": comb2,
+        "id": 50,
     },
 
     {
@@ -521,6 +571,7 @@ export const Api = [
         "category": "combo",
         "type": "other",
         "image": comb3,
+        "id": 51,
     },
 
     {
@@ -530,6 +581,7 @@ export const Api = [
         "category": "combo",
         "type": "other",
         "image": comb4,
+        "id": 52,
     },
 
 ]

@@ -5,21 +5,35 @@ import { Main } from "./components/main/Main";
 import { Routes, Route } from "react-router-dom";
 import { BasketPage } from "./components/basketPage/BasketPage";
 import { AdoptedPage } from "./components/adoptedPage/AdoptedPage";
+import { promoCodes } from "./constants/Constants";
 
 
 
 export const App = function () {
   const [products, setProducts] = useState([]);
   const [basket, setBasket] = useState([]);
-
-
-console.log(basket, 'app')
+  const [promo, setPromo] = useState('')
+  
+  const addedBasket = el => setBasket(state => [...state, el])
+  
+  const condition = (promoItem) => {
+    return (
+      promoItem === promo
+    )
+  }
 
   const getSum = () => {
-        return basket.reduce((acc, el) => {
-            return acc + Number(el.price)
-        }, 0)
+    if(promoCodes.find(condition)){
+      return basket.reduce((acc, el) => {
+        return acc + Math.round(Number(el.price - (el.price * 0.1)))
+    }, 0)
+    }else {
+      return basket.reduce((acc, el) => {
+        return acc + Math.round(Number(el.price))
+    }, 0)
     }
+    }
+        
 
 
   return (
@@ -30,11 +44,13 @@ console.log(basket, 'app')
           <Header 
             basket={basket}
             getSum={getSum()}
+            setBasket={setBasket}
           />
           <Main 
             products={products}
             setProducts={setProducts}
             setBasket={setBasket}
+            addedBasket={addedBasket}
           />
         </div> 
       }/>
@@ -43,6 +59,10 @@ console.log(basket, 'app')
         basket={basket}
         getSum={getSum()}
         products={products}
+        addedBasket={addedBasket}
+        setBasket={setBasket}
+        promo={promo}
+        setPromo={setPromo}
         />
       }/>
       <Route path="/adopted" element={

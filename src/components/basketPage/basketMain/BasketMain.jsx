@@ -7,10 +7,8 @@ import { MySlider } from "./slider/Slider";
 import { SliderSouce } from "./slider/sliderSouce/SliderSouce";
 
 export const BasketMain = ({
-    basket, getSum, products
+    basket, getSum, products, addedBasket, setBasket, promo, setPromo
 }) => {
-
-    const [basketPrice, setBasketPrice] = useState(getSum);
 
     return (
         <div>
@@ -18,13 +16,16 @@ export const BasketMain = ({
             <div className={styles.BasketProductInfo}>
                 <BasketProductInfo 
                 basket={basket}
+                setBasket={setBasket}
                 />
             </div>
             <div className={styles.promo}>
                 <Promo 
                 getSum={getSum}
-                setBasketPrice={setBasketPrice}
-                basketPrice={basketPrice}
+                basket={basket}
+                setBasket={setBasket}
+                promo={promo}
+                setPromo={setPromo}
                 />
             </div>
             
@@ -34,6 +35,8 @@ export const BasketMain = ({
                 </div>
                 <MySlider 
                 products={products}
+                setBasket={setBasket}
+                addedBasket={addedBasket}
                 />
                     
             </div>
@@ -41,14 +44,16 @@ export const BasketMain = ({
             <div className={styles.sliderContainer}>
                 <SliderSouce 
                 products={products}
+                setBasket={setBasket}
+                addedBasket={addedBasket}
                 />
             </div>
             <div className={styles.formContainer}>
                 <div>
                     <AboutUsForm 
                     getSum={getSum}
-                    basketPrice={basketPrice}
                     basket={basket}
+                    setBasket={setBasket}
                     />
                 </div>
             </div>

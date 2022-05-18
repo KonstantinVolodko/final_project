@@ -25,7 +25,7 @@ function SamplePrevArrow(props) {
 
 
 export const MySlider = ({
-    products
+    products, setBasket, addedBasket
 }) => {
     const settings = {
         dots: false,
@@ -55,7 +55,7 @@ export const MySlider = ({
                                         <div className={styles.description}>
                                             {el.description}
                                         </div>
-                                        <button className={styles.btnPrice}>
+                                        <button onClick={() => addedBasket(el)} className={styles.btnPrice}>
                                             {el.price} ₽
                                         </button>
                                     </div>

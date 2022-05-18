@@ -1,4 +1,4 @@
-import * as React from 'react';
+import React from 'react';
 import Box from '@mui/material/Box';
 import SwipeableDrawer from '@mui/material/SwipeableDrawer';
 import styles from "./BasketWindow.module.scss"
@@ -6,7 +6,7 @@ import basketIco from "../../icons/basketIco.svg"
 import { BasketWindowContainer } from './basketWindowContainer/BasketWindowContainer';
 
 export const BasketWindow = ({
-    getSum, basket
+    getSum, basket, setBasket
 }) => {
   const [state, setState] = React.useState({
     right: false,
@@ -54,6 +54,7 @@ export const BasketWindow = ({
             <BasketWindowContainer 
                 basket={basket}
                 getSum={getSum}
+                setBasket={setBasket}
             />
           </SwipeableDrawer>
         </React.Fragment>

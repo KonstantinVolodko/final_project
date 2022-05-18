@@ -5,7 +5,7 @@ import filterIco from "../../icons/filterIco.svg"
 import { ProductInfoOther } from "../productInfo/productInfoOther/ProductInfoOther";
 
 export const ProductsContainer = ({
-    products, setBasket, addedBasket
+    products, addedBasket, setProducts
 }) => {
     return (
         <div>
@@ -27,6 +27,9 @@ export const ProductsContainer = ({
                             description={el.description}
                             price={el.price}
                             setBasket={() => addedBasket(el)}
+                            setProducts={setProducts}
+                            products={products}
+                            id={el.id}
                             />
                         )
                     }

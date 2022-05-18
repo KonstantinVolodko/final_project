@@ -4,7 +4,7 @@ import { BasicModal } from "../basicModal/BasicModal";
 import styles from "./ProductInfo.module.scss"
 
 export const ProductInfo = ({
-    img, name, description, price, setBasket,
+    img, name, description, price, setBasket, setProducts, products, id
 }) => {
     return(
         <div className={styles.mainContainer}>
@@ -19,6 +19,8 @@ export const ProductInfo = ({
                     description={description}
                     price={price}
                     setBasket={setBasket}
+                    setProducts={setProducts}
+                    products={products}
                     />
                     <div className={styles.price}>от {price} ₽</div>
                 </div>

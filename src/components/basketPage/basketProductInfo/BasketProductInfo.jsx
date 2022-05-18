@@ -2,8 +2,14 @@ import React from "react";
 import styles from "./BasketProductInfo.module.scss"
 
 export const BasketProductInfo = ({
-    basket
+    basket, setBasket
 }) => {
+
+    // const onDelete = (el) => {
+    //     const newItemsBasket = basket.filter(e => e.id !== id)
+    //     setBasket(newItemsBasket)
+    //   }
+
     return (
         <div className={styles.container}>
             {
@@ -21,6 +27,7 @@ export const BasketProductInfo = ({
                         </div>
                         <div className={styles.buttonContainer}>
                             <button>+-</button>
+                            <button className={styles.deleteBtn} onClick={() => setBasket(basket.filter(e => e.id !== el.id))}>delete</button>
                             <div className={styles.price}>{el.price} ₽</div>
                         </div>
                         </div>
