@@ -6,15 +6,20 @@ import { Routes, Route } from "react-router-dom";
 import { BasketPage } from "./components/basketPage/BasketPage";
 import { AdoptedPage } from "./components/adoptedPage/AdoptedPage";
 import { promoCodes } from "./constants/Constants";
+import { Api } from "./constants/Constants";
+import { LicencePage } from "./components/licencePage/LicencePage";
+import { AboutCompany } from "./components/aboutCompany/AboutCompany";
 
 
 
 export const App = function () {
-  const [products, setProducts] = useState([]);
+  const [products, setProducts] = useState(Api);
   const [basket, setBasket] = useState([]);
   const [promo, setPromo] = useState('')
   
   const addedBasket = el => setBasket(state => [...state, el])
+
+  
   
   const condition = (promoItem) => {
     return (
@@ -70,8 +75,20 @@ export const App = function () {
         basket={basket}
         getSum={getSum()}
         />
-      }
-      />
+      }/>
+      <Route path="/licence" element={
+        <LicencePage 
+        getSum={getSum()}
+        basket={basket}
+        />
+      }/>
+      <Route path="/aboutCompany" element={
+        <AboutCompany 
+        getSum={getSum()}
+        basket={basket}
+        />
+      }/>
+
       </Routes>
     </div>
   );

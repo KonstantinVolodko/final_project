@@ -1,12 +1,12 @@
 import React from 'react';
 import Box from '@mui/material/Box';
 import SwipeableDrawer from '@mui/material/SwipeableDrawer';
-import styles from "./BasketWindow.module.scss"
-import basketIco from "../../icons/basketIco.svg"
-import { BasketWindowContainer } from './basketWindowContainer/BasketWindowContainer';
+import styles from "./FilterWindow.module.scss"
+import filterIco from "../../../icons/filterIco.svg"
+import { FilterWindowContainer } from './filterWindowContainer/FilterWindowContainer';
 
-export const BasketWindow = ({
-    getSum, basket, setBasket
+export const FilterWindow = ({
+    filter, products
 }) => {
   const [state, setState] = React.useState({
     right: false,
@@ -38,9 +38,9 @@ export const BasketWindow = ({
     <div>
       {['right'].map((anchor) => (
         <React.Fragment key={anchor}>
-            <button onClick={toggleDrawer(anchor, true)} className={styles.basket}>
-                <img className={styles.basketIco} src={basketIco} alt="#" />
-                <div className={styles.basketTitle}>{getSum} ₽</div>
+            <button onClick={toggleDrawer(anchor, true)} className={styles.btnFilter}>
+                    <img src={filterIco} alt="#" />
+                    <span>Фильтры</span>
             </button>
             
           
@@ -51,12 +51,10 @@ export const BasketWindow = ({
             onOpen={toggleDrawer(anchor, true)}
           >
             {list(anchor)}
-            <BasketWindowContainer 
-                basket={basket}
-                getSum={getSum}
-                setBasket={setBasket}
+            <FilterWindowContainer 
+            filter={filter}
+            products={products}
             />
-            
           </SwipeableDrawer>
         </React.Fragment>
       ))}

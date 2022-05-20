@@ -9,7 +9,7 @@ export const AdoptedPage = ({
 }) => {
 
     return (
-        <div>
+        <div className={styles.adopted}>
             <div>
                 <AdoptedHeader 
                 getSum={getSum}

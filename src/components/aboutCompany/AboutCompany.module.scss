@@ -1,0 +1,178 @@
+h1 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 31px;
+    line-height: 40px;
+    letter-spacing: 0.02em;
+    color: #191919;
+    margin-bottom: 40px;
+}
+
+p {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 22px;
+    color: #191919;
+    width: 900px;
+}
+
+.contentContainer {
+    margin-top: 50px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.firstContainer {
+    background-image: url(../../images/avatar1.png);
+    background-repeat: no-repeat;
+    height: 500px;
+    background-position: right;
+        p {
+            width: 700px;
+        }
+}
+
+.secondContainer {
+    margin-top: 30px;
+    background-image: url(../../images/avatar2.png);
+    background-repeat: no-repeat;
+    background-size: 470px;
+    background-position-x: right;
+    background-position-y: bottom;
+        p {
+            width: 1000px;
+        }
+}
+
+
+
+.block {
+    width: 430px;
+    height: 215px;
+    border-radius: 10px;
+    background-color: rgb(253, 242, 232);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-left: 30px;
+        .blockText {
+            font-size: 19px;
+            font-weight: 500;
+            font-family: "Open Sans";
+
+        }
+        .blockTitle{
+            font-size: 32px;
+            font-weight: 600;
+            font-family: "Inter";
+            color: rgb(236, 94, 36)
+        }
+    
+}
+
+.blockContainer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-top: 30px;
+}
+
+.thirdContainer {
+    margin-top: 100px;
+    img {
+        width: 900px;
+    }
+}
+
+
+.diagrammaContainer {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.thirdContainer {
+    background-image: url(../../images/avatar3.png);
+    background-repeat: no-repeat;
+    background-size: 500px;
+    background-position-x: right;
+    background-position-y: bottom;
+    background-size: 500px;
+
+}
+
+
+.fourContainer {
+    margin-top: 40px;
+    background-image: url(../../images/avatar4.png);
+    background-position-x: right;
+    background-position-y: bottom;
+    background-size: 500px;
+    background-repeat: no-repeat;
+    img {
+        width: 900px;
+    }
+    .washContainer {
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
+}
+
+
+.fiveContainer {
+    margin-top: 80px;
+    background-image: url(../../images/avatar5.png);
+    background-position-x: right;
+    background-position-y: bottom;
+    background-size: 480px;
+    background-repeat: no-repeat;
+
+    .bigBlock {
+        width: 900px;
+        height: 330px;
+        border-radius: 10px;
+        background-color: rgb(253, 242, 232);
+        margin-top: 30px;
+        padding-left: 40px;
+        padding-top: 20px;
+        .helperBlock {
+            display: flex;
+            margin-top: 20px;
+        }
+        .bigBlockTitle {
+                font-size: 28px;
+                font-weight: 500;
+                font-family: "Inter";
+                color: #ec5e24;
+        }
+        .helperTitle {
+                font-size: 20px;
+                font-weight: 600;
+                font-family: "Inter";
+                color: #ec5e24;
+                display: flex;
+                flex-direction: column;
+                gap: 20px;
+                margin-right: 20px;
+                
+        }
+        .helperText {
+            font-size: 20px;
+            font-weight: 600;
+            font-family: "Open Sans";
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+        .webCamera {
+            margin-top: 30px;
+        }
+    }
+}
+
+.finalText {
+    margin-top: 30px;
+}

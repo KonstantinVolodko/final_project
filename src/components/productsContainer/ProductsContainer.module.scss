@@ -28,7 +28,7 @@
     width: 126px;
     height: 40px;
     display: flex;
-    font-family: 'SF Pro Text';
+    font-family: 'Open Sans';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -59,4 +59,20 @@
     font-size: 40px;
     line-height: 48px;
     margin-left: 155px;
+}
+
+.search {
+    width: 500px;
+    height: 40px;
+    padding-left: 15px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    border: 1px solid #F0F0F0;
+    border-radius: 6px;
+    background: #FFFFFF;
+    outline: none;
+    color: #191919;
 }

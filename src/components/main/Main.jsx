@@ -16,20 +16,13 @@ export const Main = ({
 
     
     
-    const getData = () => {
-        if(!localStorage.getItem('products')){
-            localStorage.setItem('products', JSON.stringify(Api))
-        }else {
-            setProducts(JSON.parse(localStorage.getItem('products')))
-        }
-    }
-
-    useEffect(() => {
-        const timer = setTimeout(() => {
-          setProducts(Api)
-        }, 1000);
-        return () => clearTimeout(timer);
-      }, []);
+    // const getData = () => {
+    //     if(!localStorage.getItem('products')){
+    //         localStorage.setItem('products', JSON.stringify(Api))
+    //     }else {
+    //         setProducts(JSON.parse(localStorage.getItem('products')))
+    //     }
+    // }
 
 
     

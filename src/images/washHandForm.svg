@@ -1,0 +1,2237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1000 555.9" style="enable-background:new 0 0 1000 555.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);fill:#FFFFFF;}
+	.st1{clip-path:url(#SVGID_2_);}
+	.st2{fill:#FF6900;}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:#FF6923;}
+	.st5{fill:#221E1F;}
+	.st6{fill:none;stroke:#221E1F;stroke-width:1.4709;stroke-miterlimit:10;}
+	.st7{fill:none;stroke:#221E1F;stroke-width:1.355;stroke-miterlimit:10;}
+	.st8{fill:none;stroke:#221E1F;stroke-width:1.3421;stroke-miterlimit:10;}
+	.st9{clip-path:url(#SVGID_4_);fill:#FFFFFF;}
+	.st10{clip-path:url(#SVGID_4_);}
+	.st11{fill:none;stroke:#221E1F;stroke-width:1.8232;stroke-miterlimit:10;}
+	.st12{fill:none;stroke:#221E1F;stroke-width:1.6795;stroke-miterlimit:10;}
+	.st13{fill:none;stroke:#221E1F;stroke-width:1.6636;stroke-miterlimit:10;}
+	.st14{clip-path:url(#SVGID_6_);}
+	.st15{clip-path:url(#SVGID_8_);fill:#FFFFFF;}
+	.st16{clip-path:url(#SVGID_8_);}
+	.st17{fill:none;stroke:#221E1F;stroke-width:0.7204;stroke-miterlimit:10;}
+	.st18{fill:none;stroke:#221E1F;stroke-width:0.6636;stroke-miterlimit:10;}
+	.st19{fill:none;stroke:#221E1F;stroke-width:0.6573;stroke-miterlimit:10;}
+	.st20{clip-path:url(#SVGID_10_);}
+	.st21{clip-path:url(#SVGID_12_);fill:#FFFFFF;}
+	.st22{clip-path:url(#SVGID_12_);}
+	.st23{clip-path:url(#SVGID_14_);}
+	.st24{clip-path:url(#SVGID_16_);}
+	.st25{fill:#FFEDDC;}
+	.st26{clip-path:url(#SVGID_18_);fill:#FF6900;}
+	.st27{clip-path:url(#SVGID_18_);fill:none;}
+	.st28{clip-path:url(#SVGID_18_);}
+	.st29{clip-path:url(#SVGID_18_);fill:none;stroke:#221E1F;stroke-width:0.6958;stroke-miterlimit:10;}
+	.st30{clip-path:url(#SVGID_18_);fill:#FFFFFF;}
+	.st31{fill:none;stroke:#221E1F;stroke-width:0.7724;stroke-miterlimit:10;}
+	.st32{fill:none;stroke:#221E1F;stroke-width:0.8175;stroke-miterlimit:10;}
+	.st33{fill:none;stroke:#221E1F;stroke-width:0.7459;stroke-miterlimit:10;}
+	.st34{opacity:0.3;}
+	.st35{fill:#231F20;}
+	.st36{clip-path:url(#SVGID_20_);fill:#FFFFFF;}
+	.st37{clip-path:url(#SVGID_20_);fill:#FF6900;}
+	.st38{clip-path:url(#SVGID_20_);fill:none;}
+	.st39{clip-path:url(#SVGID_20_);}
+	.st40{clip-path:url(#SVGID_20_);fill:none;stroke:#221E1F;stroke-width:0.6958;stroke-miterlimit:10;}
+	.st41{clip-path:url(#SVGID_22_);fill:#FFFFFF;}
+	.st42{clip-path:url(#SVGID_22_);fill:#FF6900;}
+	.st43{clip-path:url(#SVGID_22_);fill:none;}
+	.st44{clip-path:url(#SVGID_22_);}
+	.st45{clip-path:url(#SVGID_22_);fill:none;stroke:#221E1F;stroke-width:0.6958;stroke-miterlimit:10;}
+	.st46{clip-path:url(#SVGID_24_);fill:#FF6900;}
+	.st47{clip-path:url(#SVGID_24_);fill:none;}
+	.st48{clip-path:url(#SVGID_24_);}
+	.st49{clip-path:url(#SVGID_24_);fill:none;stroke:#221E1F;stroke-width:0.6958;stroke-miterlimit:10;}
+	.st50{clip-path:url(#SVGID_24_);fill:#FFFFFF;}
+	.st51{clip-path:url(#SVGID_26_);fill:#FFFFFF;}
+	.st52{clip-path:url(#SVGID_26_);fill:#FF6900;}
+	.st53{clip-path:url(#SVGID_26_);}
+	.st54{clip-path:url(#SVGID_28_);}
+	.st55{clip-path:url(#SVGID_30_);}
+	.st56{clip-path:url(#SVGID_32_);}
+	.st57{clip-path:url(#SVGID_34_);}
+	.st58{clip-path:url(#SVGID_36_);}
+	.st59{clip-path:url(#SVGID_38_);}
+	.st60{clip-path:url(#SVGID_40_);}
+	.st61{clip-path:url(#SVGID_42_);}
+	.st62{clip-path:url(#SVGID_44_);}
+	.st63{clip-path:url(#SVGID_46_);}
+	.st64{clip-path:url(#SVGID_50_);}
+	.st65{clip-path:url(#SVGID_52_);}
+	.st66{clip-path:url(#SVGID_54_);}
+	.st67{clip-path:url(#SVGID_56_);}
+	.st68{clip-path:url(#SVGID_58_);}
+	.st69{clip-path:url(#SVGID_60_);}
+	.st70{clip-path:url(#SVGID_62_);}
+	.st71{clip-path:url(#SVGID_64_);}
+	.st72{clip-path:url(#SVGID_66_);}
+	.st73{clip-path:url(#SVGID_68_);}
+	.st74{clip-path:url(#SVGID_70_);}
+	.st75{clip-path:url(#SVGID_72_);}
+	.st76{clip-path:url(#SVGID_74_);}
+	.st77{clip-path:url(#SVGID_76_);}
+	.st78{clip-path:url(#SVGID_78_);}
+	.st79{clip-path:url(#SVGID_80_);}
+	.st80{clip-path:url(#SVGID_82_);}
+	.st81{clip-path:url(#SVGID_84_);}
+	.st82{clip-path:url(#SVGID_86_);}
+	.st83{clip-path:url(#SVGID_88_);}
+	.st84{clip-path:url(#SVGID_90_);}
+	.st85{clip-path:url(#SVGID_92_);}
+	.st86{clip-path:url(#SVGID_94_);}
+	.st87{clip-path:url(#SVGID_96_);}
+	.st88{clip-path:url(#SVGID_98_);}
+	.st89{clip-path:url(#SVGID_100_);}
+	.st90{clip-path:url(#SVGID_102_);}
+	.st91{clip-path:url(#SVGID_104_);}
+	.st92{clip-path:url(#SVGID_106_);}
+	.st93{clip-path:url(#SVGID_108_);}
+	.st94{clip-path:url(#SVGID_110_);}
+	.st95{clip-path:url(#SVGID_112_);}
+	.st96{clip-path:url(#SVGID_114_);}
+	.st97{clip-path:url(#SVGID_116_);}
+	.st98{clip-path:url(#SVGID_118_);}
+	.st99{clip-path:url(#SVGID_120_);}
+	.st100{clip-path:url(#SVGID_122_);}
+	.st101{clip-path:url(#SVGID_124_);}
+	.st102{clip-path:url(#SVGID_126_);}
+	.st103{clip-path:url(#SVGID_128_);}
+	.st104{clip-path:url(#SVGID_130_);}
+	.st105{clip-path:url(#SVGID_132_);}
+	.st106{clip-path:url(#SVGID_134_);}
+	.st107{clip-path:url(#SVGID_136_);}
+	.st108{clip-path:url(#SVGID_138_);}
+	.st109{clip-path:url(#SVGID_140_);}
+	.st110{clip-path:url(#SVGID_142_);}
+	.st111{clip-path:url(#SVGID_144_);}
+	.st112{clip-path:url(#SVGID_146_);}
+	.st113{clip-path:url(#SVGID_148_);}
+	.st114{clip-path:url(#SVGID_150_);}
+	.st115{clip-path:url(#SVGID_152_);}
+	.st116{clip-path:url(#SVGID_154_);}
+	.st117{clip-path:url(#SVGID_156_);}
+	.st118{clip-path:url(#SVGID_158_);}
+	.st119{clip-path:url(#SVGID_160_);}
+	.st120{clip-path:url(#SVGID_162_);}
+	.st121{clip-path:url(#SVGID_164_);}
+	.st122{clip-path:url(#SVGID_166_);}
+	.st123{clip-path:url(#SVGID_168_);}
+	.st124{clip-path:url(#SVGID_170_);}
+	.st125{clip-path:url(#SVGID_172_);}
+	.st126{clip-path:url(#SVGID_174_);}
+	.st127{clip-path:url(#SVGID_176_);}
+	.st128{clip-path:url(#SVGID_178_);}
+	.st129{clip-path:url(#SVGID_180_);}
+	.st130{clip-path:url(#SVGID_182_);}
+	.st131{clip-path:url(#SVGID_184_);}
+	.st132{clip-path:url(#SVGID_186_);}
+	.st133{clip-path:url(#SVGID_188_);}
+	.st134{clip-path:url(#SVGID_190_);}
+	.st135{clip-path:url(#SVGID_192_);}
+	.st136{clip-path:url(#SVGID_194_);}
+	.st137{clip-path:url(#SVGID_196_);}
+	.st138{clip-path:url(#SVGID_198_);}
+	.st139{clip-path:url(#SVGID_200_);}
+	.st140{clip-path:url(#SVGID_202_);}
+	.st141{clip-path:url(#SVGID_204_);}
+	.st142{clip-path:url(#SVGID_206_);}
+	.st143{clip-path:url(#SVGID_208_);}
+	.st144{clip-path:url(#SVGID_210_);}
+	.st145{clip-path:url(#SVGID_212_);}
+	.st146{clip-path:url(#SVGID_214_);}
+	.st147{clip-path:url(#SVGID_216_);}
+	.st148{clip-path:url(#SVGID_218_);}
+	.st149{clip-path:url(#SVGID_220_);}
+	.st150{clip-path:url(#SVGID_222_);}
+	.st151{clip-path:url(#SVGID_224_);}
+	.st152{clip-path:url(#SVGID_226_);}
+	.st153{clip-path:url(#SVGID_228_);}
+	.st154{clip-path:url(#SVGID_230_);}
+	.st155{clip-path:url(#SVGID_232_);}
+	.st156{clip-path:url(#SVGID_234_);}
+	.st157{clip-path:url(#SVGID_236_);}
+	.st158{clip-path:url(#SVGID_238_);}
+	.st159{clip-path:url(#SVGID_240_);}
+	.st160{clip-path:url(#SVGID_242_);}
+	.st161{clip-path:url(#SVGID_244_);}
+	.st162{clip-path:url(#SVGID_246_);}
+	.st163{clip-path:url(#SVGID_248_);}
+	.st164{clip-path:url(#SVGID_250_);}
+	.st165{clip-path:url(#SVGID_252_);}
+	.st166{clip-path:url(#SVGID_254_);}
+	.st167{clip-path:url(#SVGID_256_);}
+	.st168{clip-path:url(#SVGID_258_);}
+	.st169{clip-path:url(#SVGID_260_);}
+	.st170{clip-path:url(#SVGID_262_);}
+	.st171{clip-path:url(#SVGID_264_);}
+	.st172{clip-path:url(#SVGID_266_);}
+	.st173{clip-path:url(#SVGID_268_);}
+	.st174{clip-path:url(#SVGID_270_);}
+	.st175{clip-path:url(#SVGID_272_);}
+	.st176{clip-path:url(#SVGID_274_);}
+	.st177{clip-path:url(#SVGID_276_);}
+	.st178{clip-path:url(#SVGID_278_);}
+	.st179{clip-path:url(#SVGID_280_);}
+	.st180{clip-path:url(#SVGID_282_);}
+	.st181{clip-path:url(#SVGID_284_);}
+	.st182{clip-path:url(#SVGID_286_);}
+	.st183{clip-path:url(#SVGID_288_);}
+	.st184{clip-path:url(#SVGID_290_);}
+	.st185{clip-path:url(#SVGID_292_);}
+	.st186{clip-path:url(#SVGID_294_);}
+	.st187{clip-path:url(#SVGID_296_);}
+	.st188{clip-path:url(#SVGID_298_);}
+	.st189{clip-path:url(#SVGID_300_);}
+	.st190{clip-path:url(#SVGID_302_);}
+	.st191{clip-path:url(#SVGID_304_);}
+	.st192{clip-path:url(#SVGID_306_);}
+	.st193{clip-path:url(#SVGID_308_);}
+	.st194{clip-path:url(#SVGID_310_);}
+	.st195{clip-path:url(#SVGID_312_);}
+	.st196{clip-path:url(#SVGID_314_);}
+	.st197{clip-path:url(#SVGID_316_);}
+	.st198{clip-path:url(#SVGID_318_);}
+	.st199{clip-path:url(#SVGID_320_);}
+	.st200{clip-path:url(#SVGID_322_);}
+	.st201{clip-path:url(#SVGID_324_);}
+	.st202{clip-path:url(#SVGID_326_);}
+	.st203{clip-path:url(#SVGID_328_);}
+	.st204{clip-path:url(#SVGID_330_);}
+	.st205{clip-path:url(#SVGID_332_);}
+	.st206{clip-path:url(#SVGID_334_);}
+	.st207{clip-path:url(#SVGID_336_);}
+	.st208{clip-path:url(#SVGID_784_);}
+	.st209{clip-path:url(#SVGID_786_);}
+	.st210{clip-path:url(#SVGID_788_);}
+	.st211{clip-path:url(#SVGID_790_);}
+	.st212{clip-path:url(#SVGID_792_);}
+	.st213{clip-path:url(#SVGID_794_);}
+	.st214{clip-path:url(#SVGID_796_);}
+	.st215{clip-path:url(#SVGID_798_);}
+	.st216{clip-path:url(#SVGID_800_);}
+	.st217{clip-path:url(#SVGID_802_);}
+	.st218{clip-path:url(#SVGID_804_);}
+	.st219{clip-path:url(#SVGID_806_);}
+	.st220{clip-path:url(#SVGID_808_);}
+	.st221{clip-path:url(#SVGID_810_);}
+	.st222{clip-path:url(#SVGID_812_);}
+	.st223{clip-path:url(#SVGID_814_);}
+	.st224{clip-path:url(#SVGID_816_);}
+	.st225{clip-path:url(#SVGID_818_);}
+	.st226{clip-path:url(#SVGID_820_);}
+	.st227{clip-path:url(#SVGID_822_);}
+	.st228{clip-path:url(#SVGID_824_);}
+	.st229{clip-path:url(#SVGID_826_);}
+	.st230{clip-path:url(#SVGID_828_);}
+	.st231{clip-path:url(#SVGID_830_);}
+	.st232{clip-path:url(#SVGID_832_);}
+	.st233{clip-path:url(#SVGID_834_);}
+	.st234{clip-path:url(#SVGID_910_);fill:none;}
+	.st235{clip-path:url(#SVGID_912_);}
+	.st236{clip-path:url(#SVGID_914_);}
+	.st237{clip-path:url(#SVGID_916_);}
+	.st238{clip-path:url(#SVGID_918_);}
+	.st239{clip-path:url(#SVGID_920_);}
+	.st240{clip-path:url(#SVGID_922_);}
+	.st241{clip-path:url(#SVGID_924_);}
+	.st242{clip-path:url(#SVGID_926_);}
+	.st243{clip-path:url(#SVGID_928_);}
+	.st244{clip-path:url(#SVGID_930_);}
+	.st245{clip-path:url(#SVGID_932_);}
+	.st246{clip-path:url(#SVGID_934_);}
+	.st247{enable-background:new    ;}
+	.st248{clip-path:url(#SVGID_936_);}
+	.st249{clip-path:url(#SVGID_938_);}
+	.st250{clip-path:url(#SVGID_940_);}
+	.st251{clip-path:url(#SVGID_942_);}
+	.st252{clip-path:url(#SVGID_944_);}
+	.st253{clip-path:url(#SVGID_946_);}
+	.st254{clip-path:url(#SVGID_948_);}
+	.st255{clip-path:url(#SVGID_950_);}
+	.st256{clip-path:url(#SVGID_952_);}
+	.st257{clip-path:url(#SVGID_954_);}
+	.st258{clip-path:url(#SVGID_956_);}
+	.st259{clip-path:url(#SVGID_958_);}
+	.st260{clip-path:url(#SVGID_960_);}
+	.st261{clip-path:url(#SVGID_962_);}
+	.st262{clip-path:url(#SVGID_964_);}
+	.st263{clip-path:url(#SVGID_966_);}
+	.st264{clip-path:url(#SVGID_968_);}
+	.st265{clip-path:url(#SVGID_970_);}
+	.st266{clip-path:url(#SVGID_972_);}
+	.st267{fill:none;stroke:#A0A0A0;stroke-width:1.5081;stroke-miterlimit:10;}
+	.st268{clip-path:url(#SVGID_26_);fill:none;}
+	.st269{clip-path:url(#SVGID_26_);fill:none;stroke:#221E1F;stroke-width:0.6958;stroke-miterlimit:10;}
+	.st270{clip-path:url(#SVGID_974_);fill:#FFFFFF;}
+	.st271{clip-path:url(#SVGID_974_);fill:#FF6900;}
+	.st272{clip-path:url(#SVGID_974_);}
+	.st273{clip-path:url(#SVGID_976_);}
+	.st274{clip-path:url(#SVGID_978_);}
+	.st275{clip-path:url(#SVGID_980_);}
+	.st276{clip-path:url(#SVGID_982_);}
+	.st277{clip-path:url(#SVGID_984_);}
+	.st278{clip-path:url(#SVGID_986_);}
+	.st279{clip-path:url(#SVGID_988_);}
+	.st280{clip-path:url(#SVGID_990_);}
+	.st281{clip-path:url(#SVGID_992_);}
+	.st282{clip-path:url(#SVGID_994_);}
+	.st283{clip-path:url(#SVGID_998_);}
+	.st284{clip-path:url(#SVGID_1000_);}
+	.st285{clip-path:url(#SVGID_1002_);}
+	.st286{clip-path:url(#SVGID_1004_);}
+	.st287{clip-path:url(#SVGID_1006_);}
+	.st288{clip-path:url(#SVGID_1008_);}
+	.st289{clip-path:url(#SVGID_1010_);}
+	.st290{clip-path:url(#SVGID_1012_);}
+	.st291{clip-path:url(#SVGID_1014_);}
+	.st292{clip-path:url(#SVGID_1016_);}
+	.st293{clip-path:url(#SVGID_1018_);}
+	.st294{clip-path:url(#SVGID_1020_);}
+	.st295{clip-path:url(#SVGID_1022_);}
+	.st296{clip-path:url(#SVGID_1024_);}
+	.st297{clip-path:url(#SVGID_1026_);}
+	.st298{clip-path:url(#SVGID_1028_);}
+	.st299{clip-path:url(#SVGID_1030_);}
+	.st300{clip-path:url(#SVGID_1032_);}
+	.st301{clip-path:url(#SVGID_1034_);}
+	.st302{clip-path:url(#SVGID_1036_);}
+	.st303{clip-path:url(#SVGID_1038_);}
+	.st304{clip-path:url(#SVGID_1040_);}
+	.st305{clip-path:url(#SVGID_1042_);}
+	.st306{clip-path:url(#SVGID_1044_);}
+	.st307{clip-path:url(#SVGID_1046_);}
+	.st308{clip-path:url(#SVGID_1048_);}
+	.st309{clip-path:url(#SVGID_1050_);}
+	.st310{clip-path:url(#SVGID_1052_);}
+	.st311{clip-path:url(#SVGID_1054_);}
+	.st312{clip-path:url(#SVGID_1056_);}
+	.st313{clip-path:url(#SVGID_1058_);}
+	.st314{clip-path:url(#SVGID_1060_);}
+	.st315{clip-path:url(#SVGID_1062_);}
+	.st316{clip-path:url(#SVGID_1064_);}
+	.st317{clip-path:url(#SVGID_1066_);}
+	.st318{clip-path:url(#SVGID_1068_);}
+	.st319{clip-path:url(#SVGID_1070_);}
+	.st320{clip-path:url(#SVGID_1072_);}
+	.st321{clip-path:url(#SVGID_1074_);}
+	.st322{clip-path:url(#SVGID_1076_);}
+	.st323{clip-path:url(#SVGID_1078_);}
+	.st324{clip-path:url(#SVGID_1080_);}
+	.st325{clip-path:url(#SVGID_1082_);}
+	.st326{clip-path:url(#SVGID_1084_);}
+	.st327{clip-path:url(#SVGID_1086_);}
+	.st328{clip-path:url(#SVGID_1088_);}
+	.st329{clip-path:url(#SVGID_1090_);}
+	.st330{clip-path:url(#SVGID_1092_);}
+	.st331{clip-path:url(#SVGID_1094_);}
+	.st332{clip-path:url(#SVGID_1096_);}
+	.st333{clip-path:url(#SVGID_1098_);}
+	.st334{clip-path:url(#SVGID_1100_);}
+	.st335{clip-path:url(#SVGID_1102_);}
+	.st336{clip-path:url(#SVGID_1104_);}
+	.st337{clip-path:url(#SVGID_1106_);}
+	.st338{clip-path:url(#SVGID_1108_);}
+	.st339{clip-path:url(#SVGID_1110_);}
+	.st340{clip-path:url(#SVGID_1112_);}
+	.st341{clip-path:url(#SVGID_1114_);}
+	.st342{clip-path:url(#SVGID_1116_);}
+	.st343{clip-path:url(#SVGID_1118_);}
+	.st344{clip-path:url(#SVGID_1120_);}
+	.st345{clip-path:url(#SVGID_1122_);}
+	.st346{clip-path:url(#SVGID_1124_);}
+	.st347{clip-path:url(#SVGID_1126_);}
+	.st348{clip-path:url(#SVGID_1128_);}
+	.st349{clip-path:url(#SVGID_1130_);}
+	.st350{clip-path:url(#SVGID_1132_);}
+	.st351{clip-path:url(#SVGID_1134_);}
+	.st352{clip-path:url(#SVGID_1136_);}
+	.st353{clip-path:url(#SVGID_1138_);}
+	.st354{clip-path:url(#SVGID_1140_);}
+	.st355{clip-path:url(#SVGID_1142_);}
+	.st356{clip-path:url(#SVGID_1144_);}
+	.st357{clip-path:url(#SVGID_1146_);}
+	.st358{clip-path:url(#SVGID_1148_);}
+	.st359{clip-path:url(#SVGID_1150_);}
+	.st360{clip-path:url(#SVGID_1152_);}
+	.st361{clip-path:url(#SVGID_1154_);}
+	.st362{clip-path:url(#SVGID_1156_);}
+	.st363{clip-path:url(#SVGID_1158_);}
+	.st364{clip-path:url(#SVGID_1160_);}
+	.st365{clip-path:url(#SVGID_1162_);}
+	.st366{clip-path:url(#SVGID_1164_);}
+	.st367{clip-path:url(#SVGID_1166_);}
+	.st368{clip-path:url(#SVGID_1168_);}
+	.st369{clip-path:url(#SVGID_1170_);}
+	.st370{clip-path:url(#SVGID_1172_);}
+	.st371{clip-path:url(#SVGID_1174_);}
+	.st372{clip-path:url(#SVGID_1176_);}
+	.st373{clip-path:url(#SVGID_1178_);}
+	.st374{clip-path:url(#SVGID_1180_);}
+	.st375{clip-path:url(#SVGID_1182_);}
+	.st376{clip-path:url(#SVGID_1184_);}
+	.st377{clip-path:url(#SVGID_1186_);}
+	.st378{clip-path:url(#SVGID_1188_);}
+	.st379{clip-path:url(#SVGID_1190_);}
+	.st380{clip-path:url(#SVGID_1192_);}
+	.st381{clip-path:url(#SVGID_1194_);}
+	.st382{clip-path:url(#SVGID_1196_);}
+	.st383{clip-path:url(#SVGID_1198_);}
+	.st384{clip-path:url(#SVGID_1200_);}
+	.st385{clip-path:url(#SVGID_1202_);}
+	.st386{clip-path:url(#SVGID_1204_);}
+	.st387{clip-path:url(#SVGID_1206_);}
+	.st388{clip-path:url(#SVGID_1208_);}
+	.st389{clip-path:url(#SVGID_1210_);}
+	.st390{clip-path:url(#SVGID_1212_);}
+	.st391{clip-path:url(#SVGID_1214_);}
+	.st392{clip-path:url(#SVGID_1216_);}
+	.st393{clip-path:url(#SVGID_1218_);}
+	.st394{clip-path:url(#SVGID_1220_);}
+	.st395{clip-path:url(#SVGID_1222_);}
+	.st396{clip-path:url(#SVGID_1224_);}
+	.st397{clip-path:url(#SVGID_1226_);}
+	.st398{clip-path:url(#SVGID_1228_);}
+	.st399{clip-path:url(#SVGID_1230_);}
+	.st400{clip-path:url(#SVGID_1232_);}
+	.st401{clip-path:url(#SVGID_1234_);}
+	.st402{clip-path:url(#SVGID_1236_);}
+	.st403{clip-path:url(#SVGID_1238_);}
+	.st404{clip-path:url(#SVGID_1240_);}
+	.st405{clip-path:url(#SVGID_1242_);}
+	.st406{clip-path:url(#SVGID_1244_);}
+	.st407{clip-path:url(#SVGID_1246_);}
+	.st408{clip-path:url(#SVGID_1248_);}
+	.st409{clip-path:url(#SVGID_1250_);}
+	.st410{clip-path:url(#SVGID_1252_);}
+	.st411{clip-path:url(#SVGID_1254_);}
+	.st412{clip-path:url(#SVGID_1256_);}
+	.st413{clip-path:url(#SVGID_1258_);}
+	.st414{clip-path:url(#SVGID_1260_);}
+	.st415{clip-path:url(#SVGID_1262_);}
+	.st416{clip-path:url(#SVGID_1264_);}
+	.st417{clip-path:url(#SVGID_1266_);}
+	.st418{clip-path:url(#SVGID_1268_);}
+	.st419{clip-path:url(#SVGID_1270_);}
+	.st420{clip-path:url(#SVGID_1272_);}
+	.st421{clip-path:url(#SVGID_1274_);}
+	.st422{clip-path:url(#SVGID_1276_);}
+	.st423{clip-path:url(#SVGID_1278_);}
+	.st424{clip-path:url(#SVGID_1280_);}
+	.st425{clip-path:url(#SVGID_1282_);}
+	.st426{clip-path:url(#SVGID_1284_);}
+	.st427{clip-path:url(#SVGID_1732_);}
+	.st428{clip-path:url(#SVGID_1734_);}
+	.st429{clip-path:url(#SVGID_1736_);}
+	.st430{clip-path:url(#SVGID_1738_);}
+	.st431{clip-path:url(#SVGID_1740_);}
+	.st432{clip-path:url(#SVGID_1742_);}
+	.st433{clip-path:url(#SVGID_1744_);}
+	.st434{clip-path:url(#SVGID_1746_);}
+	.st435{clip-path:url(#SVGID_1748_);}
+	.st436{clip-path:url(#SVGID_1750_);}
+	.st437{clip-path:url(#SVGID_1752_);}
+	.st438{clip-path:url(#SVGID_1754_);}
+	.st439{clip-path:url(#SVGID_1756_);}
+	.st440{clip-path:url(#SVGID_1758_);}
+	.st441{clip-path:url(#SVGID_1760_);}
+	.st442{clip-path:url(#SVGID_1762_);}
+	.st443{clip-path:url(#SVGID_1764_);}
+	.st444{clip-path:url(#SVGID_1766_);}
+	.st445{clip-path:url(#SVGID_1768_);}
+	.st446{clip-path:url(#SVGID_1770_);}
+	.st447{clip-path:url(#SVGID_1772_);}
+	.st448{clip-path:url(#SVGID_1774_);}
+	.st449{clip-path:url(#SVGID_1776_);}
+	.st450{clip-path:url(#SVGID_1778_);}
+	.st451{clip-path:url(#SVGID_1780_);}
+	.st452{clip-path:url(#SVGID_1782_);}
+	.st453{clip-path:url(#SVGID_1858_);fill:none;}
+	.st454{clip-path:url(#SVGID_1860_);}
+	.st455{clip-path:url(#SVGID_1862_);}
+	.st456{clip-path:url(#SVGID_1864_);}
+	.st457{clip-path:url(#SVGID_1866_);}
+	.st458{clip-path:url(#SVGID_1868_);fill:none;stroke:#000000;stroke-width:2.9631;stroke-miterlimit:10;}
+	.st459{clip-path:url(#SVGID_1870_);}
+	.st460{clip-path:url(#SVGID_1872_);}
+	.st461{clip-path:url(#SVGID_1874_);}
+	.st462{clip-path:url(#SVGID_1876_);}
+	.st463{clip-path:url(#SVGID_1878_);}
+	.st464{clip-path:url(#SVGID_1880_);}
+	.st465{clip-path:url(#SVGID_1882_);}
+	.st466{clip-path:url(#SVGID_1884_);}
+	.st467{clip-path:url(#SVGID_1886_);}
+	.st468{clip-path:url(#SVGID_1888_);}
+	.st469{clip-path:url(#SVGID_1890_);}
+	.st470{clip-path:url(#SVGID_1892_);}
+	.st471{clip-path:url(#SVGID_1894_);}
+	.st472{clip-path:url(#SVGID_1896_);}
+	.st473{clip-path:url(#SVGID_1898_);}
+	.st474{clip-path:url(#SVGID_1900_);}
+	.st475{clip-path:url(#SVGID_1902_);}
+	.st476{clip-path:url(#SVGID_1904_);}
+	.st477{clip-path:url(#SVGID_1906_);}
+	.st478{clip-path:url(#SVGID_1908_);}
+	.st479{clip-path:url(#SVGID_1910_);}
+	.st480{clip-path:url(#SVGID_1912_);}
+	.st481{clip-path:url(#SVGID_1914_);}
+	.st482{clip-path:url(#SVGID_1916_);}
+	.st483{clip-path:url(#SVGID_1918_);}
+	.st484{clip-path:url(#SVGID_1920_);}
+	.st485{fill:none;}
+	.st486{clip-path:url(#SVGID_974_);fill:none;}
+	.st487{clip-path:url(#SVGID_974_);fill:none;stroke:#221E1F;stroke-width:0.6958;stroke-miterlimit:10;}
+	.st488{clip-path:url(#SVGID_1922_);fill:#FFFFFF;}
+	.st489{clip-path:url(#SVGID_1922_);fill:#FF6900;}
+	.st490{clip-path:url(#SVGID_1922_);}
+	.st491{clip-path:url(#SVGID_1924_);}
+	.st492{clip-path:url(#SVGID_1926_);}
+	.st493{clip-path:url(#SVGID_1928_);}
+	.st494{clip-path:url(#SVGID_1930_);}
+	.st495{clip-path:url(#SVGID_1932_);}
+	.st496{clip-path:url(#SVGID_1934_);}
+	.st497{clip-path:url(#SVGID_1936_);}
+	.st498{clip-path:url(#SVGID_1938_);}
+	.st499{clip-path:url(#SVGID_1940_);}
+	.st500{clip-path:url(#SVGID_1942_);}
+	.st501{clip-path:url(#SVGID_1946_);}
+	.st502{clip-path:url(#SVGID_1948_);}
+	.st503{clip-path:url(#SVGID_1950_);}
+	.st504{clip-path:url(#SVGID_1952_);}
+	.st505{clip-path:url(#SVGID_1954_);}
+	.st506{clip-path:url(#SVGID_1956_);}
+	.st507{clip-path:url(#SVGID_1958_);}
+	.st508{clip-path:url(#SVGID_1960_);}
+	.st509{clip-path:url(#SVGID_1962_);}
+	.st510{clip-path:url(#SVGID_1964_);}
+	.st511{clip-path:url(#SVGID_1966_);}
+	.st512{clip-path:url(#SVGID_1968_);}
+	.st513{clip-path:url(#SVGID_1970_);}
+	.st514{clip-path:url(#SVGID_1972_);}
+	.st515{clip-path:url(#SVGID_1974_);}
+	.st516{clip-path:url(#SVGID_1976_);}
+	.st517{clip-path:url(#SVGID_1978_);}
+	.st518{clip-path:url(#SVGID_1980_);}
+	.st519{clip-path:url(#SVGID_1982_);}
+	.st520{clip-path:url(#SVGID_1984_);}
+	.st521{clip-path:url(#SVGID_1986_);}
+	.st522{clip-path:url(#SVGID_1988_);}
+	.st523{clip-path:url(#SVGID_1990_);}
+	.st524{clip-path:url(#SVGID_1992_);}
+	.st525{clip-path:url(#SVGID_1994_);}
+	.st526{clip-path:url(#SVGID_1996_);}
+	.st527{clip-path:url(#SVGID_1998_);}
+	.st528{clip-path:url(#SVGID_2000_);}
+	.st529{clip-path:url(#SVGID_2002_);}
+	.st530{clip-path:url(#SVGID_2004_);}
+	.st531{clip-path:url(#SVGID_2006_);}
+	.st532{clip-path:url(#SVGID_2008_);}
+	.st533{clip-path:url(#SVGID_2010_);}
+	.st534{clip-path:url(#SVGID_2012_);}
+	.st535{clip-path:url(#SVGID_2014_);}
+	.st536{clip-path:url(#SVGID_2016_);}
+	.st537{clip-path:url(#SVGID_2018_);}
+	.st538{clip-path:url(#SVGID_2020_);}
+	.st539{clip-path:url(#SVGID_2022_);}
+	.st540{clip-path:url(#SVGID_2024_);}
+	.st541{clip-path:url(#SVGID_2026_);}
+	.st542{clip-path:url(#SVGID_2028_);}
+	.st543{clip-path:url(#SVGID_2030_);}
+	.st544{clip-path:url(#SVGID_2032_);}
+	.st545{clip-path:url(#SVGID_2034_);}
+	.st546{clip-path:url(#SVGID_2036_);}
+	.st547{clip-path:url(#SVGID_2038_);}
+	.st548{clip-path:url(#SVGID_2040_);}
+	.st549{clip-path:url(#SVGID_2042_);}
+	.st550{clip-path:url(#SVGID_2044_);}
+	.st551{clip-path:url(#SVGID_2046_);}
+	.st552{clip-path:url(#SVGID_2048_);}
+	.st553{clip-path:url(#SVGID_2050_);}
+	.st554{clip-path:url(#SVGID_2052_);}
+	.st555{clip-path:url(#SVGID_2054_);}
+	.st556{clip-path:url(#SVGID_2056_);}
+	.st557{clip-path:url(#SVGID_2058_);}
+	.st558{clip-path:url(#SVGID_2060_);}
+	.st559{clip-path:url(#SVGID_2062_);}
+	.st560{clip-path:url(#SVGID_2064_);}
+	.st561{clip-path:url(#SVGID_2066_);}
+	.st562{clip-path:url(#SVGID_2068_);}
+	.st563{clip-path:url(#SVGID_2070_);}
+	.st564{clip-path:url(#SVGID_2072_);}
+	.st565{clip-path:url(#SVGID_2074_);}
+	.st566{clip-path:url(#SVGID_2076_);}
+	.st567{clip-path:url(#SVGID_2078_);}
+	.st568{clip-path:url(#SVGID_2080_);}
+	.st569{clip-path:url(#SVGID_2082_);}
+	.st570{clip-path:url(#SVGID_2084_);}
+	.st571{clip-path:url(#SVGID_2086_);}
+	.st572{clip-path:url(#SVGID_2088_);}
+	.st573{clip-path:url(#SVGID_2090_);}
+	.st574{clip-path:url(#SVGID_2092_);}
+	.st575{clip-path:url(#SVGID_2094_);}
+	.st576{clip-path:url(#SVGID_2096_);}
+	.st577{clip-path:url(#SVGID_2098_);}
+	.st578{clip-path:url(#SVGID_2100_);}
+	.st579{clip-path:url(#SVGID_2102_);}
+	.st580{clip-path:url(#SVGID_2104_);}
+	.st581{clip-path:url(#SVGID_2106_);}
+	.st582{clip-path:url(#SVGID_2108_);}
+	.st583{clip-path:url(#SVGID_2110_);}
+	.st584{clip-path:url(#SVGID_2112_);}
+	.st585{clip-path:url(#SVGID_2114_);}
+	.st586{clip-path:url(#SVGID_2116_);}
+	.st587{clip-path:url(#SVGID_2118_);}
+	.st588{clip-path:url(#SVGID_2120_);}
+	.st589{clip-path:url(#SVGID_2122_);}
+	.st590{clip-path:url(#SVGID_2124_);}
+	.st591{clip-path:url(#SVGID_2126_);}
+	.st592{clip-path:url(#SVGID_2128_);}
+	.st593{clip-path:url(#SVGID_2130_);}
+	.st594{clip-path:url(#SVGID_2132_);}
+	.st595{clip-path:url(#SVGID_2134_);}
+	.st596{clip-path:url(#SVGID_2136_);}
+	.st597{clip-path:url(#SVGID_2138_);}
+	.st598{clip-path:url(#SVGID_2140_);}
+	.st599{clip-path:url(#SVGID_2142_);}
+	.st600{clip-path:url(#SVGID_2144_);}
+	.st601{clip-path:url(#SVGID_2146_);}
+	.st602{clip-path:url(#SVGID_2148_);}
+	.st603{clip-path:url(#SVGID_2150_);}
+	.st604{clip-path:url(#SVGID_2152_);}
+	.st605{clip-path:url(#SVGID_2154_);}
+	.st606{clip-path:url(#SVGID_2156_);}
+	.st607{clip-path:url(#SVGID_2158_);}
+	.st608{clip-path:url(#SVGID_2160_);}
+	.st609{clip-path:url(#SVGID_2162_);}
+	.st610{clip-path:url(#SVGID_2164_);}
+	.st611{clip-path:url(#SVGID_2166_);}
+	.st612{clip-path:url(#SVGID_2168_);}
+	.st613{clip-path:url(#SVGID_2170_);}
+	.st614{clip-path:url(#SVGID_2172_);}
+	.st615{clip-path:url(#SVGID_2174_);}
+	.st616{clip-path:url(#SVGID_2176_);}
+	.st617{clip-path:url(#SVGID_2178_);}
+	.st618{clip-path:url(#SVGID_2180_);}
+	.st619{clip-path:url(#SVGID_2182_);}
+	.st620{clip-path:url(#SVGID_2184_);}
+	.st621{clip-path:url(#SVGID_2186_);}
+	.st622{clip-path:url(#SVGID_2188_);}
+	.st623{clip-path:url(#SVGID_2190_);}
+	.st624{clip-path:url(#SVGID_2192_);}
+	.st625{clip-path:url(#SVGID_2194_);}
+	.st626{clip-path:url(#SVGID_2196_);}
+	.st627{clip-path:url(#SVGID_2198_);}
+	.st628{clip-path:url(#SVGID_2200_);}
+	.st629{clip-path:url(#SVGID_2202_);}
+	.st630{clip-path:url(#SVGID_2204_);}
+	.st631{clip-path:url(#SVGID_2206_);}
+	.st632{clip-path:url(#SVGID_2208_);}
+	.st633{clip-path:url(#SVGID_2210_);}
+	.st634{clip-path:url(#SVGID_2212_);}
+	.st635{clip-path:url(#SVGID_2214_);}
+	.st636{clip-path:url(#SVGID_2216_);}
+	.st637{clip-path:url(#SVGID_2218_);}
+	.st638{clip-path:url(#SVGID_2220_);}
+	.st639{clip-path:url(#SVGID_2222_);}
+	.st640{clip-path:url(#SVGID_2224_);}
+	.st641{clip-path:url(#SVGID_2226_);}
+	.st642{clip-path:url(#SVGID_2228_);}
+	.st643{clip-path:url(#SVGID_2230_);}
+	.st644{clip-path:url(#SVGID_2232_);}
+	.st645{clip-path:url(#SVGID_2680_);}
+	.st646{clip-path:url(#SVGID_2682_);}
+	.st647{clip-path:url(#SVGID_2684_);}
+	.st648{clip-path:url(#SVGID_2686_);}
+	.st649{clip-path:url(#SVGID_2688_);}
+	.st650{clip-path:url(#SVGID_2690_);}
+	.st651{clip-path:url(#SVGID_2692_);}
+	.st652{clip-path:url(#SVGID_2694_);}
+	.st653{clip-path:url(#SVGID_2696_);}
+	.st654{clip-path:url(#SVGID_2698_);}
+	.st655{clip-path:url(#SVGID_2700_);}
+	.st656{clip-path:url(#SVGID_2702_);}
+	.st657{clip-path:url(#SVGID_2704_);}
+	.st658{clip-path:url(#SVGID_2706_);}
+	.st659{clip-path:url(#SVGID_2708_);}
+	.st660{clip-path:url(#SVGID_2710_);}
+	.st661{clip-path:url(#SVGID_2712_);}
+	.st662{clip-path:url(#SVGID_2714_);}
+	.st663{clip-path:url(#SVGID_2716_);}
+	.st664{clip-path:url(#SVGID_2718_);}
+	.st665{clip-path:url(#SVGID_2720_);}
+	.st666{clip-path:url(#SVGID_2722_);}
+	.st667{clip-path:url(#SVGID_2724_);}
+	.st668{clip-path:url(#SVGID_2726_);}
+	.st669{clip-path:url(#SVGID_2728_);}
+	.st670{clip-path:url(#SVGID_2730_);}
+	.st671{clip-path:url(#SVGID_2806_);fill:none;}
+	.st672{clip-path:url(#SVGID_2808_);}
+	.st673{clip-path:url(#SVGID_2810_);}
+	.st674{clip-path:url(#SVGID_2812_);}
+	.st675{clip-path:url(#SVGID_2814_);}
+	.st676{clip-path:url(#SVGID_2816_);}
+	.st677{clip-path:url(#SVGID_2818_);}
+	.st678{clip-path:url(#SVGID_2824_);}
+	.st679{clip-path:url(#SVGID_2826_);}
+	.st680{clip-path:url(#SVGID_2828_);}
+	.st681{clip-path:url(#SVGID_2830_);}
+	.st682{clip-path:url(#SVGID_2832_);}
+	.st683{clip-path:url(#SVGID_2834_);}
+	.st684{clip-path:url(#SVGID_2838_);}
+	.st685{clip-path:url(#SVGID_2840_);}
+	.st686{clip-path:url(#SVGID_2842_);}
+	.st687{clip-path:url(#SVGID_2844_);}
+	.st688{clip-path:url(#SVGID_2846_);}
+	.st689{clip-path:url(#SVGID_2848_);}
+	.st690{clip-path:url(#SVGID_2850_);}
+	.st691{clip-path:url(#SVGID_2852_);}
+	.st692{clip-path:url(#SVGID_2854_);}
+	.st693{clip-path:url(#SVGID_2856_);}
+	.st694{clip-path:url(#SVGID_2858_);}
+	.st695{clip-path:url(#SVGID_2860_);}
+	.st696{clip-path:url(#SVGID_2862_);}
+	.st697{clip-path:url(#SVGID_2864_);}
+	.st698{clip-path:url(#SVGID_2866_);}
+	.st699{clip-path:url(#SVGID_1922_);fill:none;}
+	.st700{clip-path:url(#SVGID_1922_);fill:none;stroke:#221E1F;stroke-width:0.6958;stroke-miterlimit:10;}
+	.st701{clip-path:url(#SVGID_2868_);}
+	.st702{clip-path:url(#SVGID_2870_);fill:#FF6900;}
+	.st703{clip-path:url(#SVGID_2870_);}
+	.st704{fill:#CBCBCB;}
+	.st705{fill:#F16522;}
+	.st706{filter:url(#Adobe_OpacityMaskFilter);}
+	.st707{mask:url(#mask0_outline_ins_1_);}
+	.st708{filter:url(#Adobe_OpacityMaskFilter_1_);}
+	.st709{mask:url(#mask0_outline_ins_2_);}
+	.st710{clip-path:url(#SVGID_2872_);}
+	.st711{clip-path:url(#SVGID_2874_);}
+	.st712{clip-path:url(#SVGID_2876_);}
+	.st713{clip-path:url(#SVGID_2878_);}
+	.st714{clip-path:url(#SVGID_2880_);}
+	.st715{clip-path:url(#SVGID_2882_);}
+	.st716{clip-path:url(#SVGID_2884_);}
+	.st717{clip-path:url(#SVGID_2886_);}
+	.st718{clip-path:url(#SVGID_2888_);}
+	.st719{clip-path:url(#SVGID_2890_);}
+	.st720{clip-path:url(#SVGID_2892_);fill:#FFFFFF;}
+	.st721{clip-path:url(#SVGID_2894_);}
+	.st722{clip-path:url(#SVGID_2896_);}
+	.st723{clip-path:url(#SVGID_2898_);}
+	.st724{clip-path:url(#SVGID_2900_);}
+	.st725{clip-path:url(#SVGID_2902_);}
+	.st726{clip-path:url(#SVGID_2904_);}
+	.st727{clip-path:url(#SVGID_2906_);}
+	.st728{clip-path:url(#SVGID_2908_);}
+	.st729{clip-path:url(#SVGID_2910_);}
+	.st730{clip-path:url(#SVGID_2912_);}
+	.st731{clip-path:url(#SVGID_2914_);}
+	.st732{clip-path:url(#SVGID_2916_);}
+	.st733{clip-path:url(#SVGID_2918_);}
+	.st734{clip-path:url(#SVGID_2920_);}
+	.st735{clip-path:url(#SVGID_2922_);}
+	.st736{clip-path:url(#SVGID_2924_);}
+	.st737{clip-path:url(#SVGID_2926_);}
+	.st738{clip-path:url(#SVGID_2928_);}
+	.st739{clip-path:url(#SVGID_2930_);}
+	.st740{clip-path:url(#SVGID_2932_);}
+	.st741{clip-path:url(#SVGID_2934_);}
+	.st742{clip-path:url(#SVGID_2936_);}
+	.st743{clip-path:url(#SVGID_2938_);}
+	.st744{clip-path:url(#SVGID_2940_);}
+	.st745{clip-path:url(#SVGID_2942_);}
+	.st746{clip-path:url(#SVGID_2944_);}
+	.st747{clip-path:url(#SVGID_2946_);}
+	.st748{clip-path:url(#SVGID_2948_);}
+	.st749{clip-path:url(#SVGID_2950_);}
+	.st750{clip-path:url(#SVGID_2952_);}
+	.st751{clip-path:url(#SVGID_2954_);}
+	.st752{clip-path:url(#SVGID_2956_);}
+	.st753{clip-path:url(#SVGID_2958_);}
+	.st754{clip-path:url(#SVGID_2960_);}
+	.st755{clip-path:url(#SVGID_2962_);}
+	.st756{clip-path:url(#SVGID_2964_);}
+	.st757{clip-path:url(#SVGID_2966_);}
+	.st758{clip-path:url(#SVGID_2968_);}
+	.st759{clip-path:url(#SVGID_2970_);}
+	.st760{clip-path:url(#SVGID_2972_);}
+	.st761{clip-path:url(#SVGID_2974_);}
+	.st762{clip-path:url(#SVGID_2976_);}
+	.st763{clip-path:url(#SVGID_2978_);}
+	.st764{clip-path:url(#SVGID_2980_);}
+	.st765{clip-path:url(#SVGID_2982_);}
+	.st766{clip-path:url(#SVGID_2984_);}
+	.st767{clip-path:url(#SVGID_2986_);}
+	.st768{clip-path:url(#SVGID_2988_);}
+	.st769{clip-path:url(#SVGID_2990_);}
+	.st770{clip-path:url(#SVGID_2992_);}
+	.st771{clip-path:url(#SVGID_2994_);}
+	.st772{clip-path:url(#SVGID_2996_);}
+	.st773{clip-path:url(#SVGID_2998_);}
+	.st774{clip-path:url(#SVGID_3000_);}
+	.st775{clip-path:url(#SVGID_3002_);}
+	.st776{clip-path:url(#SVGID_3004_);}
+	.st777{clip-path:url(#SVGID_3006_);}
+	.st778{clip-path:url(#SVGID_3008_);}
+	.st779{clip-path:url(#SVGID_3010_);}
+	.st780{clip-path:url(#SVGID_3012_);}
+	.st781{clip-path:url(#SVGID_3014_);}
+	.st782{clip-path:url(#SVGID_3016_);}
+	.st783{clip-path:url(#SVGID_3018_);}
+	.st784{clip-path:url(#SVGID_3020_);}
+	.st785{clip-path:url(#SVGID_3022_);}
+	.st786{clip-path:url(#SVGID_3024_);}
+	.st787{clip-path:url(#SVGID_3026_);}
+	.st788{clip-path:url(#SVGID_3028_);}
+	.st789{clip-path:url(#SVGID_3030_);}
+	.st790{clip-path:url(#SVGID_3032_);}
+	.st791{clip-path:url(#SVGID_3034_);}
+	.st792{clip-path:url(#SVGID_3036_);}
+	.st793{clip-path:url(#SVGID_3038_);}
+	.st794{clip-path:url(#SVGID_3040_);}
+	.st795{clip-path:url(#SVGID_3042_);}
+	.st796{clip-path:url(#SVGID_3044_);}
+	.st797{clip-path:url(#SVGID_3046_);}
+	.st798{clip-path:url(#SVGID_3048_);}
+	.st799{clip-path:url(#SVGID_3050_);}
+	.st800{clip-path:url(#SVGID_3052_);}
+	.st801{clip-path:url(#SVGID_3054_);}
+	.st802{clip-path:url(#SVGID_3056_);}
+	.st803{clip-path:url(#SVGID_3058_);}
+	.st804{clip-path:url(#SVGID_3060_);}
+	.st805{clip-path:url(#SVGID_3062_);}
+	.st806{clip-path:url(#SVGID_3064_);}
+	.st807{clip-path:url(#SVGID_3066_);}
+	.st808{clip-path:url(#SVGID_3068_);}
+	.st809{clip-path:url(#SVGID_3070_);}
+	.st810{clip-path:url(#SVGID_3072_);}
+	.st811{clip-path:url(#SVGID_3074_);}
+	.st812{clip-path:url(#SVGID_3076_);}
+	.st813{clip-path:url(#SVGID_3078_);}
+	.st814{clip-path:url(#SVGID_3080_);}
+	.st815{clip-path:url(#SVGID_3082_);}
+	.st816{clip-path:url(#SVGID_3084_);}
+	.st817{clip-path:url(#SVGID_3086_);}
+	.st818{clip-path:url(#SVGID_3088_);}
+	.st819{clip-path:url(#SVGID_3090_);}
+	.st820{clip-path:url(#SVGID_3092_);}
+	.st821{clip-path:url(#SVGID_3094_);}
+	.st822{clip-path:url(#SVGID_3096_);}
+	.st823{clip-path:url(#SVGID_3098_);}
+	.st824{clip-path:url(#SVGID_3100_);}
+	.st825{clip-path:url(#SVGID_3102_);}
+	.st826{clip-path:url(#SVGID_3104_);}
+	.st827{clip-path:url(#SVGID_3106_);}
+	.st828{clip-path:url(#SVGID_3108_);}
+	.st829{clip-path:url(#SVGID_3110_);}
+	.st830{clip-path:url(#SVGID_3112_);}
+	.st831{clip-path:url(#SVGID_3114_);}
+	.st832{clip-path:url(#SVGID_3116_);}
+	.st833{clip-path:url(#SVGID_3118_);}
+	.st834{clip-path:url(#SVGID_3120_);}
+	.st835{clip-path:url(#SVGID_3122_);}
+	.st836{clip-path:url(#SVGID_3124_);}
+	.st837{clip-path:url(#SVGID_3126_);}
+	.st838{clip-path:url(#SVGID_3128_);}
+	.st839{clip-path:url(#SVGID_3130_);}
+	.st840{clip-path:url(#SVGID_3132_);}
+	.st841{clip-path:url(#SVGID_3134_);}
+	.st842{clip-path:url(#SVGID_3136_);}
+	.st843{clip-path:url(#SVGID_3138_);}
+	.st844{clip-path:url(#SVGID_3140_);}
+	.st845{clip-path:url(#SVGID_3142_);}
+	.st846{clip-path:url(#SVGID_3144_);}
+	.st847{clip-path:url(#SVGID_3146_);}
+	.st848{clip-path:url(#SVGID_3148_);}
+	.st849{clip-path:url(#SVGID_3150_);}
+	.st850{clip-path:url(#SVGID_3152_);}
+	.st851{clip-path:url(#SVGID_3154_);}
+	.st852{clip-path:url(#SVGID_3156_);}
+	.st853{clip-path:url(#SVGID_3158_);}
+	.st854{clip-path:url(#SVGID_3160_);}
+	.st855{clip-path:url(#SVGID_3162_);}
+	.st856{clip-path:url(#SVGID_3164_);}
+	.st857{clip-path:url(#SVGID_3166_);}
+	.st858{clip-path:url(#SVGID_3168_);}
+	.st859{clip-path:url(#SVGID_3170_);}
+	.st860{clip-path:url(#SVGID_3172_);}
+	.st861{clip-path:url(#SVGID_3174_);}
+	.st862{clip-path:url(#SVGID_3176_);}
+	.st863{clip-path:url(#SVGID_3178_);}
+	.st864{clip-path:url(#SVGID_3180_);}
+	.st865{clip-path:url(#SVGID_3182_);fill:#FFFFFF;}
+	.st866{clip-path:url(#SVGID_3184_);fill:#FFFFFF;}
+	.st867{clip-path:url(#SVGID_3186_);fill:#FFFFFF;}
+	.st868{clip-path:url(#SVGID_3188_);fill:#FFFFFF;}
+	.st869{clip-path:url(#SVGID_3190_);fill:#FFFFFF;}
+	.st870{clip-path:url(#SVGID_3192_);fill:#FFFFFF;}
+	.st871{clip-path:url(#SVGID_3194_);fill:#FFFFFF;}
+	.st872{clip-path:url(#SVGID_3196_);fill:#FFFFFF;}
+	.st873{clip-path:url(#SVGID_3198_);fill:#FFFFFF;}
+	.st874{clip-path:url(#SVGID_3200_);fill:#FFFFFF;}
+	.st875{clip-path:url(#SVGID_3202_);fill:#FFFFFF;}
+	.st876{clip-path:url(#SVGID_3204_);fill:#FFFFFF;}
+	.st877{clip-path:url(#SVGID_3206_);fill:#FFFFFF;}
+	.st878{clip-path:url(#SVGID_3208_);fill:#FFFFFF;}
+	.st879{clip-path:url(#SVGID_3210_);fill:#FFFFFF;}
+	.st880{clip-path:url(#SVGID_3212_);fill:#FFFFFF;}
+	.st881{clip-path:url(#SVGID_3214_);fill:#FFFFFF;}
+	.st882{clip-path:url(#SVGID_3216_);fill:#FFFFFF;}
+	.st883{clip-path:url(#SVGID_3218_);fill:#FFFFFF;}
+	.st884{clip-path:url(#SVGID_3220_);fill:#FFFFFF;}
+	.st885{clip-path:url(#SVGID_3222_);fill:#FFFFFF;}
+	.st886{clip-path:url(#SVGID_3224_);fill:#FFFFFF;}
+	.st887{clip-path:url(#SVGID_3226_);fill:#FFFFFF;}
+	.st888{clip-path:url(#SVGID_3228_);fill:#FFFFFF;}
+	.st889{clip-path:url(#SVGID_3230_);fill:#FFFFFF;}
+	.st890{clip-path:url(#SVGID_3232_);fill:#FFFFFF;}
+	.st891{clip-path:url(#SVGID_3234_);fill:#FFFFFF;}
+	.st892{clip-path:url(#SVGID_3236_);fill:#FFFFFF;}
+	.st893{clip-path:url(#SVGID_3238_);fill:#FFFFFF;}
+	.st894{clip-path:url(#SVGID_3240_);fill:#FFFFFF;}
+	.st895{clip-path:url(#SVGID_3242_);fill:#FFFFFF;}
+	.st896{clip-path:url(#SVGID_3244_);fill:#FFFFFF;}
+	.st897{clip-path:url(#SVGID_3246_);fill:#FFFFFF;}
+	.st898{clip-path:url(#SVGID_3248_);fill:#FFFFFF;}
+	.st899{clip-path:url(#SVGID_3250_);fill:#FFFFFF;}
+	.st900{clip-path:url(#SVGID_3252_);fill:#FFFFFF;}
+	.st901{clip-path:url(#SVGID_3254_);fill:#FFFFFF;}
+	.st902{clip-path:url(#SVGID_3256_);fill:#FFFFFF;}
+	.st903{clip-path:url(#SVGID_3258_);fill:#FFFFFF;}
+	.st904{clip-path:url(#SVGID_3260_);fill:#FFFFFF;}
+	.st905{clip-path:url(#SVGID_3262_);fill:#FFFFFF;}
+	.st906{clip-path:url(#SVGID_3264_);fill:#FFFFFF;}
+	.st907{clip-path:url(#SVGID_3266_);fill:#FFFFFF;}
+	.st908{clip-path:url(#SVGID_3268_);fill:#FFFFFF;}
+	.st909{clip-path:url(#SVGID_3270_);fill:#FFFFFF;}
+	.st910{clip-path:url(#SVGID_3272_);fill:#FFFFFF;}
+	.st911{clip-path:url(#SVGID_3274_);fill:#FFFFFF;}
+	.st912{clip-path:url(#SVGID_3276_);fill:#FFFFFF;}
+	.st913{clip-path:url(#SVGID_3278_);fill:#FFFFFF;}
+	.st914{clip-path:url(#SVGID_3280_);fill:#FFFFFF;}
+	.st915{clip-path:url(#SVGID_3282_);fill:#FFFFFF;}
+	.st916{clip-path:url(#SVGID_3284_);fill:#FFFFFF;}
+	.st917{clip-path:url(#SVGID_3286_);fill:#FFFFFF;}
+	.st918{clip-path:url(#SVGID_3288_);fill:#FFFFFF;}
+	.st919{clip-path:url(#SVGID_3290_);fill:#FFFFFF;}
+	.st920{clip-path:url(#SVGID_3292_);fill:#FFFFFF;}
+	.st921{clip-path:url(#SVGID_3294_);fill:#FFFFFF;}
+	.st922{clip-path:url(#SVGID_3296_);fill:#FFFFFF;}
+	.st923{clip-path:url(#SVGID_3298_);fill:#FFFFFF;}
+	.st924{clip-path:url(#SVGID_3300_);fill:#FFFFFF;}
+	.st925{clip-path:url(#SVGID_3302_);fill:#FFFFFF;}
+	.st926{clip-path:url(#SVGID_3304_);fill:#FFFFFF;}
+	.st927{clip-path:url(#SVGID_3306_);fill:#FFFFFF;}
+	.st928{clip-path:url(#SVGID_3308_);fill:#FFFFFF;}
+	.st929{clip-path:url(#SVGID_3310_);fill:#FFFFFF;}
+	.st930{clip-path:url(#SVGID_3312_);fill:#FFFFFF;}
+	.st931{clip-path:url(#SVGID_3314_);fill:#FFFFFF;}
+	.st932{clip-path:url(#SVGID_3316_);fill:#FFFFFF;}
+	.st933{clip-path:url(#SVGID_3318_);fill:#FFFFFF;}
+	.st934{clip-path:url(#SVGID_3320_);fill:#FFFFFF;}
+	.st935{clip-path:url(#SVGID_3322_);fill:#FFFFFF;}
+	.st936{clip-path:url(#SVGID_3324_);fill:#FFFFFF;}
+	.st937{clip-path:url(#SVGID_3326_);fill:#FFFFFF;}
+	.st938{clip-path:url(#SVGID_3328_);fill:#FFFFFF;}
+	.st939{clip-path:url(#SVGID_3330_);fill:#FFFFFF;}
+	.st940{clip-path:url(#SVGID_3332_);fill:#FFFFFF;}
+	.st941{clip-path:url(#SVGID_3334_);fill:#FFFFFF;}
+	.st942{clip-path:url(#SVGID_3336_);fill:#FFFFFF;}
+	.st943{clip-path:url(#SVGID_3338_);fill:#FFFFFF;}
+	.st944{clip-path:url(#SVGID_3340_);fill:#FFFFFF;}
+	.st945{clip-path:url(#SVGID_3342_);fill:#FFFFFF;}
+	.st946{clip-path:url(#SVGID_3344_);fill:#FFFFFF;}
+	.st947{clip-path:url(#SVGID_3346_);fill:#FFFFFF;}
+	.st948{clip-path:url(#SVGID_3348_);fill:#FFFFFF;}
+	.st949{clip-path:url(#SVGID_3350_);fill:#FFFFFF;}
+	.st950{clip-path:url(#SVGID_3352_);fill:#FFFFFF;}
+	.st951{clip-path:url(#SVGID_3354_);fill:#FFFFFF;}
+	.st952{clip-path:url(#SVGID_3356_);fill:#FFFFFF;}
+	.st953{clip-path:url(#SVGID_3358_);fill:#FFFFFF;}
+	.st954{clip-path:url(#SVGID_3360_);fill:#FFFFFF;}
+	.st955{clip-path:url(#SVGID_3362_);fill:#FFFFFF;}
+	.st956{clip-path:url(#SVGID_3364_);fill:#FFFFFF;}
+	.st957{clip-path:url(#SVGID_3366_);fill:#FFFFFF;}
+	.st958{clip-path:url(#SVGID_3368_);fill:#FFFFFF;}
+	.st959{clip-path:url(#SVGID_3370_);fill:#FFFFFF;}
+	.st960{clip-path:url(#SVGID_3372_);fill:#FFFFFF;}
+	.st961{clip-path:url(#SVGID_3374_);fill:#FFFFFF;}
+	.st962{clip-path:url(#SVGID_3376_);fill:#FFFFFF;}
+	.st963{clip-path:url(#SVGID_3378_);fill:#FFFFFF;}
+	.st964{clip-path:url(#SVGID_3380_);fill:#FFFFFF;}
+	.st965{clip-path:url(#SVGID_3382_);fill:#FFFFFF;}
+	.st966{clip-path:url(#SVGID_3384_);fill:#FFFFFF;}
+	.st967{clip-path:url(#SVGID_3386_);fill:#FFFFFF;}
+	.st968{clip-path:url(#SVGID_3388_);fill:#FFFFFF;}
+	.st969{clip-path:url(#SVGID_3390_);fill:#FFFFFF;}
+	.st970{clip-path:url(#SVGID_3392_);fill:#FFFFFF;}
+	.st971{clip-path:url(#SVGID_3394_);fill:#FFFFFF;}
+	.st972{clip-path:url(#SVGID_3396_);fill:#FFFFFF;}
+	.st973{clip-path:url(#SVGID_3398_);fill:#FFFFFF;}
+	.st974{clip-path:url(#SVGID_3400_);fill:#FFFFFF;}
+	.st975{clip-path:url(#SVGID_3402_);fill:#FFFFFF;}
+	.st976{clip-path:url(#SVGID_3404_);fill:#FFFFFF;}
+	.st977{clip-path:url(#SVGID_3406_);fill:#FFFFFF;}
+	.st978{clip-path:url(#SVGID_3408_);fill:#FFFFFF;}
+	.st979{clip-path:url(#SVGID_3410_);fill:#FFFFFF;}
+	.st980{clip-path:url(#SVGID_3412_);fill:#FFFFFF;}
+	.st981{clip-path:url(#SVGID_3414_);fill:#FFFFFF;}
+	.st982{clip-path:url(#SVGID_3416_);fill:#FFFFFF;}
+	.st983{clip-path:url(#SVGID_3418_);fill:#FFFFFF;}
+	.st984{clip-path:url(#SVGID_3420_);fill:#FFFFFF;}
+	.st985{clip-path:url(#SVGID_3422_);fill:#FFFFFF;}
+	.st986{clip-path:url(#SVGID_3424_);fill:#FFFFFF;}
+	.st987{clip-path:url(#SVGID_3426_);fill:#FFFFFF;}
+	.st988{clip-path:url(#SVGID_3428_);fill:#FFFFFF;}
+	.st989{clip-path:url(#SVGID_3430_);fill:#FFFFFF;}
+	.st990{clip-path:url(#SVGID_3432_);fill:#FFFFFF;}
+	.st991{clip-path:url(#SVGID_3434_);fill:#FFFFFF;}
+	.st992{clip-path:url(#SVGID_3436_);fill:#FFFFFF;}
+	.st993{clip-path:url(#SVGID_3438_);fill:#FFFFFF;}
+	.st994{clip-path:url(#SVGID_3440_);fill:#FFFFFF;}
+	.st995{clip-path:url(#SVGID_3442_);fill:#FFFFFF;}
+	.st996{clip-path:url(#SVGID_3444_);fill:#FFFFFF;}
+	.st997{clip-path:url(#SVGID_3446_);fill:#FFFFFF;}
+	.st998{clip-path:url(#SVGID_3448_);fill:#FFFFFF;}
+	.st999{clip-path:url(#SVGID_3450_);fill:#FFFFFF;}
+	.st1000{clip-path:url(#SVGID_3452_);fill:#FFFFFF;}
+	.st1001{clip-path:url(#SVGID_3454_);fill:#FFFFFF;}
+	.st1002{clip-path:url(#SVGID_3456_);fill:#FFFFFF;}
+	.st1003{clip-path:url(#SVGID_3458_);fill:#FFFFFF;}
+	.st1004{clip-path:url(#SVGID_3460_);fill:#FFFFFF;}
+	.st1005{clip-path:url(#SVGID_3462_);fill:#FFFFFF;}
+	.st1006{clip-path:url(#SVGID_3464_);fill:#FFFFFF;}
+	.st1007{clip-path:url(#SVGID_3466_);fill:#FFFFFF;}
+	.st1008{clip-path:url(#SVGID_3468_);fill:#FFFFFF;}
+	.st1009{clip-path:url(#SVGID_3470_);fill:#FFFFFF;}
+	.st1010{clip-path:url(#SVGID_3472_);fill:#FFFFFF;}
+	.st1011{clip-path:url(#SVGID_3474_);fill:#FFFFFF;}
+	.st1012{clip-path:url(#SVGID_3476_);fill:#FFFFFF;}
+	.st1013{clip-path:url(#SVGID_3478_);fill:#FFFFFF;}
+	.st1014{clip-path:url(#SVGID_3480_);fill:#FFFFFF;}
+	.st1015{clip-path:url(#SVGID_3482_);fill:#FFFFFF;}
+	.st1016{clip-path:url(#SVGID_3484_);fill:#FFFFFF;}
+	.st1017{clip-path:url(#SVGID_3486_);fill:#FFFFFF;}
+	.st1018{clip-path:url(#SVGID_3488_);fill:#FFFFFF;}
+	.st1019{clip-path:url(#SVGID_3490_);fill:#FFFFFF;}
+	.st1020{clip-path:url(#SVGID_3492_);fill:#FFFFFF;}
+	.st1021{clip-path:url(#SVGID_3494_);fill:#FFFFFF;}
+	.st1022{clip-path:url(#SVGID_3496_);fill:#FFFFFF;}
+	.st1023{clip-path:url(#SVGID_3498_);fill:#FFFFFF;}
+	.st1024{clip-path:url(#SVGID_3500_);fill:#FFFFFF;}
+	.st1025{clip-path:url(#SVGID_3502_);fill:#FFFFFF;}
+	.st1026{clip-path:url(#SVGID_3504_);fill:#FFFFFF;}
+	.st1027{clip-path:url(#SVGID_3506_);fill:#FFFFFF;}
+	.st1028{clip-path:url(#SVGID_3508_);fill:#FFFFFF;}
+	.st1029{clip-path:url(#SVGID_3510_);fill:#FFFFFF;}
+	.st1030{clip-path:url(#SVGID_3512_);fill:#FFFFFF;}
+	.st1031{clip-path:url(#SVGID_3514_);fill:#FFFFFF;}
+	.st1032{clip-path:url(#SVGID_3516_);fill:#FFFFFF;}
+	.st1033{clip-path:url(#SVGID_3518_);fill:#FFFFFF;}
+	.st1034{clip-path:url(#SVGID_3520_);fill:#FFFFFF;}
+	.st1035{clip-path:url(#SVGID_3522_);fill:#FFFFFF;}
+	.st1036{clip-path:url(#SVGID_3524_);fill:#FFFFFF;}
+	.st1037{clip-path:url(#SVGID_3526_);fill:#FFFFFF;}
+	.st1038{clip-path:url(#SVGID_3528_);fill:#FFFFFF;}
+	.st1039{clip-path:url(#SVGID_3530_);fill:#FFFFFF;}
+	.st1040{clip-path:url(#SVGID_3532_);fill:#FFFFFF;}
+	.st1041{clip-path:url(#SVGID_3534_);fill:#FFFFFF;}
+	.st1042{clip-path:url(#SVGID_3536_);fill:#FFFFFF;}
+	.st1043{clip-path:url(#SVGID_3538_);fill:#FFFFFF;}
+	.st1044{clip-path:url(#SVGID_3540_);fill:#FFFFFF;}
+	.st1045{clip-path:url(#SVGID_3542_);fill:#FFFFFF;}
+	.st1046{clip-path:url(#SVGID_3544_);fill:#FFFFFF;}
+	.st1047{clip-path:url(#SVGID_3546_);fill:#FFFFFF;}
+	.st1048{clip-path:url(#SVGID_3548_);fill:#FFFFFF;}
+	.st1049{clip-path:url(#SVGID_3550_);fill:#FFFFFF;}
+	.st1050{clip-path:url(#SVGID_3552_);fill:#FFFFFF;}
+	.st1051{clip-path:url(#SVGID_3554_);fill:#FFFFFF;}
+	.st1052{clip-path:url(#SVGID_3556_);fill:#FFFFFF;}
+	.st1053{clip-path:url(#SVGID_3558_);fill:#FFFFFF;}
+	.st1054{clip-path:url(#SVGID_3560_);fill:#FFFFFF;}
+	.st1055{clip-path:url(#SVGID_3562_);fill:#FFFFFF;}
+	.st1056{clip-path:url(#SVGID_3564_);fill:#FFFFFF;}
+	.st1057{clip-path:url(#SVGID_3566_);fill:#FFFFFF;}
+	.st1058{clip-path:url(#SVGID_3568_);fill:#FFFFFF;}
+	.st1059{clip-path:url(#SVGID_3570_);fill:#FFFFFF;}
+	.st1060{clip-path:url(#SVGID_3572_);fill:#FFFFFF;}
+	.st1061{clip-path:url(#SVGID_3574_);fill:#FFFFFF;}
+	.st1062{clip-path:url(#SVGID_3576_);fill:#FFFFFF;}
+	.st1063{clip-path:url(#SVGID_3578_);fill:#FFFFFF;}
+	.st1064{clip-path:url(#SVGID_3580_);fill:#FFFFFF;}
+	.st1065{clip-path:url(#SVGID_3582_);fill:#FFFFFF;}
+	.st1066{clip-path:url(#SVGID_3584_);fill:#FFFFFF;}
+	.st1067{clip-path:url(#SVGID_3586_);fill:#FFFFFF;}
+	.st1068{clip-path:url(#SVGID_3588_);fill:#FFFFFF;}
+	.st1069{clip-path:url(#SVGID_3590_);fill:#FFFFFF;}
+	.st1070{clip-path:url(#SVGID_3592_);fill:#FFFFFF;}
+	.st1071{clip-path:url(#SVGID_3594_);fill:#FFFFFF;}
+	.st1072{clip-path:url(#SVGID_3596_);fill:#FFFFFF;}
+	.st1073{clip-path:url(#SVGID_3598_);fill:#FFFFFF;}
+	.st1074{clip-path:url(#SVGID_3600_);fill:#FFFFFF;}
+	.st1075{clip-path:url(#SVGID_3602_);fill:#FFFFFF;}
+	.st1076{clip-path:url(#SVGID_3604_);fill:#FFFFFF;}
+	.st1077{clip-path:url(#SVGID_3606_);fill:#FFFFFF;}
+	.st1078{clip-path:url(#SVGID_3608_);fill:#FFFFFF;}
+	.st1079{clip-path:url(#SVGID_3610_);fill:#FFFFFF;}
+	.st1080{clip-path:url(#SVGID_3612_);fill:#FFFFFF;}
+	.st1081{clip-path:url(#SVGID_3614_);fill:#FFFFFF;}
+	.st1082{clip-path:url(#SVGID_3616_);fill:#FFFFFF;}
+	.st1083{clip-path:url(#SVGID_3618_);fill:#FFFFFF;}
+	.st1084{clip-path:url(#SVGID_3620_);fill:#FFFFFF;}
+	.st1085{clip-path:url(#SVGID_3622_);fill:#FFFFFF;}
+	.st1086{clip-path:url(#SVGID_3624_);fill:#FFFFFF;}
+	.st1087{clip-path:url(#SVGID_3626_);fill:#FFFFFF;}
+	.st1088{clip-path:url(#SVGID_3628_);}
+	.st1089{clip-path:url(#SVGID_3630_);}
+	.st1090{clip-path:url(#SVGID_3632_);}
+	.st1091{clip-path:url(#SVGID_3634_);}
+	.st1092{clip-path:url(#SVGID_3636_);}
+	.st1093{clip-path:url(#SVGID_3638_);}
+	.st1094{clip-path:url(#SVGID_3640_);}
+	.st1095{clip-path:url(#SVGID_3642_);}
+	.st1096{clip-path:url(#SVGID_3644_);}
+	.st1097{clip-path:url(#SVGID_3646_);}
+	.st1098{clip-path:url(#SVGID_3648_);}
+	.st1099{clip-path:url(#SVGID_3650_);}
+	.st1100{clip-path:url(#SVGID_3652_);}
+	.st1101{clip-path:url(#SVGID_3654_);}
+	.st1102{clip-path:url(#SVGID_3656_);}
+	.st1103{clip-path:url(#SVGID_3658_);}
+	.st1104{clip-path:url(#SVGID_3660_);}
+	.st1105{clip-path:url(#SVGID_3662_);}
+	.st1106{clip-path:url(#SVGID_3664_);}
+	.st1107{clip-path:url(#SVGID_3666_);}
+	.st1108{clip-path:url(#SVGID_3668_);}
+	.st1109{clip-path:url(#SVGID_3670_);}
+	.st1110{clip-path:url(#SVGID_3672_);}
+	.st1111{clip-path:url(#SVGID_3674_);}
+	.st1112{clip-path:url(#SVGID_3676_);}
+	.st1113{clip-path:url(#SVGID_3678_);}
+	.st1114{clip-path:url(#SVGID_3680_);fill:#FFFFFF;}
+	.st1115{clip-path:url(#SVGID_3682_);fill:#FFFFFF;}
+	.st1116{clip-path:url(#SVGID_3684_);fill:#FFFFFF;}
+	.st1117{clip-path:url(#SVGID_3686_);fill:#FFFFFF;}
+	.st1118{clip-path:url(#SVGID_3688_);fill:#FFFFFF;}
+	.st1119{clip-path:url(#SVGID_3690_);fill:#FFFFFF;}
+	.st1120{clip-path:url(#SVGID_3692_);fill:#FFFFFF;}
+	.st1121{clip-path:url(#SVGID_3694_);fill:#FFFFFF;}
+	.st1122{clip-path:url(#SVGID_3696_);fill:#FFFFFF;}
+	.st1123{clip-path:url(#SVGID_3698_);fill:#FFFFFF;}
+	.st1124{clip-path:url(#SVGID_3700_);fill:#FFFFFF;}
+	.st1125{clip-path:url(#SVGID_3702_);fill:#FFFFFF;}
+	.st1126{clip-path:url(#SVGID_3704_);fill:#FFFFFF;}
+	.st1127{clip-path:url(#SVGID_3706_);fill:#FFFFFF;}
+	.st1128{clip-path:url(#SVGID_3708_);fill:#FFFFFF;}
+	.st1129{clip-path:url(#SVGID_3710_);fill:#FFFFFF;}
+	.st1130{clip-path:url(#SVGID_3712_);fill:#FFFFFF;}
+	.st1131{clip-path:url(#SVGID_3714_);fill:#FFFFFF;}
+	.st1132{clip-path:url(#SVGID_3716_);fill:#FFFFFF;}
+	.st1133{clip-path:url(#SVGID_3718_);fill:#FFFFFF;}
+	.st1134{clip-path:url(#SVGID_3720_);fill:#FFFFFF;}
+	.st1135{clip-path:url(#SVGID_3722_);fill:#FFFFFF;}
+	.st1136{clip-path:url(#SVGID_3724_);fill:#FFFFFF;}
+	.st1137{clip-path:url(#SVGID_3726_);fill:#FFFFFF;}
+	.st1138{clip-path:url(#SVGID_3728_);fill:#FFFFFF;}
+	.st1139{clip-path:url(#SVGID_3730_);fill:#FFFFFF;}
+	.st1140{clip-path:url(#SVGID_3732_);fill:#FFFFFF;}
+	.st1141{clip-path:url(#SVGID_3734_);fill:#FFFFFF;}
+	.st1142{clip-path:url(#SVGID_3736_);fill:#FFFFFF;}
+	.st1143{clip-path:url(#SVGID_3738_);fill:#FFFFFF;}
+	.st1144{clip-path:url(#SVGID_3740_);fill:#FFFFFF;}
+	.st1145{clip-path:url(#SVGID_3742_);fill:#FFFFFF;}
+	.st1146{clip-path:url(#SVGID_3744_);fill:#FFFFFF;}
+	.st1147{clip-path:url(#SVGID_3746_);fill:#FFFFFF;}
+	.st1148{clip-path:url(#SVGID_3748_);fill:#FFFFFF;}
+	.st1149{clip-path:url(#SVGID_3750_);fill:#FFFFFF;}
+	.st1150{clip-path:url(#SVGID_3752_);fill:#FFFFFF;}
+	.st1151{clip-path:url(#SVGID_3754_);fill:none;}
+	.st1152{clip-path:url(#SVGID_3756_);}
+	.st1153{clip-path:url(#SVGID_3758_);}
+	.st1154{clip-path:url(#SVGID_3760_);}
+	.st1155{clip-path:url(#SVGID_3762_);}
+	.st1156{clip-path:url(#SVGID_3764_);fill:none;stroke:#000000;stroke-width:2.9631;stroke-miterlimit:10;}
+	.st1157{clip-path:url(#SVGID_3766_);}
+	.st1158{clip-path:url(#SVGID_3768_);}
+	.st1159{clip-path:url(#SVGID_3770_);}
+	.st1160{clip-path:url(#SVGID_3772_);}
+	.st1161{clip-path:url(#SVGID_3774_);}
+	.st1162{clip-path:url(#SVGID_3776_);}
+	.st1163{clip-path:url(#SVGID_3778_);}
+	.st1164{clip-path:url(#SVGID_3780_);}
+	.st1165{clip-path:url(#SVGID_3782_);}
+	.st1166{clip-path:url(#SVGID_3784_);}
+	.st1167{clip-path:url(#SVGID_3786_);}
+	.st1168{clip-path:url(#SVGID_3788_);}
+	.st1169{clip-path:url(#SVGID_3790_);}
+	.st1170{clip-path:url(#SVGID_3792_);}
+	.st1171{clip-path:url(#SVGID_3794_);}
+	.st1172{clip-path:url(#SVGID_3796_);}
+	.st1173{clip-path:url(#SVGID_3798_);}
+	.st1174{clip-path:url(#SVGID_3800_);}
+	.st1175{clip-path:url(#SVGID_3802_);}
+	.st1176{clip-path:url(#SVGID_3804_);}
+	.st1177{clip-path:url(#SVGID_3806_);}
+	.st1178{clip-path:url(#SVGID_3808_);}
+	.st1179{clip-path:url(#SVGID_3810_);}
+	.st1180{clip-path:url(#SVGID_3812_);}
+	.st1181{clip-path:url(#SVGID_3814_);}
+	.st1182{clip-path:url(#SVGID_3816_);}
+	.st1183{clip-path:url(#SVGID_3818_);}
+	.st1184{clip-path:url(#SVGID_3820_);}
+	.st1185{clip-path:url(#SVGID_3822_);}
+	.st1186{clip-path:url(#SVGID_3824_);}
+	.st1187{clip-path:url(#SVGID_3826_);}
+	.st1188{clip-path:url(#SVGID_3828_);}
+	.st1189{clip-path:url(#SVGID_3830_);}
+	.st1190{clip-path:url(#SVGID_3832_);}
+	.st1191{clip-path:url(#SVGID_3834_);}
+	.st1192{clip-path:url(#SVGID_3836_);}
+	.st1193{clip-path:url(#SVGID_3840_);}
+	.st1194{clip-path:url(#SVGID_3842_);}
+	.st1195{clip-path:url(#SVGID_3844_);}
+	.st1196{clip-path:url(#SVGID_3846_);}
+	.st1197{clip-path:url(#SVGID_3848_);}
+	.st1198{clip-path:url(#SVGID_3850_);}
+	.st1199{clip-path:url(#SVGID_3852_);}
+	.st1200{clip-path:url(#SVGID_3854_);}
+	.st1201{clip-path:url(#SVGID_3856_);}
+	.st1202{clip-path:url(#SVGID_3858_);}
+	.st1203{clip-path:url(#SVGID_3860_);}
+	.st1204{clip-path:url(#SVGID_3862_);}
+	.st1205{clip-path:url(#SVGID_3864_);}
+	.st1206{clip-path:url(#SVGID_3866_);}
+	.st1207{clip-path:url(#SVGID_3868_);}
+	.st1208{clip-path:url(#SVGID_3870_);}
+	.st1209{clip-path:url(#SVGID_3872_);}
+	.st1210{clip-path:url(#SVGID_3874_);}
+	.st1211{clip-path:url(#SVGID_3876_);}
+	.st1212{clip-path:url(#SVGID_3878_);}
+	.st1213{clip-path:url(#SVGID_3880_);}
+	.st1214{clip-path:url(#SVGID_3882_);}
+	.st1215{clip-path:url(#SVGID_3884_);}
+	.st1216{clip-path:url(#SVGID_3886_);}
+	.st1217{clip-path:url(#SVGID_3888_);}
+	.st1218{clip-path:url(#SVGID_3890_);}
+	.st1219{clip-path:url(#SVGID_3892_);}
+	.st1220{clip-path:url(#SVGID_3894_);}
+	.st1221{clip-path:url(#SVGID_3896_);}
+	.st1222{clip-path:url(#SVGID_3898_);}
+	.st1223{clip-path:url(#SVGID_3900_);}
+	.st1224{clip-path:url(#SVGID_3902_);}
+	.st1225{clip-path:url(#SVGID_3904_);}
+	.st1226{clip-path:url(#SVGID_3906_);}
+	.st1227{clip-path:url(#SVGID_3908_);}
+	.st1228{clip-path:url(#SVGID_3910_);}
+	.st1229{clip-path:url(#SVGID_3912_);}
+	.st1230{clip-path:url(#SVGID_3914_);}
+	.st1231{clip-path:url(#SVGID_3916_);}
+	.st1232{clip-path:url(#SVGID_3918_);}
+	.st1233{clip-path:url(#SVGID_3920_);}
+	.st1234{clip-path:url(#SVGID_3922_);}
+	.st1235{clip-path:url(#SVGID_3924_);}
+	.st1236{clip-path:url(#SVGID_3926_);}
+	.st1237{clip-path:url(#SVGID_3928_);}
+	.st1238{clip-path:url(#SVGID_3930_);}
+	.st1239{clip-path:url(#SVGID_3932_);}
+	.st1240{clip-path:url(#SVGID_3934_);}
+	.st1241{clip-path:url(#SVGID_3936_);}
+	.st1242{clip-path:url(#SVGID_3938_);}
+	.st1243{clip-path:url(#SVGID_3940_);}
+	.st1244{clip-path:url(#SVGID_3942_);}
+	.st1245{clip-path:url(#SVGID_3944_);}
+	.st1246{clip-path:url(#SVGID_3946_);}
+	.st1247{clip-path:url(#SVGID_3948_);}
+	.st1248{clip-path:url(#SVGID_3950_);}
+	.st1249{clip-path:url(#SVGID_3952_);}
+	.st1250{clip-path:url(#SVGID_3954_);}
+	.st1251{clip-path:url(#SVGID_3956_);}
+	.st1252{clip-path:url(#SVGID_3958_);}
+	.st1253{clip-path:url(#SVGID_3960_);}
+	.st1254{clip-path:url(#SVGID_3962_);}
+	.st1255{clip-path:url(#SVGID_3964_);}
+	.st1256{clip-path:url(#SVGID_3966_);}
+	.st1257{clip-path:url(#SVGID_3968_);}
+	.st1258{clip-path:url(#SVGID_3970_);}
+	.st1259{clip-path:url(#SVGID_3972_);}
+	.st1260{clip-path:url(#SVGID_3974_);}
+	.st1261{clip-path:url(#SVGID_3976_);}
+	.st1262{clip-path:url(#SVGID_3978_);}
+	.st1263{clip-path:url(#SVGID_3980_);}
+	.st1264{clip-path:url(#SVGID_3982_);}
+	.st1265{clip-path:url(#SVGID_3984_);}
+	.st1266{clip-path:url(#SVGID_3986_);}
+	.st1267{clip-path:url(#SVGID_3988_);}
+	.st1268{clip-path:url(#SVGID_3990_);}
+	.st1269{clip-path:url(#SVGID_3992_);}
+	.st1270{clip-path:url(#SVGID_3994_);}
+	.st1271{clip-path:url(#SVGID_3996_);}
+	.st1272{clip-path:url(#SVGID_3998_);}
+	.st1273{clip-path:url(#SVGID_4000_);}
+	.st1274{clip-path:url(#SVGID_4002_);}
+	.st1275{clip-path:url(#SVGID_4004_);}
+	.st1276{clip-path:url(#SVGID_4006_);}
+	.st1277{clip-path:url(#SVGID_4008_);}
+	.st1278{clip-path:url(#SVGID_4010_);}
+	.st1279{clip-path:url(#SVGID_4012_);}
+	.st1280{clip-path:url(#SVGID_4014_);}
+	.st1281{clip-path:url(#SVGID_4016_);}
+	.st1282{clip-path:url(#SVGID_4018_);}
+	.st1283{clip-path:url(#SVGID_4020_);}
+	.st1284{clip-path:url(#SVGID_4022_);}
+	.st1285{clip-path:url(#SVGID_4024_);}
+	.st1286{clip-path:url(#SVGID_4026_);}
+	.st1287{clip-path:url(#SVGID_4028_);}
+	.st1288{clip-path:url(#SVGID_4030_);}
+	.st1289{clip-path:url(#SVGID_4032_);}
+	.st1290{clip-path:url(#SVGID_4034_);}
+	.st1291{clip-path:url(#SVGID_4036_);}
+	.st1292{clip-path:url(#SVGID_4038_);}
+	.st1293{clip-path:url(#SVGID_4040_);}
+	.st1294{clip-path:url(#SVGID_4042_);}
+	.st1295{clip-path:url(#SVGID_4044_);}
+	.st1296{clip-path:url(#SVGID_4046_);}
+	.st1297{clip-path:url(#SVGID_4048_);}
+	.st1298{clip-path:url(#SVGID_4050_);}
+	.st1299{clip-path:url(#SVGID_4052_);}
+	.st1300{clip-path:url(#SVGID_4054_);}
+	.st1301{clip-path:url(#SVGID_4056_);}
+	.st1302{clip-path:url(#SVGID_4058_);}
+	.st1303{clip-path:url(#SVGID_4060_);}
+	.st1304{clip-path:url(#SVGID_4062_);}
+	.st1305{clip-path:url(#SVGID_4064_);}
+	.st1306{clip-path:url(#SVGID_4066_);}
+	.st1307{clip-path:url(#SVGID_4068_);}
+	.st1308{clip-path:url(#SVGID_4070_);}
+	.st1309{clip-path:url(#SVGID_4072_);}
+	.st1310{clip-path:url(#SVGID_4074_);}
+	.st1311{clip-path:url(#SVGID_4076_);}
+	.st1312{clip-path:url(#SVGID_4078_);}
+	.st1313{clip-path:url(#SVGID_4080_);}
+	.st1314{clip-path:url(#SVGID_4082_);}
+	.st1315{clip-path:url(#SVGID_4084_);}
+	.st1316{clip-path:url(#SVGID_4086_);}
+	.st1317{clip-path:url(#SVGID_4088_);}
+	.st1318{clip-path:url(#SVGID_4090_);}
+	.st1319{clip-path:url(#SVGID_4092_);}
+	.st1320{clip-path:url(#SVGID_4094_);}
+	.st1321{clip-path:url(#SVGID_4096_);}
+	.st1322{clip-path:url(#SVGID_4098_);}
+	.st1323{clip-path:url(#SVGID_4100_);}
+	.st1324{clip-path:url(#SVGID_4102_);}
+	.st1325{clip-path:url(#SVGID_4104_);}
+	.st1326{clip-path:url(#SVGID_4106_);}
+	.st1327{clip-path:url(#SVGID_4108_);}
+	.st1328{clip-path:url(#SVGID_4110_);}
+	.st1329{clip-path:url(#SVGID_4112_);}
+	.st1330{clip-path:url(#SVGID_4114_);}
+	.st1331{clip-path:url(#SVGID_4116_);}
+	.st1332{clip-path:url(#SVGID_4118_);}
+	.st1333{clip-path:url(#SVGID_4120_);}
+	.st1334{clip-path:url(#SVGID_4122_);}
+	.st1335{clip-path:url(#SVGID_4124_);}
+	.st1336{clip-path:url(#SVGID_4126_);}
+	.st1337{clip-path:url(#SVGID_4574_);}
+	.st1338{clip-path:url(#SVGID_4576_);}
+	.st1339{clip-path:url(#SVGID_4578_);}
+	.st1340{clip-path:url(#SVGID_4580_);}
+	.st1341{clip-path:url(#SVGID_4582_);}
+	.st1342{clip-path:url(#SVGID_4584_);}
+	.st1343{clip-path:url(#SVGID_4586_);}
+	.st1344{clip-path:url(#SVGID_4588_);}
+	.st1345{clip-path:url(#SVGID_4590_);}
+	.st1346{clip-path:url(#SVGID_4592_);}
+	.st1347{clip-path:url(#SVGID_4594_);}
+	.st1348{clip-path:url(#SVGID_4596_);}
+	.st1349{clip-path:url(#SVGID_4598_);}
+	.st1350{clip-path:url(#SVGID_4600_);}
+	.st1351{clip-path:url(#SVGID_4602_);}
+	.st1352{clip-path:url(#SVGID_4604_);}
+	.st1353{clip-path:url(#SVGID_4606_);}
+	.st1354{clip-path:url(#SVGID_4608_);}
+	.st1355{clip-path:url(#SVGID_4610_);}
+	.st1356{clip-path:url(#SVGID_4612_);}
+	.st1357{clip-path:url(#SVGID_4614_);}
+	.st1358{clip-path:url(#SVGID_4616_);}
+	.st1359{clip-path:url(#SVGID_4618_);}
+	.st1360{clip-path:url(#SVGID_4620_);}
+	.st1361{clip-path:url(#SVGID_4622_);}
+	.st1362{clip-path:url(#SVGID_4624_);}
+	.st1363{clip-path:url(#SVGID_4700_);fill:none;}
+	.st1364{clip-path:url(#SVGID_4702_);}
+	.st1365{clip-path:url(#SVGID_4704_);}
+	.st1366{clip-path:url(#SVGID_4706_);}
+	.st1367{clip-path:url(#SVGID_4708_);}
+	.st1368{clip-path:url(#SVGID_4710_);}
+	.st1369{clip-path:url(#SVGID_4712_);}
+	.st1370{clip-path:url(#SVGID_4718_);}
+	.st1371{clip-path:url(#SVGID_4720_);}
+	.st1372{clip-path:url(#SVGID_4722_);}
+	.st1373{clip-path:url(#SVGID_4724_);}
+	.st1374{clip-path:url(#SVGID_4726_);}
+	.st1375{clip-path:url(#SVGID_4728_);}
+	.st1376{clip-path:url(#SVGID_4732_);}
+	.st1377{clip-path:url(#SVGID_4734_);}
+	.st1378{clip-path:url(#SVGID_4736_);}
+	.st1379{clip-path:url(#SVGID_4738_);}
+	.st1380{clip-path:url(#SVGID_4740_);}
+	.st1381{clip-path:url(#SVGID_4742_);}
+	.st1382{clip-path:url(#SVGID_4744_);}
+	.st1383{clip-path:url(#SVGID_4746_);}
+	.st1384{clip-path:url(#SVGID_4748_);}
+	.st1385{clip-path:url(#SVGID_4750_);}
+	.st1386{clip-path:url(#SVGID_4752_);}
+	.st1387{clip-path:url(#SVGID_4754_);}
+	.st1388{clip-path:url(#SVGID_4756_);}
+	.st1389{clip-path:url(#SVGID_4758_);}
+	.st1390{clip-path:url(#SVGID_4760_);}
+	.st1391{fill:#FDF2E8;}
+</style>
+<g>
+	<g>
+		<path class="st1391" d="M12.8,0C12.8,0,0,0,0,12.8v530.2c0,0,0,12.8,12.8,12.8h973.8c0,0,12.8,0,12.8-12.8V12.8
+			c0,0,0-12.8-12.8-12.8H12.8z"/>
+		<path class="st2" d="M358.8,45.9c0-0.5-0.3-0.8-0.9-0.8s-0.9,0.3-0.9,0.8v10.9c0,0.5,0.3,0.8,0.9,0.8s0.9-0.3,0.9-0.8v-5.4
+			c0.5,0,1,0.1,1.4,0.2c0.4,0.1,0.8,0.4,1,0.7c0.3,0.3,0.5,0.6,0.7,0.9s0.4,0.7,0.6,1.2l0.2,0.6c0.4,1.1,0.7,1.8,1,2.2
+			c0.3,0.3,0.6,0.4,1.1,0.3c0.6-0.1,0.8-0.4,0.5-0.9c-0.3-0.5-0.7-1.5-1.2-2.9c-0.6-1.7-1.6-2.7-2.9-3.1c0.9-0.4,1.6-1.1,2.1-2v0
+			l0.2-0.3c0.6-1,1-1.7,1.3-2.1c0.2-0.2,0.2-0.4,0.2-0.6c0-0.3-0.2-0.4-0.6-0.5c-0.5-0.1-1,0.1-1.3,0.5h0c-0.2,0.3-0.6,0.8-1,1.6
+			c-0.2,0.3-0.3,0.6-0.5,0.8c-0.4,0.6-0.8,1.1-1.2,1.4c-0.4,0.3-1,0.5-1.7,0.6V45.9z M346.1,45.8C346.1,45.8,346.1,45.8,346.1,45.8
+			L346.1,45.8c-0.1-0.2-0.2-0.3-0.2-0.4c-0.1-0.1-0.1-0.1-0.3-0.2c-0.1-0.1-0.3-0.1-0.5-0.1c-0.3,0-0.5,0.1-0.7,0.2
+			c-0.2,0.1-0.2,0.3-0.1,0.6l4.3,9.1c-0.1,0.3-0.3,0.5-0.5,0.7c-0.2,0.2-0.6,0.2-1.1,0.2c-0.3,0-0.5,0-0.6,0.2
+			c-0.1,0.1-0.2,0.3-0.2,0.5c0,0.5,0.3,0.8,0.8,0.8c0.9,0.1,1.6-0.1,2.1-0.4c0.5-0.4,0.9-1,1.3-2l3.8-9.1c0.1-0.3,0.1-0.5,0-0.6
+			c-0.1-0.1-0.3-0.2-0.6-0.2c-0.3,0-0.5,0-0.6,0.1c-0.2,0.1-0.3,0.1-0.3,0.2c0,0.1-0.1,0.2-0.2,0.4l-2.6,6.5l-0.3,0.9l-0.4-0.9
+			L346.1,45.8z M335.3,51.1v-4c0-0.3,0.1-0.4,0.4-0.4h2.5c0.7,0,1.2,0.2,1.6,0.6c0.4,0.4,0.6,0.9,0.6,1.6c0,0.6-0.2,1.2-0.6,1.6
+			c-0.4,0.4-1,0.6-1.7,0.6H335.3z M335.3,56.8v-4.3h3c1.2,0,2.1-0.3,2.9-1c0.7-0.7,1.1-1.6,1.1-2.6c0-1.1-0.4-2-1.2-2.7
+			c-0.8-0.7-1.8-1-3-1h-3c-0.6,0-1.1,0.1-1.3,0.4c-0.2,0.3-0.4,0.7-0.4,1.2v9.9c0,0.5,0.3,0.8,0.9,0.8
+			C335,57.6,335.3,57.3,335.3,56.8 M315.9,55.7c0,0.5,0.1,0.9,0.4,1.2c0.2,0.3,0.7,0.5,1.3,0.5h5.7c0.5,0,0.8-0.3,0.8-0.8
+			c0-0.5-0.3-0.8-0.8-0.8h-5.1c-0.3,0-0.4-0.1-0.4-0.4v-3.7h4.3c0.5,0,0.7-0.3,0.7-0.8c0-0.5-0.2-0.8-0.7-0.8h-4.3v-3.2
+			c0-0.2,0.1-0.4,0.4-0.4h5.1c0.5,0,0.8-0.3,0.8-0.8c0-0.5-0.3-0.8-0.8-0.8h-5.7c-0.6,0-1.1,0.2-1.3,0.5c-0.2,0.3-0.4,0.7-0.4,1.2
+			V55.7z M321.4,42.4c-0.4,0-0.7,0.1-0.8,0.2s-0.2,0.4-0.2,0.7c0,0.3,0.1,0.6,0.2,0.8c0.1,0.2,0.4,0.3,0.8,0.3s0.7-0.1,0.8-0.3
+			c0.1-0.2,0.2-0.4,0.2-0.8c0-0.3-0.1-0.6-0.2-0.7C322.1,42.5,321.8,42.4,321.4,42.4 M318.4,42.4c-0.4,0-0.7,0.1-0.8,0.2
+			s-0.2,0.4-0.2,0.7c0,0.3,0.1,0.6,0.2,0.8c0.1,0.2,0.4,0.3,0.8,0.3c0.4,0,0.7-0.1,0.8-0.3c0.1-0.2,0.2-0.4,0.2-0.8
+			c0-0.3-0.1-0.6-0.2-0.7C319.1,42.5,318.8,42.4,318.4,42.4 M305.8,51.5h2.8c0.7,0,1.3,0.2,1.7,0.6c0.4,0.4,0.6,0.9,0.6,1.5
+			c0,0.6-0.2,1.2-0.6,1.6c-0.4,0.4-0.9,0.6-1.6,0.6h-2.5c-0.3,0-0.4-0.1-0.4-0.4V51.5z M305.8,45.8c0-0.5-0.3-0.8-0.9-0.8
+			c-0.6,0-0.9,0.3-0.9,0.8v9.9c0,0.5,0.1,1,0.4,1.2c0.2,0.3,0.7,0.4,1.3,0.4h3c1.2,0,2.2-0.4,3-1.1c0.8-0.7,1.2-1.6,1.2-2.7
+			c0-1.1-0.4-2-1.1-2.6c-0.7-0.7-1.7-1-2.9-1h-3V45.8z M293.1,45.2c-0.5,0-0.8,0.3-0.8,0.8c0,0.5,0.3,0.8,0.8,0.8h2.8v10
+			c0,0.5,0.3,0.8,0.9,0.8c0.6,0,0.9-0.3,0.9-0.8v-10h2.8c0.5,0,0.8-0.3,0.8-0.8c0-0.5-0.3-0.8-0.8-0.8H293.1z M279.3,51.5h2.7
+			c0.7,0,1.3,0.2,1.7,0.6c0.4,0.4,0.6,0.9,0.6,1.5c0,0.6-0.2,1.2-0.6,1.6c-0.4,0.4-0.9,0.6-1.6,0.6h-2.4c-0.3,0-0.4-0.1-0.4-0.4
+			V51.5z M279.3,45.8c0-0.5-0.3-0.8-0.9-0.8c-0.6,0-0.9,0.3-0.9,0.8v9.9c0,0.5,0.1,0.9,0.4,1.2c0.2,0.3,0.7,0.5,1.3,0.5h2.9
+			c1.2,0,2.2-0.4,3-1.1c0.8-0.7,1.2-1.6,1.2-2.7c0-1.1-0.4-2-1.1-2.6c-0.7-0.7-1.7-1-2.9-1h-2.9V45.8z M289.5,45.9
+			c0-0.5-0.3-0.8-0.9-0.8c-0.6,0-0.9,0.3-0.9,0.8v10.9c0,0.5,0.3,0.8,0.9,0.8c0.6,0,0.9-0.3,0.9-0.8V45.9z M268.5,53.4
+			c0.4,0,0.7-0.2,1-0.7l2.3-3.9v0l0.3-0.5v8.6c0,0.5,0.3,0.8,0.9,0.8c0.5,0,0.8-0.3,0.8-0.8V45.9c0-0.5-0.3-0.8-0.9-0.8
+			c-0.5,0-0.9,0.2-1.1,0.7l-3.1,5.5l-3.2-5.5c-0.1-0.3-0.3-0.4-0.5-0.6c-0.2-0.1-0.4-0.2-0.7-0.2c-0.6,0-0.9,0.3-0.9,0.8v10.9
+			c0,0.5,0.3,0.8,0.8,0.8c0.6,0,0.9-0.3,0.9-0.8v-8.6c0.1,0.2,0.2,0.4,0.3,0.5v0l2.3,3.9C267.8,53.1,268.1,53.4,268.5,53.4
+			 M251.8,51.3c0,1.6-0.3,2.7-0.9,3.5c-0.6,0.8-1.5,1.1-2.7,1.1c-1.2,0-2.1-0.4-2.7-1.1c-0.6-0.8-0.9-1.9-0.9-3.5
+			c0-1.6,0.3-2.8,0.9-3.5c0.6-0.8,1.5-1.1,2.7-1.1c1.2,0,2.1,0.4,2.7,1.1C251.5,48.6,251.8,49.7,251.8,51.3 M252.4,46.8
+			c-1-1.2-2.4-1.8-4.2-1.8c-1.8,0-3.2,0.6-4.2,1.8c-0.9,1.1-1.3,2.6-1.3,4.5c0,2,0.5,3.5,1.5,4.6c1,1.1,2.3,1.7,4.1,1.7
+			c1.8,0,3.1-0.5,4.1-1.6c1-1.1,1.5-2.7,1.5-4.7C253.8,49.4,253.3,47.9,252.4,46.8 M233.3,51.1v-4c0-0.3,0.1-0.4,0.4-0.4h2.5
+			c0.7,0,1.2,0.2,1.6,0.6s0.6,0.9,0.6,1.6c0,0.6-0.2,1.2-0.6,1.6c-0.4,0.4-1,0.6-1.7,0.6H233.3z M233.3,56.8v-4.3h3
+			c1.2,0,2.1-0.3,2.9-1c0.7-0.7,1.1-1.6,1.1-2.6c0-1.1-0.4-2-1.2-2.7c-0.8-0.7-1.8-1-3-1h-3c-0.6,0-1.1,0.1-1.3,0.4
+			c-0.2,0.3-0.4,0.7-0.4,1.2v9.9c0,0.5,0.3,0.8,0.9,0.8C233,57.6,233.3,57.3,233.3,56.8 M227.8,46.9c0-0.5-0.1-0.9-0.4-1.2
+			c-0.2-0.3-0.7-0.5-1.3-0.5h-5.7c-0.6,0-1.1,0.1-1.3,0.4c-0.2,0.3-0.4,0.7-0.4,1.2v9.9c0,0.5,0.3,0.8,0.9,0.8
+			c0.6,0,0.9-0.3,0.9-0.8v-9.7c0-0.2,0.1-0.4,0.4-0.4h4.6c0.3,0,0.4,0.1,0.4,0.4v9.7c0,0.5,0.3,0.8,0.9,0.8c0.6,0,0.9-0.3,0.9-0.8
+			V46.9z M201.9,51.3c0-0.5,0-1,0-1.4c0-0.4,0.1-0.8,0.2-1.3s0.2-0.9,0.4-1.2c0.2-0.3,0.4-0.6,0.7-0.8c0.3-0.2,0.7-0.3,1.1-0.3
+			c0.4,0,0.7,0.1,1,0.2c0.3,0.1,0.5,0.3,0.7,0.6s0.3,0.5,0.4,0.8s0.2,0.6,0.2,1.1c0,0.4,0.1,0.8,0.1,1.1c0,0.3,0,0.7,0,1.1
+			c0,0.5,0,1,0,1.4c0,0.4-0.1,0.8-0.2,1.3c-0.1,0.5-0.2,0.9-0.4,1.2c-0.2,0.3-0.4,0.6-0.7,0.8c-0.3,0.2-0.7,0.3-1.1,0.3
+			c-0.5,0-1-0.1-1.3-0.4c-0.3-0.3-0.6-0.7-0.7-1.2s-0.2-1-0.3-1.5C201.9,52.5,201.9,52,201.9,51.3 M208.4,51.3
+			c0-4.2-1.4-6.3-4.1-6.3c-2.7,0-4.1,2.1-4.1,6.3c0,1.9,0.3,3.5,1,4.6c0.7,1.1,1.7,1.7,3.1,1.7c1.4,0,2.4-0.6,3.1-1.7
+			C208,54.8,208.4,53.2,208.4,51.3 M190.3,51.3c0-0.5,0-1,0-1.4c0-0.4,0.1-0.8,0.2-1.3c0.1-0.5,0.2-0.9,0.4-1.2
+			c0.2-0.3,0.4-0.6,0.7-0.8c0.3-0.2,0.7-0.3,1.1-0.3c0.4,0,0.7,0.1,1,0.2c0.3,0.1,0.5,0.3,0.7,0.6c0.2,0.3,0.3,0.5,0.4,0.8
+			s0.2,0.6,0.2,1.1c0,0.4,0.1,0.8,0.1,1.1c0,0.3,0,0.7,0,1.1c0,0.5,0,1,0,1.4c0,0.4-0.1,0.8-0.2,1.3c-0.1,0.5-0.2,0.9-0.4,1.2
+			c-0.2,0.3-0.4,0.6-0.7,0.8c-0.3,0.2-0.7,0.3-1.1,0.3c-0.5,0-1-0.1-1.3-0.4c-0.3-0.3-0.6-0.7-0.7-1.2c-0.1-0.5-0.2-1-0.3-1.5
+			C190.3,52.5,190.3,52,190.3,51.3 M196.8,51.3c0-4.2-1.4-6.3-4.1-6.3c-2.7,0-4.1,2.1-4.1,6.3c0,1.9,0.3,3.5,1,4.6
+			c0.7,1.1,1.7,1.7,3.1,1.7s2.4-0.6,3.1-1.7C196.4,54.8,196.8,53.2,196.8,51.3 M179.8,51.4c0.7-0.2,1.3-0.4,1.7-0.3
+			c0.6,0,1.1,0.2,1.4,0.6c0.3,0.4,0.5,1,0.5,1.9c0,0.8-0.2,1.4-0.5,1.9c-0.3,0.5-0.8,0.7-1.5,0.7c-0.2,0-0.4,0-0.5,0
+			c-0.2,0-0.3-0.1-0.4-0.1c-0.1,0-0.2-0.1-0.3-0.2c-0.1-0.1-0.2-0.2-0.2-0.2c-0.1-0.1-0.1-0.1-0.2-0.3c-0.1-0.1-0.1-0.2-0.1-0.3
+			c0,0-0.1-0.1-0.1-0.3c-0.1-0.1-0.1-0.2-0.1-0.3c-0.1-0.2-0.3-0.3-0.5-0.4c-0.2,0-0.4,0-0.6,0.1c-0.4,0.2-0.5,0.5-0.3,1
+			c0.3,0.8,0.8,1.4,1.3,1.7c0.5,0.4,1.2,0.5,2.1,0.5c0.6,0,1.1-0.1,1.5-0.3c0.5-0.2,0.8-0.4,1.1-0.7c0.3-0.3,0.5-0.6,0.6-1
+			c0.2-0.4,0.3-0.7,0.3-1.1c0.1-0.4,0.1-0.7,0.1-1.1c0-0.7-0.1-1.3-0.3-1.8c-0.2-0.5-0.5-0.9-0.8-1.2c-0.3-0.3-0.7-0.5-1.1-0.6
+			c-0.4-0.1-0.8-0.2-1.3-0.2c-0.2,0-0.3,0-0.4,0s-0.2,0-0.3,0c-0.1,0-0.2,0-0.3,0.1c-0.1,0-0.3,0.1-0.4,0.1c-0.2,0.1-0.3,0-0.3-0.2
+			l0-2.6c0-0.2,0.1-0.3,0.3-0.3h4c0.5,0,0.7-0.3,0.7-0.8c0-0.2-0.1-0.4-0.2-0.5c-0.1-0.1-0.3-0.2-0.5-0.2h-4.8c-0.6,0-1,0.3-1.1,1
+			l0,4c0,0.4,0,0.7,0.2,1c0.2,0.2,0.5,0.4,0.8,0.4C179.4,51.5,179.6,51.5,179.8,51.4 M168,51.3c0-0.5,0-1,0-1.4
+			c0-0.4,0.1-0.8,0.2-1.3c0.1-0.5,0.2-0.9,0.4-1.2s0.4-0.6,0.7-0.8c0.3-0.2,0.7-0.3,1.1-0.3c0.4,0,0.7,0.1,1,0.2
+			c0.3,0.1,0.5,0.3,0.7,0.6s0.3,0.5,0.4,0.8s0.2,0.6,0.2,1.1c0,0.4,0.1,0.8,0.1,1.1s0,0.7,0,1.1c0,0.5,0,1,0,1.4
+			c0,0.4-0.1,0.8-0.2,1.3c-0.1,0.5-0.2,0.9-0.4,1.2c-0.2,0.3-0.4,0.6-0.7,0.8c-0.3,0.2-0.7,0.3-1.1,0.3c-0.5,0-1-0.1-1.3-0.4
+			c-0.3-0.3-0.6-0.7-0.7-1.2s-0.2-1-0.3-1.5C168,52.5,168,52,168,51.3 M174.5,51.3c0-4.2-1.4-6.3-4.1-6.3c-2.7,0-4.1,2.1-4.1,6.3
+			c0,1.9,0.3,3.5,1,4.6c0.7,1.1,1.7,1.7,3.1,1.7s2.4-0.6,3.1-1.7C174.2,54.8,174.5,53.2,174.5,51.3 M156.4,51.3c0-0.5,0-1,0-1.4
+			c0-0.4,0.1-0.8,0.2-1.3s0.2-0.9,0.4-1.2c0.2-0.3,0.4-0.6,0.7-0.8c0.3-0.2,0.7-0.3,1.1-0.3c0.4,0,0.7,0.1,1,0.2
+			c0.3,0.1,0.5,0.3,0.7,0.6s0.3,0.5,0.4,0.8c0.1,0.3,0.2,0.6,0.2,1.1c0,0.4,0.1,0.8,0.1,1.1c0,0.3,0,0.7,0,1.1c0,0.5,0,1,0,1.4
+			c0,0.4-0.1,0.8-0.2,1.3s-0.2,0.9-0.4,1.2c-0.2,0.3-0.4,0.6-0.7,0.8c-0.3,0.2-0.7,0.3-1.1,0.3c-0.5,0-1-0.1-1.3-0.4
+			c-0.3-0.3-0.6-0.7-0.7-1.2c-0.1-0.5-0.2-1-0.3-1.5C156.4,52.5,156.4,52,156.4,51.3 M162.9,51.3c0-4.2-1.4-6.3-4.1-6.3
+			c-2.7,0-4.1,2.1-4.1,6.3c0,1.9,0.3,3.5,1,4.6c0.7,1.1,1.7,1.7,3.1,1.7s2.4-0.6,3.1-1.7C162.6,54.8,162.9,53.2,162.9,51.3
+			 M151,45.9c0-0.5-0.3-0.7-0.8-0.8c-0.2,0-0.5,0.1-0.8,0.3h0l-2.4,1.4c-0.4,0.2-0.5,0.5-0.5,0.9c0.1,0.4,0.3,0.5,0.6,0.5
+			c0.1,0,0.3,0,0.5-0.1l1-0.6c0.4-0.2,0.6-0.3,0.7-0.4v9.8c0,0.5,0.3,0.8,0.8,0.8s0.8-0.3,0.8-0.8V45.9z M143.7,52.6
+			c0.4,0,0.6-0.2,0.6-0.6c0-0.4-0.2-0.6-0.6-0.6h-3.8c-0.4,0-0.6,0.2-0.6,0.6c0,0.4,0.2,0.6,0.6,0.6H143.7z M143,48
+			c0,1.1-0.4,1.7-1.2,1.7c-0.8,0-1.2-0.6-1.2-1.7c0-1.1,0.4-1.7,1.2-1.7C142.6,46.3,143,46.8,143,48 M139.3,48
+			c0,1.8,0.8,2.7,2.5,2.7c1.6,0,2.4-0.9,2.4-2.7c0-1.8-0.8-2.7-2.4-2.7C140.2,45.2,139.3,46.1,139.3,48 M128.6,45.9v11
+			c0,0.4,0.3,0.6,0.8,0.6c0.5,0,0.8-0.2,0.8-0.6v-7.5c0-0.4,0-0.8-0.1-1.3l5.6,8.9c0.3,0.4,0.7,0.6,1.1,0.6c0.6,0,1-0.2,1-0.7v-11
+			c0-0.4-0.3-0.6-0.8-0.6s-0.8,0.2-0.8,0.6V53c0,0.4,0,1,0.1,1.8c-3.3-5.2-5.2-8.2-5.7-9c-0.3-0.4-0.6-0.6-1.1-0.6
+			C129,45.2,128.6,45.4,128.6,45.9 M117.2,51.3c0,1.6-0.3,2.7-0.9,3.5c-0.6,0.8-1.5,1.1-2.7,1.1c-1.2,0-2.1-0.4-2.7-1.1
+			c-0.6-0.8-0.9-1.9-0.9-3.5c0-1.6,0.3-2.8,0.9-3.5c0.6-0.8,1.5-1.1,2.7-1.1c1.2,0,2.1,0.4,2.7,1.1
+			C116.9,48.6,117.2,49.7,117.2,51.3 M117.8,46.8c-1-1.2-2.4-1.8-4.2-1.8c-1.8,0-3.2,0.6-4.2,1.8c-0.9,1.1-1.3,2.6-1.3,4.5
+			c0,2,0.5,3.5,1.5,4.6c1,1.1,2.3,1.7,4.1,1.7c1.8,0,3.1-0.5,4.1-1.6c1-1.1,1.5-2.7,1.5-4.7C119.1,49.4,118.7,47.9,117.8,46.8
+			 M104.9,46.9c0-0.5-0.1-1-0.4-1.2c-0.2-0.3-0.7-0.4-1.3-0.4h-3.8c-0.6,0-1.1,0.1-1.3,0.4c-0.2,0.3-0.4,0.7-0.5,1.3
+			c-0.1,2.4-0.3,4.5-0.5,6.5c-0.1,0.7-0.2,1.3-0.4,1.8c-0.1,0.5-0.5,0.7-0.9,0.6c-0.2,0-0.4,0.1-0.6,0.3c-0.2,0.2-0.3,0.3-0.3,0.5
+			c0,0.4,0.1,0.6,0.3,0.7c0.2,0.1,0.5,0.2,0.8,0.2c1.1,0,1.9-0.5,2.4-1.5c0.3-0.5,0.4-1.3,0.5-2.4c0.1-0.8,0.2-2,0.3-3.5
+			c0.1-1.5,0.2-2.5,0.2-2.7c0,0,0-0.1,0-0.3c0-0.3,0.2-0.4,0.4-0.4h2.8c0.1,0,0.2,0,0.3,0.1c0.1,0.1,0.1,0.1,0.1,0.3v9.6
+			c0,0.3,0.1,0.5,0.3,0.6c0.2,0.1,0.4,0.2,0.7,0.2c0.6,0,0.9-0.3,0.9-0.8V46.9z M84.5,45.9c0-0.5-0.3-0.8-0.9-0.8
+			c-0.6,0-0.9,0.3-0.9,0.8v10.9c0,0.5,0.3,0.8,0.9,0.8c0.4,0,0.7-0.1,0.8-0.4v0l5.5-8.1c0.2-0.3,0.4-0.5,0.5-0.8v8.4
+			c0,0.5,0.3,0.8,0.9,0.8c0.6,0,0.9-0.3,0.9-0.8V45.9c0-0.5-0.3-0.8-0.9-0.8c-0.4,0-0.6,0.1-0.8,0.4l-5.3,7.9
+			c-0.2,0.3-0.5,0.7-0.6,1V45.9z M72,50.3v-3.3c0-0.3,0.1-0.4,0.4-0.4h2.7c0.7,0,1.2,0.1,1.6,0.4c0.4,0.3,0.6,0.7,0.6,1.3
+			c0,1.3-0.9,1.9-2.7,1.9H72z M75.3,55.9h-2.9c-0.3,0-0.4-0.1-0.4-0.4v-3.8h3.1c0.8,0,1.4,0.2,1.9,0.5c0.5,0.4,0.7,0.9,0.7,1.7
+			c0,0.6-0.2,1.1-0.7,1.5C76.6,55.8,76,55.9,75.3,55.9 M70.2,46.9v8.8c0,0.5,0.1,0.9,0.4,1.2c0.2,0.3,0.7,0.5,1.3,0.5h3.5
+			c1.2,0,2.2-0.3,3-0.9c0.8-0.6,1.1-1.4,1.1-2.6c0-0.7-0.2-1.3-0.6-1.9c-0.4-0.5-0.9-0.9-1.6-1.2c1.3-0.5,1.9-1.4,1.9-2.7
+			c0-1-0.4-1.7-1.1-2.2s-1.6-0.8-2.7-0.8h-3.5c-0.6,0-1.1,0.2-1.3,0.5C70.3,46,70.2,46.4,70.2,46.9 M60.4,52.6
+			c0.5-1.5,0.9-2.7,1.2-3.5c0.2-0.4,0.3-1,0.5-1.7v0c0.2,0.9,0.4,1.5,0.5,1.7l1.2,3.5H60.4z M63.3,45.9c-0.2-0.5-0.6-0.7-1.1-0.7
+			c-0.5,0-0.9,0.2-1.1,0.7l-4,10.9c-0.2,0.5,0,0.8,0.7,0.8c0.3,0,0.6-0.1,0.8-0.2c0.2-0.1,0.3-0.3,0.4-0.6c0.1-0.3,0.3-0.8,0.5-1.5
+			c0.2-0.7,0.4-1.1,0.5-1.5h4.4l1,2.9c0.2,0.5,0.6,0.7,1.2,0.7c0.7,0,0.9-0.3,0.7-0.8L63.3,45.9z M49.3,51.1v-4
+			c0-0.3,0.1-0.4,0.4-0.4h2.5c0.7,0,1.2,0.2,1.6,0.6c0.4,0.4,0.6,0.9,0.6,1.6c0,0.6-0.2,1.2-0.6,1.6c-0.4,0.4-1,0.6-1.7,0.6H49.3z
+			 M49.3,56.8v-4.3h3c1.2,0,2.1-0.3,2.9-1c0.7-0.7,1.1-1.6,1.1-2.6c0-1.1-0.4-2-1.2-2.7c-0.8-0.7-1.8-1-3-1h-3
+			c-0.6,0-1.1,0.1-1.3,0.4c-0.2,0.3-0.4,0.7-0.4,1.2v9.9c0,0.5,0.3,0.8,0.9,0.8S49.3,57.3,49.3,56.8 M43.7,46.9
+			c0-0.5-0.1-0.9-0.4-1.2c-0.2-0.3-0.7-0.5-1.3-0.5h-5.7c-0.6,0-1.1,0.1-1.3,0.4c-0.2,0.3-0.4,0.7-0.4,1.2v9.9
+			c0,0.5,0.3,0.8,0.9,0.8s0.9-0.3,0.9-0.8v-9.7c0-0.2,0.1-0.4,0.4-0.4h4.6c0.3,0,0.4,0.1,0.4,0.4v9.7c0,0.5,0.3,0.8,0.9,0.8
+			c0.6,0,0.9-0.3,0.9-0.8V46.9z"/>
+		<path class="st35" d="M886.6,159.6c0-0.7-0.4-1.1-1.3-1.1c-0.5,0-0.9,0.1-1.1,0.4l-5.5,8c-0.6,1-0.9,1.5-1,1.6v-8.9
+			c0-0.7-0.4-1.1-1.3-1.1c-0.9,0-1.3,0.4-1.3,1.1v12c0,0.7,0.4,1.1,1.3,1.1c0.5,0,0.9-0.2,1.2-0.5l5.6-8.1l0.3-0.5
+			c0.2-0.3,0.4-0.6,0.6-0.9v8.8c0,0.7,0.4,1.1,1.3,1.1c0.9,0,1.3-0.4,1.3-1.1V159.6z M863.4,158.8c-0.6,0-1,0.3-1,1c0,0.7,0.3,1,1,1
+			h3v10.8c0,0.7,0.4,1.1,1.3,1.1c0.8,0,1.3-0.4,1.3-1.1v-10.8h3.1c0.6,0,0.9-0.3,0.9-1c0-0.6-0.3-1-0.9-1H863.4z M859.5,168.7
+			c-0.6-0.1-1.1,0.2-1.4,0.8c-0.5,0.9-1.3,1.3-2.4,1.3c-2.5,0-3.7-1.7-3.7-5.2c0-3.4,1.2-5.2,3.7-5.2c1.2,0,2.1,0.5,2.5,1.5
+			c0.2,0.5,0.6,0.8,1.3,0.8h0.1c0.4-0.1,0.7-0.2,0.8-0.4c0.2-0.2,0.2-0.5,0.1-0.9c-0.2-0.8-0.7-1.5-1.6-2.1c-0.9-0.6-2-0.9-3.3-0.9
+			c-4.3,0-6.4,2.4-6.4,7.1c0,4.7,2.1,7.1,6.4,7.1c1.3,0,2.4-0.3,3.3-0.9c0.9-0.6,1.4-1.2,1.6-1.9c0.1-0.5,0-0.8-0.2-0.9
+			C860.2,168.8,859.9,168.7,859.5,168.7 M844.7,165.6c0,1.6-0.3,2.8-0.9,3.6c-0.6,0.8-1.6,1.2-2.8,1.2s-2.2-0.4-2.8-1.2
+			c-0.6-0.8-0.9-2-0.9-3.6c0-1.6,0.3-2.8,0.9-3.6c0.6-0.8,1.6-1.2,2.8-1.2s2.2,0.4,2.8,1.2C844.4,162.8,844.7,164,844.7,165.6
+			 M840.9,158.5c-4.3,0-6.4,2.4-6.4,7.1c0,4.7,2.1,7.1,6.4,7.1c4.3,0,6.4-2.4,6.4-7.1C847.3,160.9,845.2,158.5,840.9,158.5
+			 M823.2,159.6c0-0.7-0.4-1.1-1.3-1.1c-0.9,0-1.3,0.4-1.3,1.1v12c0,0.7,0.4,1.1,1.3,1.1c0.9,0,1.3-0.4,1.3-1.1v-5.4h5.9v5.4
+			c0,0.7,0.4,1.1,1.3,1.1c0.9,0,1.3-0.4,1.3-1.1v-12c0-0.7-0.4-1.1-1.3-1.1c-0.9,0-1.3,0.4-1.3,1.1v4.7h-5.9V159.6z M817.5,159.7
+			c0.2-0.4,0.2-0.7,0-0.9c-0.2-0.2-0.6-0.3-1.1-0.3c-0.4,0-0.7,0-0.9,0.1c-0.2,0.1-0.4,0.3-0.6,0.6c-0.3,0.5-0.7,1.1-1.3,2
+			c-0.6,0.9-1,1.6-1.3,2c-0.3-0.5-0.8-1.2-1.4-2.1c-0.6-0.9-1-1.5-1.2-1.9c-0.2-0.3-0.4-0.5-0.6-0.6c-0.2-0.1-0.5-0.1-0.9-0.1
+			c-0.5,0-0.9,0.1-1.1,0.3c-0.2,0.2-0.2,0.5,0.1,0.9l3.7,5.4c-0.9,1.3-2.3,3.4-4.3,6.2c-0.3,0.4-0.3,0.7-0.1,1
+			c0.2,0.2,0.5,0.3,1.1,0.3c0.4,0,0.7,0,0.9-0.1c0.2-0.1,0.4-0.3,0.7-0.6c0.4-0.5,0.9-1.4,1.6-2.5c0.7-1.1,1.3-1.9,1.6-2.5l3.2,5
+			c0.2,0.3,0.5,0.6,0.7,0.6s0.5,0.1,0.9,0.1c0.5,0,0.9-0.1,1.1-0.3c0.2-0.2,0.2-0.5,0-0.9l-4.4-6.4L817.5,159.7z M795.9,166.1v-1.3
+			c0-1.1,0.3-2.1,1-2.9c0.7-0.8,1.6-1.3,2.8-1.3c2.2,0,3.3,1.7,3.3,5s-1.1,5-3.3,5c-1.2,0-2.1-0.5-2.8-1.4
+			C796.2,168.3,795.9,167.2,795.9,166.1 M795.7,159.6c0-0.7-0.4-1.1-1.2-1.1c-0.8,0-1.3,0.4-1.3,1.1v16.6c0,0.7,0.4,1.1,1.3,1.1
+			c0.9,0,1.3-0.4,1.3-1.1v-5.1c1,1.2,2.3,1.7,3.9,1.7c1.1,0,2-0.2,2.8-0.6c0.8-0.4,1.4-0.9,1.9-1.6c0.5-0.7,0.8-1.4,1-2.3
+			c0.2-0.8,0.3-1.7,0.3-2.8c0-4.8-1.9-7.2-5.7-7.2c-1.8,0-3.2,0.7-4.3,2V159.6z M780.6,164.1c0.1-1,0.5-1.9,1.2-2.6
+			c0.7-0.8,1.6-1.1,2.7-1.1c1,0,1.8,0.3,2.4,0.9c0.6,0.6,0.9,1.4,1,2.4c0,0.3-0.1,0.4-0.4,0.4H780.6z M790.4,164
+			c0-1.6-0.5-2.9-1.5-3.9c-1.1-1.1-2.6-1.7-4.5-1.7c-1.2,0-2.2,0.2-3.1,0.6c-0.9,0.4-1.6,1-2.1,1.7c-0.5,0.7-0.9,1.5-1.1,2.3
+			c-0.2,0.8-0.4,1.7-0.4,2.6c0,0.9,0.1,1.7,0.4,2.5c0.2,0.8,0.6,1.6,1.1,2.3c0.5,0.7,1.2,1.3,2.1,1.7c0.9,0.4,1.9,0.6,3.1,0.6
+			s2.3-0.2,3.3-0.7s1.7-1.2,2-2.1c0.1-0.3,0.1-0.5-0.1-0.8c-0.2-0.3-0.5-0.4-0.9-0.5c-0.6-0.1-1.1,0.2-1.5,0.7
+			c-0.3,0.4-0.7,0.8-1.3,1c-0.6,0.2-1.1,0.3-1.6,0.3c-0.8,0-1.5-0.2-2-0.5c-0.5-0.3-1-0.7-1.2-1.2c-0.3-0.5-0.5-1-0.6-1.5
+			c-0.1-0.5-0.2-1-0.2-1.6h7.3c1,0,1.7-0.2,2-0.5C790.2,165.1,790.4,164.6,790.4,164 M766.7,161.3c0-0.2,0-0.3,0.1-0.4
+			c0.1-0.1,0.2-0.1,0.5-0.1h3.4c1.3,0,1.9,0.6,1.9,1.7c0,0.6-0.2,1.1-0.6,1.4c-0.4,0.3-0.8,0.5-1.4,0.5h-4V161.3z M766.7,166.3h4
+			c1.5,0,2.3,0.7,2.3,2.2c0,1.4-0.8,2.1-2.3,2.1h-3.4c-0.2,0-0.4,0-0.5-0.1c-0.1-0.1-0.1-0.2-0.1-0.4V166.3z M766.5,158.8
+			c-0.5,0-0.8,0.1-1.2,0.2c-0.3,0.1-0.5,0.2-0.7,0.4c-0.2,0.1-0.3,0.3-0.4,0.6c-0.1,0.3-0.1,0.5-0.1,0.7c0,0.2,0,0.4,0,0.8v8.5
+			c0,0.3,0,0.6,0,0.8c0,0.2,0.1,0.4,0.1,0.7c0.1,0.3,0.2,0.5,0.4,0.6c0.2,0.1,0.4,0.2,0.7,0.4c0.3,0.1,0.7,0.2,1.2,0.2h4.8
+			c1.3,0,2.3-0.4,3.2-1.1c0.9-0.7,1.3-1.7,1.3-2.8c0-0.7-0.2-1.4-0.6-2c-0.4-0.6-1-1.1-1.7-1.4c1.2-0.6,1.8-1.6,1.8-2.9
+			c0-1.1-0.4-1.9-1.2-2.5c-0.8-0.6-1.9-0.9-3.4-0.9H766.5z M758.7,165.6c0,1.6-0.3,2.8-0.9,3.6c-0.6,0.8-1.6,1.2-2.8,1.2
+			s-2.2-0.4-2.8-1.2c-0.6-0.8-0.9-2-0.9-3.6c0-1.6,0.3-2.8,0.9-3.6c0.6-0.8,1.6-1.2,2.8-1.2s2.2,0.4,2.8,1.2S758.7,164,758.7,165.6
+			 M754.9,158.5c-4.3,0-6.4,2.4-6.4,7.1c0,4.7,2.1,7.1,6.4,7.1c4.3,0,6.4-2.4,6.4-7.1C761.4,160.9,759.2,158.5,754.9,158.5
+			 M743.3,158.8H737c-0.5,0-1,0.1-1.3,0.2c-0.3,0.1-0.6,0.4-0.7,0.6c-0.1,0.3-0.2,0.5-0.2,0.8c0,0.2,0,0.5,0,0.9v10.3
+			c0,0.7,0.4,1.1,1.3,1.1c0.8,0,1.3-0.4,1.3-1.1v-10.4c0-0.2,0-0.3,0.1-0.4c0.1-0.1,0.2-0.1,0.4-0.1h4.8c0.4,0,0.6,0.2,0.6,0.5v10.4
+			c0,0.7,0.4,1.1,1.3,1.1c0.8,0,1.3-0.4,1.3-1.1v-10.3c0-0.4,0-0.7,0-1c0-0.2-0.1-0.5-0.2-0.8c-0.1-0.3-0.4-0.5-0.7-0.6
+			C744.3,158.9,743.9,158.8,743.3,158.8 M719.8,154.4c-0.5,0.6-1.3,0.9-2.1,0.9c-0.8,0-1.5-0.3-2.2-0.9c-0.3-0.4-0.7-0.5-1.1-0.4
+			c-0.6,0.3-0.7,0.7-0.5,1.2c0.3,0.5,0.7,0.9,1.4,1.3c0.7,0.4,1.5,0.6,2.4,0.6c0.8,0,1.6-0.2,2.3-0.5c0.7-0.3,1.2-0.8,1.5-1.4
+			c0.3-0.5,0.2-0.9-0.3-1.1C720.6,153.9,720.1,154,719.8,154.4 M721,159c-4,5.8-6.2,9-6.5,9.6v-9c0-0.7-0.4-1.1-1.3-1.1
+			s-1.3,0.4-1.3,1.1v12c0,0.7,0.4,1.1,1.3,1.1c0.5,0,0.9-0.2,1.2-0.5l5.6-8.2c0.3-0.4,0.5-0.8,0.8-1.3v8.9c0,0.7,0.4,1.1,1.3,1.1
+			s1.3-0.4,1.3-1.1v-12c0-0.7-0.4-1.1-1.3-1.1C721.5,158.6,721.2,158.7,721,159 M706.5,165.6c0,1.6-0.3,2.8-0.9,3.6
+			c-0.6,0.8-1.6,1.2-2.8,1.2s-2.2-0.4-2.8-1.2c-0.6-0.8-0.9-2-0.9-3.6c0-1.6,0.3-2.8,0.9-3.6c0.6-0.8,1.6-1.2,2.8-1.2
+			s2.2,0.4,2.8,1.2S706.5,164,706.5,165.6 M702.7,158.5c-4.3,0-6.4,2.4-6.4,7.1c0,4.7,2.1,7.1,6.4,7.1c4.3,0,6.4-2.4,6.4-7.1
+			C709.1,160.9,707,158.5,702.7,158.5 M685.2,161.3c0-0.2,0-0.3,0.1-0.4c0.1-0.1,0.2-0.1,0.4-0.1h3.4c1.3,0,1.9,0.6,1.9,1.7
+			c0,0.6-0.2,1.1-0.6,1.4c-0.4,0.3-0.8,0.5-1.4,0.5h-4V161.3z M685.2,166.3h4c1.5,0,2.3,0.7,2.3,2.2c0,1.4-0.8,2.1-2.3,2.1h-3.4
+			c-0.2,0-0.4,0-0.4-0.1c-0.1-0.1-0.1-0.2-0.1-0.4V166.3z M685,158.8c-0.5,0-0.8,0.1-1.2,0.2c-0.3,0.1-0.5,0.2-0.7,0.4
+			c-0.2,0.1-0.3,0.3-0.4,0.6c-0.1,0.3-0.1,0.5-0.1,0.7c0,0.2,0,0.4,0,0.8v8.5c0,0.3,0,0.6,0,0.8c0,0.2,0.1,0.4,0.1,0.7
+			c0.1,0.3,0.2,0.5,0.4,0.6s0.4,0.2,0.7,0.4c0.3,0.1,0.7,0.2,1.2,0.2h4.8c1.3,0,2.3-0.4,3.2-1.1c0.9-0.7,1.3-1.7,1.3-2.8
+			c0-0.7-0.2-1.4-0.6-2c-0.4-0.6-1-1.1-1.7-1.4c1.2-0.6,1.8-1.6,1.8-2.9c0-1.1-0.4-1.9-1.2-2.5c-0.8-0.6-1.9-0.9-3.4-0.9H685z
+			 M670,164.1c0.1-1,0.5-1.9,1.2-2.6c0.7-0.8,1.6-1.1,2.7-1.1c1,0,1.8,0.3,2.4,0.9c0.6,0.6,0.9,1.4,1,2.4c0,0.3-0.1,0.4-0.4,0.4H670
+			z M679.7,164c0-1.6-0.5-2.9-1.5-3.9c-1.1-1.1-2.6-1.7-4.5-1.7c-1.2,0-2.2,0.2-3.1,0.6c-0.9,0.4-1.6,1-2.1,1.7
+			c-0.5,0.7-0.9,1.5-1.1,2.3c-0.2,0.8-0.4,1.7-0.4,2.6c0,0.9,0.1,1.7,0.4,2.5c0.2,0.8,0.6,1.6,1.1,2.3c0.5,0.7,1.2,1.3,2.1,1.7
+			c0.9,0.4,1.9,0.6,3.1,0.6s2.3-0.2,3.3-0.7c1-0.5,1.7-1.2,2-2.1c0.1-0.3,0.1-0.5-0.1-0.8c-0.2-0.3-0.5-0.4-0.9-0.5
+			c-0.6-0.1-1.1,0.2-1.5,0.7c-0.3,0.4-0.7,0.8-1.3,1c-0.6,0.2-1.1,0.3-1.6,0.3c-0.8,0-1.5-0.2-2-0.5c-0.5-0.3-1-0.7-1.2-1.2
+			s-0.5-1-0.6-1.5c-0.1-0.5-0.2-1-0.2-1.6h7.3c1,0,1.7-0.2,2-0.5C679.6,165.1,679.7,164.6,679.7,164 M660.7,170.5h-5v-10.9
+			c0-0.7-0.4-1.1-1.3-1.1c-0.9,0-1.3,0.4-1.3,1.1v10.9h-4.4c-0.2,0-0.4,0-0.4-0.1c-0.1-0.1-0.1-0.2-0.1-0.4v-10.4
+			c0-0.7-0.4-1.1-1.3-1.1c-0.9,0-1.3,0.4-1.3,1.1v10.3c0,0.4,0,0.7,0,1c0,0.2,0.1,0.5,0.2,0.8c0.1,0.3,0.4,0.5,0.7,0.6
+			c0.3,0.1,0.8,0.2,1.3,0.2h15.2c0.2,0,0.3,0.1,0.3,0.2v1.8c0,0.7,0.4,1.1,1.1,1.1c0.8,0,1.2-0.4,1.2-1.1v-2.3c0-0.6-0.1-1-0.4-1.2
+			c-0.3-0.3-0.7-0.4-1.3-0.4h-0.8v-10.9c0-0.7-0.4-1.1-1.3-1.1s-1.3,0.4-1.3,1.1V170.5z M641.9,159.6c0-0.7-0.4-1.1-1.3-1.1
+			c-0.5,0-0.9,0.1-1.1,0.4l-5.5,8c-0.6,1-0.9,1.5-1,1.6v-8.9c0-0.7-0.4-1.1-1.3-1.1c-0.9,0-1.3,0.4-1.3,1.1v12
+			c0,0.7,0.4,1.1,1.3,1.1c0.5,0,0.9-0.2,1.2-0.5l5.6-8.1l0.3-0.5c0.2-0.3,0.4-0.6,0.6-0.9v8.8c0,0.7,0.4,1.1,1.3,1.1
+			s1.3-0.4,1.3-1.1V159.6z M624.5,158.8h-6.4c-0.5,0-1,0.1-1.3,0.2c-0.3,0.1-0.6,0.4-0.7,0.6s-0.2,0.5-0.2,0.8c0,0.2,0,0.5,0,0.9
+			v10.3c0,0.7,0.4,1.1,1.3,1.1c0.8,0,1.3-0.4,1.3-1.1v-10.4c0-0.2,0-0.3,0.1-0.4c0.1-0.1,0.2-0.1,0.4-0.1h4.8c0.4,0,0.6,0.2,0.6,0.5
+			v10.4c0,0.7,0.4,1.1,1.3,1.1c0.8,0,1.3-0.4,1.3-1.1v-10.3c0-0.4,0-0.7,0-1c0-0.2-0.1-0.5-0.2-0.8c-0.1-0.3-0.4-0.5-0.7-0.6
+			C625.5,158.9,625,158.8,624.5,158.8 M603.1,164.1c0.1-1,0.5-1.9,1.2-2.6c0.7-0.8,1.6-1.1,2.7-1.1c1,0,1.8,0.3,2.4,0.9
+			c0.6,0.6,0.9,1.4,1,2.4c0,0.3-0.1,0.4-0.4,0.4H603.1z M612.9,164c0-1.6-0.5-2.9-1.5-3.9c-1.1-1.1-2.6-1.7-4.5-1.7
+			c-1.2,0-2.2,0.2-3.1,0.6c-0.9,0.4-1.6,1-2.1,1.7c-0.5,0.7-0.9,1.5-1.1,2.3c-0.2,0.8-0.4,1.7-0.4,2.6c0,0.9,0.1,1.7,0.4,2.5
+			c0.2,0.8,0.6,1.6,1.1,2.3c0.5,0.7,1.2,1.3,2.1,1.7c0.9,0.4,1.9,0.6,3.1,0.6c1.2,0,2.3-0.2,3.3-0.7s1.7-1.2,2-2.1
+			c0.1-0.3,0.1-0.5-0.1-0.8c-0.2-0.3-0.5-0.4-0.9-0.5c-0.6-0.1-1.1,0.2-1.5,0.7c-0.3,0.4-0.7,0.8-1.3,1s-1.1,0.3-1.6,0.3
+			c-0.8,0-1.5-0.2-2-0.5c-0.5-0.3-1-0.7-1.2-1.2c-0.3-0.5-0.5-1-0.6-1.5c-0.1-0.5-0.2-1-0.2-1.6h7.3c1,0,1.7-0.2,2-0.5
+			C612.7,165.1,612.9,164.6,612.9,164 M589,159.6c0-0.7-0.4-1.1-1.3-1.1c-0.9,0-1.3,0.4-1.3,1.1v12c0,0.7,0.4,1.1,1.3,1.1
+			c0.9,0,1.3-0.4,1.3-1.1v-5.4h5.9v5.4c0,0.7,0.4,1.1,1.3,1.1c0.9,0,1.3-0.4,1.3-1.1v-12c0-0.7-0.4-1.1-1.3-1.1
+			c-0.9,0-1.3,0.4-1.3,1.1v4.7H589V159.6z M569.2,160.8h2.8c0.2,0,0.4,0,0.5,0.1c0.1,0.1,0.1,0.2,0.1,0.4v3.8h-3.2
+			c-0.8,0-1.4-0.2-1.9-0.6s-0.8-0.9-0.8-1.5c0-0.7,0.2-1.3,0.7-1.7C567.8,161,568.5,160.8,569.2,160.8 M572.6,167.1v4.6
+			c0,0.7,0.4,1.1,1.3,1.1s1.3-0.4,1.3-1.1v-10.4c0-0.8-0.2-1.5-0.5-1.9c-0.3-0.4-0.9-0.6-1.9-0.6H569c-1.5,0-2.7,0.4-3.7,1.1
+			s-1.4,1.8-1.4,3.1c0,0.8,0.3,1.5,0.8,2.1c0.5,0.6,1.2,1.1,2.1,1.3c-0.6,0.4-1.1,1.1-1.6,2.2c-0.6,1.2-1.1,2.1-1.6,2.8
+			c-0.2,0.3-0.2,0.5-0.1,0.8c0.2,0.3,0.4,0.4,0.8,0.5c0.6,0.1,1.2-0.1,1.6-0.5c0.5-0.5,1-1.4,1.5-2.8c0.6-1.6,1.7-2.4,3.4-2.4H572.6
+			z M560.3,168.7c-0.6-0.1-1.1,0.2-1.4,0.8c-0.5,0.9-1.3,1.3-2.4,1.3c-2.5,0-3.7-1.7-3.7-5.2c0-3.4,1.2-5.2,3.7-5.2
+			c1.2,0,2.1,0.5,2.5,1.5c0.2,0.5,0.6,0.8,1.3,0.8h0.1c0.4-0.1,0.7-0.2,0.8-0.4c0.2-0.2,0.2-0.5,0.1-0.9c-0.2-0.8-0.7-1.5-1.6-2.1
+			s-2-0.9-3.3-0.9c-4.3,0-6.4,2.4-6.4,7.1c0,4.7,2.1,7.1,6.4,7.1c1.3,0,2.4-0.3,3.3-0.9c0.9-0.6,1.4-1.2,1.6-1.9
+			c0.1-0.5,0-0.8-0.2-0.9C561,168.8,560.7,168.7,560.3,168.7 M540.7,158.8c-0.4,0-0.8,0.1-1.1,0.2c-0.3,0.1-0.6,0.3-0.7,0.4
+			c-0.2,0.2-0.3,0.4-0.4,0.7c-0.1,0.3-0.2,0.5-0.2,0.7s0,0.5-0.1,0.8c0,0.3-0.1,0.9-0.2,2c-0.2,2.6-0.3,4.2-0.5,4.9c0,0,0,0.1,0,0.1
+			s0,0.1,0,0.1c-0.1,0.6-0.2,1.1-0.4,1.4c-0.2,0.3-0.5,0.4-1,0.4c-0.6,0-0.9,0.4-0.9,1.1c0,0.3,0.1,0.5,0.3,0.7
+			c0.2,0.2,0.5,0.3,0.9,0.3c1.1,0.1,1.9-0.2,2.5-0.9c0.6-0.7,0.9-1.6,1.1-2.9c0.1-1,0.3-3.1,0.5-6.1l0.1-1.3c0-0.4,0.3-0.6,0.7-0.6
+			h2.7c0.4,0,0.6,0.2,0.6,0.5v10.4c0,0.7,0.4,1.1,1.3,1.1c0.9,0,1.3-0.4,1.3-1.1v-10.3c0-0.3,0-0.6,0-0.8c0-0.2-0.1-0.4-0.1-0.7
+			c-0.1-0.3-0.2-0.5-0.3-0.6c-0.2-0.1-0.4-0.3-0.7-0.4c-0.3-0.1-0.7-0.2-1.1-0.2H540.7z M530,173.6l5.5-13.9h0
+			c0.2-0.4,0.1-0.7-0.2-0.8c-0.3-0.2-0.7-0.3-1.1-0.3c-0.8,0-1.2,0.3-1.5,1l-2.9,7.9v0c-0.1,0.3-0.3,0.6-0.4,1
+			c-0.1-0.4-0.2-0.8-0.3-0.9h0l-3.2-7.9c-0.3-0.6-0.7-1-1.5-1c-0.5,0-0.8,0.1-1.1,0.3c-0.3,0.2-0.3,0.5-0.1,0.8h0
+			c0.5,1.4,1.3,3.4,2.4,6c1.1,2.7,1.9,4.7,2.4,6l-0.6,1.8c-0.2,0.5-0.4,0.8-0.7,1.1c-0.3,0.2-0.6,0.3-1.1,0.2h0
+			c-0.9-0.2-1.3,0-1.4,0.8c0,0.4,0,0.7,0.2,0.9s0.4,0.4,0.7,0.4c0.3,0.1,0.7,0.1,1.1,0.1c0.6,0,1.1-0.1,1.5-0.3
+			c0.4-0.2,0.8-0.5,1.1-0.9c0.3-0.4,0.5-0.7,0.7-1C529.5,174.6,529.7,174.2,530,173.6L530,173.6z M512.4,159.6
+			c0-0.7-0.4-1.1-1.3-1.1c-0.9,0-1.3,0.4-1.3,1.1v12c0,0.7,0.4,1.1,1.3,1.1c0.9,0,1.3-0.4,1.3-1.1v-5.4h5.9v5.4
+			c0,0.7,0.4,1.1,1.3,1.1c0.9,0,1.3-0.4,1.3-1.1v-12c0-0.7-0.4-1.1-1.3-1.1c-0.9,0-1.3,0.4-1.3,1.1v4.7h-5.9V159.6z M505.5,168.7
+			c-0.6-0.1-1.1,0.2-1.4,0.8c-0.5,0.9-1.3,1.3-2.4,1.3c-2.5,0-3.7-1.7-3.7-5.2c0-3.4,1.2-5.2,3.7-5.2c1.2,0,2.1,0.5,2.5,1.5
+			c0.2,0.5,0.6,0.8,1.3,0.8h0.1c0.4-0.1,0.7-0.2,0.8-0.4c0.2-0.2,0.2-0.5,0.1-0.9c-0.2-0.8-0.7-1.5-1.6-2.1c-0.9-0.6-2-0.9-3.3-0.9
+			c-4.3,0-6.4,2.4-6.4,7.1c0,4.7,2.1,7.1,6.4,7.1c1.3,0,2.4-0.3,3.3-0.9c0.9-0.6,1.4-1.2,1.6-1.9c0.1-0.5,0-0.8-0.2-0.9
+			C506.2,168.8,505.9,168.7,505.5,168.7 M490.7,165.6c0,1.6-0.3,2.8-0.9,3.6c-0.6,0.8-1.6,1.2-2.8,1.2s-2.2-0.4-2.8-1.2
+			c-0.6-0.8-0.9-2-0.9-3.6c0-1.6,0.3-2.8,0.9-3.6s1.6-1.2,2.8-1.2s2.2,0.4,2.8,1.2C490.4,162.8,490.7,164,490.7,165.6 M486.9,158.5
+			c-4.3,0-6.4,2.4-6.4,7.1c0,4.7,2.1,7.1,6.4,7.1c4.3,0,6.4-2.4,6.4-7.1C493.3,160.9,491.2,158.5,486.9,158.5 M468.7,155.2
+			c0-0.8-0.5-1.2-1.4-1.2c-0.9,0-1.4,0.4-1.4,1.2v16.4c0,0.8,0.5,1.1,1.4,1.1c0.9,0,1.4-0.4,1.4-1.1v-8c0.8,0,1.5,0.1,2.1,0.3
+			c0.6,0.2,1.1,0.5,1.6,1c0.4,0.5,0.8,0.9,1.1,1.4c0.3,0.5,0.6,1.1,0.8,1.8l0.3,0.9c0.6,1.6,1.1,2.7,1.6,3.3
+			c0.4,0.4,0.9,0.5,1.6,0.4c0.9-0.2,1.2-0.6,0.8-1.3c-0.5-0.8-1.1-2.3-1.8-4.4c-0.9-2.5-2.4-4.1-4.4-4.6c1.3-0.6,2.4-1.6,3.1-2.9v0
+			l0.3-0.4c0.9-1.5,1.5-2.6,2-3.2c0.2-0.3,0.4-0.6,0.4-0.9c0-0.4-0.3-0.7-0.9-0.8c-0.8-0.1-1.4,0.1-1.9,0.7h0
+			c-0.4,0.4-0.9,1.2-1.5,2.4c-0.3,0.5-0.5,0.9-0.7,1.3c-0.6,0.9-1.2,1.6-1.8,2.1c-0.7,0.5-1.5,0.8-2.6,0.9V155.2z"/>
+		<path class="st35" d="M666.1,264.1c0-0.7-0.4-1.1-1.3-1.1c-0.8,0-1.3,0.4-1.3,1.1v12c0,0.7,0.4,1.1,1.3,1.1c0.9,0,1.3-0.4,1.3-1.1
+			V264.1z M653.7,264.1c0-0.7-0.4-1.1-1.3-1.1c-0.9,0-1.3,0.4-1.3,1.1v10.3c0,0.4,0,0.7,0,0.9c0,0.2,0.1,0.5,0.2,0.8
+			c0.1,0.3,0.4,0.5,0.7,0.6c0.3,0.1,0.8,0.2,1.3,0.2h4.1c1.4,0,2.5-0.4,3.4-1.2c0.9-0.8,1.4-1.8,1.4-3.1c0-1.3-0.4-2.3-1.3-3.1
+			c-0.8-0.8-2-1.2-3.4-1.2h-3.9V264.1z M653.7,270.4h3.6c1.5,0,2.3,0.8,2.3,2.3c0,0.7-0.2,1.3-0.6,1.7s-1,0.6-1.7,0.6h-2.9
+			c-0.2,0-0.4,0-0.5-0.1c-0.1-0.1-0.1-0.2-0.1-0.4V270.4z M639.4,263.3c-0.6,0-1,0.3-1,1c0,0.7,0.3,1,1,1h3v10.8
+			c0,0.7,0.4,1.1,1.3,1.1c0.8,0,1.3-0.4,1.3-1.1v-10.8h3.1c0.6,0,0.9-0.3,0.9-1c0-0.6-0.3-1-0.9-1H639.4z M629.1,264.1
+			c0-0.7-0.4-1.1-1.3-1.1c-0.9,0-1.3,0.4-1.3,1.1v12c0,0.7,0.4,1.1,1.3,1.1c0.9,0,1.3-0.4,1.3-1.1v-5.6c1.3,0,2.3,0.2,2.8,0.7
+			c0.6,0.5,1.1,1.4,1.6,2.6l0.3,0.7c0.5,1.2,0.9,2,1.3,2.4c0.3,0.3,0.7,0.4,1.4,0.3c0.8-0.1,1-0.5,0.7-1.1l-0.4-0.9
+			c-0.4-0.8-0.7-1.6-1.1-2.5c-0.7-1.9-1.8-3.1-3.1-3.5c0.9-0.5,1.6-1.2,2.3-2.1c0.1-0.1,0.2-0.3,0.3-0.4c0.1-0.2,0.2-0.3,0.3-0.6
+			s0.2-0.4,0.3-0.5c0.2-0.3,0.4-0.7,0.8-1.3c0.5-0.8,0.2-1.2-0.8-1.3c-0.6-0.1-1.1,0.1-1.5,0.5c-0.3,0.4-0.6,0.9-1.1,1.6l-0.7,1.1v0
+			c-0.4,0.7-0.9,1.2-1.4,1.6c-0.5,0.4-1.2,0.6-2.1,0.7V264.1z M618.7,278.1l5.5-13.9h0c0.2-0.4,0.1-0.7-0.2-0.8
+			c-0.3-0.2-0.7-0.3-1.1-0.3c-0.8,0-1.2,0.3-1.5,1l-2.9,7.9v0c-0.1,0.3-0.3,0.6-0.4,1c-0.1-0.4-0.2-0.8-0.3-0.9h0l-3.2-7.9
+			c-0.3-0.6-0.7-1-1.5-1c-0.5,0-0.8,0.1-1.1,0.3c-0.3,0.2-0.3,0.5-0.1,0.8h0c0.5,1.4,1.3,3.4,2.4,6s1.9,4.7,2.4,6l-0.6,1.8
+			c-0.2,0.5-0.4,0.8-0.7,1.1c-0.3,0.2-0.6,0.3-1.1,0.2h0c-0.9-0.2-1.3,0-1.4,0.8c0,0.4,0,0.7,0.2,0.9c0.2,0.2,0.4,0.4,0.7,0.4
+			c0.3,0.1,0.7,0.1,1.1,0.1c0.6,0,1.1-0.1,1.5-0.3s0.8-0.5,1.1-0.9c0.3-0.4,0.5-0.7,0.7-1C618.3,279.1,618.5,278.7,618.7,278.1
+			L618.7,278.1z M602.6,263.3c-1.5,0-2.2,0.8-2.3,2.5c-0.1,0.7-0.1,1.3-0.1,1.7c-0.1,2.3-0.2,4-0.4,4.9c-0.2,1.3-0.6,2-1,2.2
+			c-0.5,0.3-0.8,0.5-1,0.7c-0.2,0.2-0.3,0.6-0.3,1.2v2.4c0,0.7,0.4,1.1,1.2,1.1c0.8,0,1.2-0.4,1.2-1.1v-1.8c0-0.1,0.1-0.2,0.3-0.2
+			h8.6c0.2,0,0.3,0.1,0.3,0.2v1.8c0,0.7,0.4,1.1,1.2,1.1s1.2-0.4,1.2-1.1v-2.4c0-0.4-0.1-0.8-0.4-1.1s-0.7-0.4-1.2-0.5v-9.1
+			c0-0.3,0-0.6,0-0.8s-0.1-0.4-0.1-0.7s-0.2-0.5-0.4-0.6c-0.2-0.1-0.4-0.2-0.7-0.4c-0.3-0.1-0.7-0.2-1.2-0.2H602.6z M601.4,275
+			c0.4-0.6,0.6-1.4,0.8-2.4c0.2-1.1,0.3-2.8,0.5-5.3l0.1-1.4c0.1-0.4,0.3-0.6,0.6-0.6h3.2c0.2,0,0.4,0,0.5,0.1
+			c0.1,0.1,0.1,0.2,0.1,0.4v9.2H601.4z M594.6,270.1c0,1.6-0.3,2.8-0.9,3.6s-1.6,1.2-2.8,1.2c-1.3,0-2.2-0.4-2.8-1.2
+			c-0.6-0.8-0.9-2-0.9-3.6s0.3-2.8,0.9-3.6c0.6-0.8,1.6-1.2,2.8-1.2c1.3,0,2.2,0.4,2.8,1.2S594.6,268.5,594.6,270.1 M590.8,263
+			c-4.3,0-6.4,2.4-6.4,7.1c0,4.7,2.1,7.1,6.4,7.1c4.3,0,6.4-2.4,6.4-7.1C597.2,265.4,595.1,263,590.8,263 M572.6,270.6v-1.3
+			c0-1.1,0.3-2.1,1-2.9c0.7-0.8,1.6-1.3,2.8-1.3c2.2,0,3.3,1.7,3.3,5s-1.1,5-3.3,5c-1.2,0-2.1-0.5-2.8-1.4
+			C572.9,272.8,572.6,271.7,572.6,270.6 M572.4,264.1c0-0.7-0.4-1.1-1.2-1.1c-0.8,0-1.3,0.4-1.3,1.1v16.6c0,0.7,0.4,1.1,1.3,1.1
+			c0.9,0,1.3-0.4,1.3-1.1v-5.1c1,1.2,2.3,1.7,3.9,1.7c1.1,0,2-0.2,2.8-0.6c0.8-0.4,1.4-0.9,1.9-1.6c0.5-0.7,0.8-1.4,1-2.3
+			c0.2-0.8,0.3-1.7,0.3-2.8c0-4.8-1.9-7.2-5.7-7.2c-1.8,0-3.2,0.7-4.3,2V264.1z M564,263.3h-6.4c-0.5,0-1,0.1-1.3,0.2
+			c-0.3,0.1-0.6,0.4-0.7,0.6c-0.1,0.3-0.2,0.5-0.2,0.8c0,0.2,0,0.5,0,0.9v10.3c0,0.7,0.4,1.1,1.3,1.1c0.8,0,1.3-0.4,1.3-1.1v-10.4
+			c0-0.2,0-0.3,0.1-0.4c0.1-0.1,0.2-0.1,0.4-0.1h4.8c0.4,0,0.6,0.2,0.6,0.5v10.4c0,0.7,0.4,1.1,1.3,1.1c0.8,0,1.3-0.4,1.3-1.1v-10.3
+			c0-0.4,0-0.7,0-1s-0.1-0.5-0.2-0.8c-0.1-0.3-0.4-0.5-0.7-0.6C565,263.4,564.5,263.3,564,263.3 M537.4,263.3
+			c-0.4,0-0.8,0.1-1.1,0.2c-0.3,0.1-0.6,0.3-0.7,0.4c-0.2,0.2-0.3,0.4-0.4,0.7c-0.1,0.3-0.2,0.5-0.2,0.7s0,0.5-0.1,0.8
+			c0,0.3-0.1,0.9-0.2,2c-0.2,2.6-0.3,4.2-0.5,4.9c0,0,0,0.1,0,0.1c0,0,0,0.1,0,0.1c-0.1,0.6-0.2,1.1-0.4,1.4c-0.2,0.3-0.5,0.4-1,0.4
+			c-0.6,0-0.9,0.4-0.9,1.1c0,0.3,0.1,0.5,0.3,0.7s0.5,0.3,0.9,0.3c1.1,0.1,1.9-0.2,2.5-0.9c0.6-0.7,0.9-1.6,1.1-2.9
+			c0.1-1,0.3-3.1,0.5-6.1l0.1-1.3c0-0.4,0.3-0.6,0.7-0.6h2.7c0.4,0,0.6,0.2,0.6,0.5v10.4c0,0.7,0.4,1.1,1.3,1.1
+			c0.9,0,1.3-0.4,1.3-1.1v-10.3c0-0.3,0-0.6,0-0.8s-0.1-0.4-0.1-0.7c-0.1-0.3-0.2-0.5-0.3-0.6c-0.2-0.1-0.4-0.3-0.7-0.4
+			c-0.3-0.1-0.7-0.2-1.1-0.2H537.4z M530.1,264.1c0-0.7-0.4-1.1-1.3-1.1c-0.8,0-1.3,0.4-1.3,1.1v12c0,0.7,0.4,1.1,1.3,1.1
+			c0.9,0,1.3-0.4,1.3-1.1V264.1z M517.7,264.1c0-0.7-0.4-1.1-1.3-1.1c-0.9,0-1.3,0.4-1.3,1.1v10.3c0,0.4,0,0.7,0,0.9
+			c0,0.2,0.1,0.5,0.2,0.8c0.1,0.3,0.4,0.5,0.7,0.6s0.8,0.2,1.3,0.2h4.1c1.4,0,2.5-0.4,3.4-1.2c0.9-0.8,1.4-1.8,1.4-3.1
+			c0-1.3-0.4-2.3-1.3-3.1c-0.8-0.8-2-1.2-3.4-1.2h-3.9V264.1z M517.7,270.4h3.6c1.5,0,2.3,0.8,2.3,2.3c0,0.7-0.2,1.3-0.6,1.7
+			s-1,0.6-1.7,0.6h-2.9c-0.2,0-0.4,0-0.5-0.1c-0.1-0.1-0.1-0.2-0.1-0.4V270.4z M504.8,273.4c0.5,0,1-0.3,1.4-0.9l2.6-4.3l0.4-0.7
+			v8.7c0,0.7,0.4,1.1,1.2,1.1c0.8,0,1.2-0.4,1.2-1.1v-12c0-0.7-0.5-1.1-1.4-1.1c-0.6,0-1.2,0.3-1.6,0.9l-3.8,6.4L501,264
+			c-0.4-0.6-0.9-0.9-1.5-0.9c-0.9,0-1.4,0.4-1.4,1.1v12c0,0.7,0.4,1.1,1.2,1.1c0.8,0,1.2-0.4,1.2-1.1v-8.7c0.1,0.2,0.2,0.5,0.4,0.7
+			v0l1.3,2.2l1.3,2.2C503.8,273.1,504.3,273.4,504.8,273.4 M492.6,270.1c0,1.6-0.3,2.8-0.9,3.6c-0.6,0.8-1.6,1.2-2.8,1.2
+			s-2.2-0.4-2.8-1.2c-0.6-0.8-0.9-2-0.9-3.6s0.3-2.8,0.9-3.6c0.6-0.8,1.6-1.2,2.8-1.2s2.2,0.4,2.8,1.2
+			C492.3,267.3,492.6,268.5,492.6,270.1 M488.9,263c-4.3,0-6.4,2.4-6.4,7.1c0,4.7,2.1,7.1,6.4,7.1c4.3,0,6.4-2.4,6.4-7.1
+			C495.3,265.4,493.2,263,488.9,263 M479.6,261.2c0-0.8-0.2-1.4-0.5-1.9c-0.4-0.5-1-0.7-2-0.7h-8.6c-1,0-1.6,0.2-2,0.7
+			s-0.5,1.1-0.5,1.9V276c0,0.8,0.5,1.2,1.4,1.2c0.9,0,1.4-0.4,1.4-1.2v-14.5c0-0.4,0.2-0.5,0.6-0.5h6.9c0.4,0,0.6,0.2,0.6,0.5V276
+			c0,0.8,0.5,1.2,1.4,1.2c0.9,0,1.4-0.4,1.4-1.2V261.2z"/>
+		<path class="st35" d="M206.3,358.5c0-0.7-0.4-1.1-1.3-1.1c-0.5,0-0.9,0.1-1.1,0.4l-5.5,8c-0.6,1-0.9,1.5-1,1.6v-8.9
+			c0-0.7-0.4-1.1-1.3-1.1c-0.9,0-1.3,0.4-1.3,1.1v12c0,0.7,0.4,1.1,1.3,1.1c0.5,0,0.9-0.2,1.2-0.5l5.6-8.1l0.3-0.5
+			c0.2-0.3,0.4-0.6,0.6-0.9v8.8c0,0.7,0.4,1.1,1.3,1.1c0.9,0,1.3-0.4,1.3-1.1V358.5z M186.4,357.7c-0.5,0-0.8,0.1-1.2,0.2
+			c-0.3,0.1-0.5,0.2-0.7,0.4c-0.2,0.1-0.3,0.3-0.4,0.6c-0.1,0.3-0.1,0.5-0.1,0.7c0,0.2,0,0.4,0,0.8v10.3c0,0.7,0.4,1.1,1.3,1.1
+			c0.9,0,1.3-0.4,1.3-1.1v-10.4c0-0.3,0.2-0.5,0.6-0.5h4.6c0.6,0,1-0.3,1-1c0-0.6-0.3-1-1-1H186.4z M173,364.8h3.5
+			c1.5,0,2.3,0.8,2.3,2.3c0,1.5-0.8,2.3-2.3,2.3h-2.9c-0.4,0-0.6-0.2-0.6-0.5V364.8z M173,358.5c0-0.7-0.4-1.1-1.3-1.1
+			s-1.3,0.4-1.3,1.1v10.3c0,0.3,0,0.6,0,0.8s0.1,0.4,0.1,0.7s0.2,0.5,0.4,0.6c0.2,0.1,0.4,0.2,0.7,0.4c0.3,0.1,0.7,0.2,1.2,0.2h4.1
+			c1.4,0,2.5-0.4,3.4-1.2s1.4-1.8,1.4-3.1c0-1.3-0.4-2.3-1.3-3.1c-0.8-0.8-2-1.2-3.4-1.2H173V358.5z M158.3,358.5
+			c0-0.7-0.4-1.1-1.3-1.1c-0.9,0-1.3,0.4-1.3,1.1v12c0,0.7,0.4,1.1,1.3,1.1c0.9,0,1.3-0.4,1.3-1.1v-5.4h5.9v5.4
+			c0,0.7,0.4,1.1,1.3,1.1c0.9,0,1.3-0.4,1.3-1.1v-12c0-0.7-0.4-1.1-1.3-1.1c-0.9,0-1.3,0.4-1.3,1.1v4.7h-5.9V358.5z M143.1,362.9
+			c0.1-1,0.5-1.9,1.2-2.6c0.7-0.8,1.6-1.1,2.7-1.1c1,0,1.8,0.3,2.4,0.9c0.6,0.6,0.9,1.4,1,2.4c0,0.3-0.1,0.4-0.4,0.4H143.1z
+			 M152.9,362.9c0-1.6-0.5-2.9-1.5-3.9c-1.1-1.1-2.6-1.7-4.5-1.7c-1.2,0-2.2,0.2-3.1,0.6c-0.9,0.4-1.6,1-2.1,1.7
+			c-0.5,0.7-0.9,1.5-1.1,2.3s-0.4,1.7-0.4,2.6c0,0.9,0.1,1.7,0.4,2.5c0.2,0.8,0.6,1.6,1.1,2.3c0.5,0.7,1.2,1.3,2.1,1.7
+			c0.9,0.4,1.9,0.6,3.1,0.6c1.2,0,2.3-0.2,3.3-0.7c1-0.5,1.7-1.2,2-2.1c0.1-0.3,0.1-0.5-0.1-0.8c-0.2-0.3-0.5-0.4-0.9-0.5
+			c-0.6-0.1-1.1,0.2-1.5,0.7c-0.3,0.4-0.7,0.8-1.3,1s-1.1,0.3-1.6,0.3c-0.8,0-1.5-0.2-2-0.5s-1-0.7-1.2-1.2c-0.3-0.5-0.5-1-0.6-1.5
+			s-0.2-1-0.2-1.6h7.3c1,0,1.7-0.2,2-0.5S152.9,363.5,152.9,362.9 M130.4,357.7c-1.5,0-2.2,0.8-2.3,2.5c-0.1,0.7-0.1,1.3-0.1,1.7
+			c-0.1,2.3-0.2,4-0.4,4.9c-0.2,1.3-0.6,2-1,2.2c-0.5,0.3-0.8,0.5-1,0.7c-0.2,0.2-0.3,0.6-0.3,1.2v2.4c0,0.7,0.4,1.1,1.2,1.1
+			s1.2-0.4,1.2-1.1v-1.8c0-0.1,0.1-0.2,0.3-0.2h8.6c0.2,0,0.3,0.1,0.3,0.2v1.8c0,0.7,0.4,1.1,1.2,1.1c0.8,0,1.2-0.4,1.2-1.1V371
+			c0-0.4-0.1-0.8-0.4-1.1s-0.7-0.4-1.2-0.5v-9.1c0-0.3,0-0.6,0-0.8c0-0.2-0.1-0.4-0.1-0.7c-0.1-0.3-0.2-0.5-0.4-0.6
+			s-0.4-0.2-0.7-0.4c-0.3-0.1-0.7-0.2-1.2-0.2H130.4z M129.2,369.4c0.4-0.6,0.6-1.4,0.8-2.4c0.2-1.1,0.3-2.8,0.5-5.3l0.1-1.4
+			c0.1-0.4,0.3-0.6,0.6-0.6h3.2c0.2,0,0.4,0,0.5,0.1s0.1,0.2,0.1,0.4v9.2H129.2z M109.3,357.7c-0.4,0-0.8,0.1-1.1,0.2
+			c-0.3,0.1-0.6,0.3-0.7,0.4s-0.3,0.4-0.4,0.7c-0.1,0.3-0.2,0.5-0.2,0.7c0,0.2,0,0.5-0.1,0.8c0,0.3-0.1,0.9-0.2,2
+			c-0.2,2.6-0.3,4.2-0.5,4.9c0,0,0,0.1,0,0.1c0,0,0,0.1,0,0.1c-0.1,0.6-0.2,1.1-0.4,1.4c-0.2,0.3-0.5,0.4-1,0.4
+			c-0.6,0-0.9,0.4-0.9,1.1c0,0.3,0.1,0.5,0.3,0.7s0.5,0.3,0.9,0.3c1.1,0.1,1.9-0.2,2.5-0.9c0.6-0.7,0.9-1.6,1.1-2.9
+			c0.1-1,0.3-3.1,0.5-6.1l0.1-1.3c0-0.4,0.3-0.6,0.7-0.6h2.7c0.4,0,0.6,0.2,0.6,0.5v10.4c0,0.7,0.4,1.1,1.3,1.1
+			c0.9,0,1.3-0.4,1.3-1.1v-10.3c0-0.3,0-0.6,0-0.8c0-0.2-0.1-0.4-0.1-0.7s-0.2-0.5-0.3-0.6c-0.2-0.1-0.4-0.3-0.7-0.4
+			c-0.3-0.1-0.7-0.2-1.1-0.2H109.3z M98.4,368.5c-0.8,0.9-1.9,1.3-3.2,1.3c-0.7,0-1.3-0.2-1.8-0.6c-0.5-0.4-0.7-0.9-0.7-1.6
+			c0-0.6,0.2-1.1,0.5-1.5c0.3-0.4,0.7-0.7,1.2-0.9c0.5-0.2,1-0.4,1.6-0.4c0.5-0.1,1.1-0.1,1.7-0.1c0.4,0,1.1,0,1.8,0.1
+			C99.7,366.3,99.3,367.5,98.4,368.5 M99.8,370.5c0.1,0.7,0.6,1,1.5,0.9c0.7-0.1,1-0.5,0.9-1.2c-0.1-0.4-0.1-1-0.1-1.6v-5.6
+			c0-1.9-0.4-3.3-1.3-4.2c-0.9-0.9-2.3-1.4-4.3-1.4c-2.2,0-3.8,0.4-4.9,1.3c-0.4,0.3-0.6,0.6-0.6,0.9c0,0.3,0.1,0.5,0.4,0.7
+			c0.3,0.2,0.6,0.3,0.9,0.3c0.3,0,0.6-0.1,0.8-0.3c0.8-0.6,1.8-0.9,3-0.9c1.7,0,2.8,0.5,3.2,1.4c0.2,0.5,0.2,1.2,0.2,2.1
+			c-0.1,0-0.2,0-0.3,0c-0.1,0-0.2,0-0.2,0c-0.3,0-0.7,0-1.2,0c-5.2,0-7.9,1.6-7.9,4.8c0,1.3,0.4,2.4,1.3,3.1c0.9,0.7,2,1.1,3.4,1.1
+			c2.1,0,3.7-0.8,4.8-2.3C99.6,369.5,99.7,369.9,99.8,370.5 M79.6,357.7c-0.6,0-1,0.3-1,1c0,0.7,0.3,1,1,1h3v10.8
+			c0,0.7,0.4,1.1,1.3,1.1c0.8,0,1.3-0.4,1.3-1.1v-10.8h3.1c0.6,0,0.9-0.3,0.9-1c0-0.6-0.3-1-0.9-1H79.6z M76.4,358.5
+			c0-0.7-0.4-1.1-1.3-1.1c-0.5,0-0.9,0.1-1.1,0.4l-5.5,8c-0.6,1-0.9,1.5-1,1.6v-8.9c0-0.7-0.4-1.1-1.3-1.1c-0.9,0-1.3,0.4-1.3,1.1
+			v12c0,0.7,0.4,1.1,1.3,1.1c0.5,0,0.9-0.2,1.2-0.5L73,363l0.3-0.5c0.2-0.3,0.4-0.6,0.6-0.9v8.8c0,0.7,0.4,1.1,1.3,1.1
+			s1.3-0.4,1.3-1.1V358.5z M61.3,358.5c0-0.7-0.4-1.1-1.3-1.1c-0.9,0-1.3,0.4-1.3,1.1v4.2c0,0.6-0.3,1.1-0.8,1.6
+			c-0.5,0.4-1.3,0.6-2.3,0.6c-0.9,0-1.5-0.2-1.8-0.6c-0.3-0.4-0.5-1.1-0.5-2.1v-3.7c0-0.7-0.4-1.1-1.3-1.1c-0.9,0-1.3,0.4-1.3,1.1
+			v4.3c0,2.6,1.5,4,4.6,4c1.4,0,2.5-0.3,3.3-0.9v4.7c0,0.7,0.4,1.1,1.3,1.1c0.8,0,1.3-0.4,1.3-1.1V358.5z M47.7,365.3
+			c-0.4,0-0.7,0.1-0.9,0.2s-0.4,0.4-0.4,0.7c-0.5,1.9-1.9,2.8-4.3,2.8c-0.9,0-1.7-0.1-2.4-0.4c-0.7-0.3-1.2-0.6-1.6-1
+			c-0.4-0.4-0.7-0.9-0.9-1.6c-0.2-0.6-0.4-1.3-0.4-1.8c-0.1-0.6-0.1-1.3-0.1-2c0-0.7,0-1.4,0.1-2c0.1-0.6,0.2-1.2,0.4-1.8
+			c0.2-0.6,0.5-1.2,0.9-1.6s0.9-0.8,1.6-1.1c0.7-0.3,1.5-0.4,2.4-0.4c0.6,0,1.2,0.1,1.8,0.3c0.6,0.2,1.1,0.5,1.6,0.9
+			c0.5,0.4,0.8,1,0.9,1.7c0.1,0.6,0.6,0.9,1.4,0.9c0.5-0.1,0.8-0.2,1.1-0.4c0.2-0.2,0.2-0.4,0.2-0.7c-0.2-1.7-1-2.9-2.4-3.8
+			c-1.4-0.9-2.9-1.3-4.5-1.3c-2.7,0-4.8,0.8-6.2,2.4c-1.4,1.6-2.1,4-2.1,7.1c0,3.1,0.7,5.4,2.1,7c1.4,1.6,3.5,2.4,6.2,2.4
+			c1.8,0,3.3-0.5,4.6-1.5c1.3-1,2.1-2.2,2.3-3.7c0-0.3,0-0.5-0.2-0.7C48.5,365.5,48.2,365.3,47.7,365.3"/>
+		<path class="st35" d="M729,224.7l5.5-13.9h0c0.2-0.4,0.1-0.7-0.2-0.8c-0.3-0.2-0.7-0.3-1.1-0.3c-0.8,0-1.2,0.3-1.5,1l-2.9,7.9v0
+			c-0.1,0.3-0.3,0.6-0.4,1c-0.1-0.4-0.2-0.8-0.3-0.9h0l-3.2-7.9c-0.3-0.6-0.7-1-1.5-1c-0.5,0-0.8,0.1-1.1,0.3
+			c-0.3,0.2-0.3,0.5-0.1,0.8h0c0.5,1.4,1.3,3.4,2.4,6c1.1,2.7,1.9,4.7,2.4,6l-0.6,1.8c-0.2,0.5-0.4,0.8-0.7,1.1s-0.6,0.3-1.1,0.2h0
+			c-0.9-0.2-1.3,0-1.4,0.8c0,0.4,0,0.7,0.2,0.9s0.4,0.4,0.7,0.4c0.3,0.1,0.7,0.1,1.1,0.1c0.6,0,1.1-0.1,1.5-0.3
+			c0.4-0.2,0.8-0.5,1.1-0.9c0.3-0.4,0.5-0.7,0.7-1C728.6,225.6,728.8,225.2,729,224.7L729,224.7z M712.8,210.6
+			c0-0.7-0.4-1.1-1.3-1.1s-1.3,0.4-1.3,1.1v12c0,0.7,0.4,1.1,1.3,1.1s1.3-0.4,1.3-1.1V217c1.3,0,2.3,0.2,2.8,0.7
+			c0.6,0.5,1.1,1.4,1.6,2.6l0.3,0.7c0.5,1.2,0.9,2,1.3,2.4c0.3,0.3,0.7,0.4,1.4,0.3c0.8-0.1,1-0.5,0.7-1.1l-0.4-0.9
+			c-0.4-0.8-0.7-1.6-1.1-2.5c-0.7-1.9-1.8-3.1-3.1-3.5c0.9-0.5,1.6-1.2,2.3-2.1c0.1-0.1,0.2-0.3,0.3-0.4c0.1-0.2,0.2-0.3,0.3-0.6
+			c0.1-0.2,0.2-0.4,0.3-0.5c0.2-0.3,0.4-0.7,0.8-1.3c0.5-0.8,0.2-1.2-0.8-1.3c-0.6-0.1-1.1,0.1-1.5,0.5c-0.3,0.4-0.6,0.9-1.1,1.6
+			l-0.7,1.1v0c-0.4,0.7-0.9,1.2-1.4,1.6c-0.5,0.4-1.2,0.6-2.1,0.7V210.6z M702.5,224.7l5.5-13.9h0c0.2-0.4,0.1-0.7-0.2-0.8
+			c-0.3-0.2-0.7-0.3-1.1-0.3c-0.8,0-1.2,0.3-1.5,1l-2.9,7.9v0c-0.1,0.3-0.3,0.6-0.4,1c-0.1-0.4-0.2-0.8-0.3-0.9h0l-3.2-7.9
+			c-0.3-0.6-0.7-1-1.5-1c-0.5,0-0.8,0.1-1.1,0.3c-0.3,0.2-0.3,0.5-0.1,0.8h0c0.5,1.4,1.3,3.4,2.4,6c1.1,2.7,1.9,4.7,2.4,6l-0.6,1.8
+			c-0.2,0.5-0.4,0.8-0.7,1.1c-0.3,0.2-0.6,0.3-1.1,0.2h0c-0.9-0.2-1.3,0-1.4,0.8c0,0.4,0,0.7,0.2,0.9s0.4,0.4,0.7,0.4
+			c0.3,0.1,0.7,0.1,1.1,0.1c0.6,0,1.1-0.1,1.5-0.3c0.4-0.2,0.8-0.5,1.1-0.9c0.3-0.4,0.5-0.7,0.7-1
+			C702,225.6,702.2,225.2,702.5,224.7L702.5,224.7z M684.8,217.1v-1.3c0-1.1,0.3-2.1,1-2.9c0.7-0.8,1.6-1.3,2.8-1.3
+			c2.2,0,3.3,1.7,3.3,5c0,3.3-1.1,5-3.3,5c-1.2,0-2.1-0.5-2.8-1.4C685.2,219.3,684.8,218.3,684.8,217.1 M684.7,210.6
+			c0-0.7-0.4-1.1-1.2-1.1c-0.8,0-1.3,0.4-1.3,1.1v16.6c0,0.7,0.4,1.1,1.3,1.1c0.9,0,1.3-0.4,1.3-1.1v-5.1c1,1.2,2.3,1.7,3.9,1.7
+			c1.1,0,2-0.2,2.8-0.6c0.8-0.4,1.4-0.9,1.9-1.6c0.5-0.7,0.8-1.4,1-2.3c0.2-0.8,0.3-1.7,0.3-2.8c0-4.8-1.9-7.2-5.7-7.2
+			c-1.8,0-3.2,0.7-4.3,2V210.6z M667.4,220.6c-0.8,0.9-1.9,1.3-3.2,1.3c-0.7,0-1.3-0.2-1.8-0.6c-0.5-0.4-0.7-0.9-0.7-1.6
+			c0-0.6,0.2-1.1,0.5-1.5c0.3-0.4,0.7-0.7,1.2-0.9s1-0.4,1.6-0.4c0.5-0.1,1.1-0.1,1.7-0.1c0.4,0,1.1,0,1.8,0.1
+			C668.7,218.4,668.3,219.6,667.4,220.6 M668.8,222.7c0.1,0.7,0.6,1,1.5,0.9c0.7-0.1,1-0.5,0.9-1.2c-0.1-0.4-0.1-1-0.1-1.6v-5.6
+			c0-1.9-0.4-3.3-1.3-4.2c-0.9-0.9-2.3-1.4-4.3-1.4c-2.2,0-3.8,0.4-4.9,1.3c-0.4,0.3-0.6,0.6-0.6,0.9c0,0.3,0.1,0.5,0.4,0.7
+			c0.3,0.2,0.6,0.3,0.9,0.3c0.3,0,0.6-0.1,0.8-0.3c0.8-0.6,1.8-0.9,3-0.9c1.7,0,2.8,0.5,3.2,1.4c0.2,0.5,0.2,1.2,0.2,2.1
+			c-0.1,0-0.2,0-0.3,0c-0.1,0-0.2,0-0.2,0c-0.3,0-0.7,0-1.2,0c-5.2,0-7.9,1.6-7.9,4.8c0,1.3,0.4,2.4,1.3,3.1c0.9,0.7,2,1.1,3.4,1.1
+			c2.1,0,3.7-0.8,4.8-2.3C668.6,221.6,668.7,222,668.8,222.7 M654.7,216.2c1.5-0.7,2.3-1.7,2.3-3.1c0-0.9-0.3-1.6-0.8-2.2
+			c-0.5-0.6-1.2-1-1.9-1.2c-0.7-0.2-1.5-0.3-2.4-0.3c-1.3,0-2.5,0.3-3.5,0.8c-1,0.6-1.6,1.4-1.8,2.5c0,0.2,0,0.4,0.2,0.6
+			c0.2,0.3,0.6,0.4,1.1,0.4c0.6,0,1-0.3,1.1-0.8c0.1-1.1,1.1-1.6,2.9-1.6c0.8,0,1.4,0.2,1.8,0.5c0.4,0.4,0.7,0.8,0.7,1.4
+			c0,1.4-1,2.1-3.1,2.1c-0.8,0-1.2,0.3-1.2,0.9c0,0.7,0.3,1,1,1h0.1c0,0,0.1,0,0.2,0c0.1,0,0.1,0,0.2,0c0.4,0,0.9,0,1.3,0.1
+			s0.8,0.3,1.3,0.6c0.4,0.4,0.6,0.8,0.6,1.4c0,0.8-0.3,1.4-0.8,1.8c-0.5,0.4-1.2,0.7-2.1,0.7c-0.2,0-0.5,0-0.8-0.1
+			c-0.3-0.1-0.6-0.1-0.9-0.3c-0.3-0.1-0.6-0.3-0.8-0.6c-0.2-0.3-0.4-0.6-0.4-0.9c-0.1-0.6-0.5-0.9-1.2-0.9c-0.5,0-0.8,0.1-1.1,0.4
+			c-0.2,0.2-0.2,0.4-0.2,0.7c0.2,0.8,0.6,1.5,1.2,2.1c0.6,0.5,1.3,0.9,2,1.1s1.5,0.3,2.3,0.3c1.7,0,3-0.4,4-1.2
+			c1-0.8,1.5-1.8,1.5-3.2C657.4,217.9,656.5,216.8,654.7,216.2 M630.1,211.8h2.8c0.2,0,0.4,0,0.5,0.1c0.1,0.1,0.1,0.2,0.1,0.4v3.8
+			h-3.2c-0.8,0-1.4-0.2-1.9-0.6c-0.5-0.4-0.8-0.9-0.8-1.5c0-0.7,0.2-1.3,0.7-1.7C628.8,212,629.4,211.8,630.1,211.8 M633.5,218.1
+			v4.6c0,0.7,0.4,1.1,1.3,1.1s1.3-0.4,1.3-1.1v-10.4c0-0.8-0.2-1.5-0.5-1.9s-0.9-0.6-1.9-0.6h-3.8c-1.5,0-2.7,0.4-3.7,1.1
+			c-0.9,0.7-1.4,1.8-1.4,3.1c0,0.8,0.3,1.5,0.8,2.1s1.2,1.1,2.1,1.3c-0.6,0.4-1.1,1.1-1.6,2.2c-0.6,1.2-1.1,2.1-1.6,2.8
+			c-0.2,0.3-0.2,0.5-0.1,0.8c0.2,0.3,0.4,0.4,0.8,0.5c0.6,0.1,1.2-0.1,1.6-0.5c0.5-0.5,1-1.4,1.5-2.8c0.6-1.6,1.7-2.4,3.4-2.4H633.5
+			z M621.2,219.7c-0.6-0.1-1.1,0.2-1.4,0.8c-0.5,0.9-1.3,1.3-2.4,1.3c-2.5,0-3.7-1.7-3.7-5.2s1.2-5.2,3.7-5.2c1.2,0,2.1,0.5,2.5,1.5
+			c0.2,0.5,0.6,0.8,1.3,0.8h0.1c0.4-0.1,0.7-0.2,0.8-0.4c0.2-0.2,0.2-0.5,0.1-0.9c-0.2-0.8-0.7-1.5-1.6-2.1c-0.9-0.6-2-0.9-3.3-0.9
+			c-4.3,0-6.4,2.4-6.4,7.1c0,4.7,2.1,7.1,6.4,7.1c1.3,0,2.4-0.3,3.3-0.9c0.9-0.6,1.4-1.2,1.6-1.9c0.1-0.5,0-0.8-0.2-0.9
+			C621.9,219.8,621.6,219.7,621.2,219.7 M601.6,209.8c-0.4,0-0.8,0.1-1.1,0.2c-0.3,0.1-0.6,0.3-0.7,0.4c-0.2,0.2-0.3,0.4-0.4,0.7
+			c-0.1,0.3-0.2,0.5-0.2,0.7s0,0.5-0.1,0.8c0,0.3-0.1,0.9-0.2,2c-0.2,2.6-0.3,4.2-0.5,4.9c0,0,0,0.1,0,0.1s0,0.1,0,0.1
+			c-0.1,0.6-0.2,1.1-0.4,1.4c-0.2,0.3-0.5,0.4-1,0.4c-0.6,0-0.9,0.4-0.9,1.1c0,0.3,0.1,0.5,0.3,0.7s0.5,0.3,0.9,0.3
+			c1.1,0.1,1.9-0.2,2.5-0.9c0.6-0.7,0.9-1.6,1.1-2.9c0.1-1,0.3-3.1,0.5-6.1l0.1-1.3c0-0.4,0.3-0.6,0.7-0.6h2.7
+			c0.4,0,0.6,0.2,0.6,0.5v10.4c0,0.7,0.4,1.1,1.3,1.1c0.9,0,1.3-0.4,1.3-1.1v-10.3c0-0.3,0-0.6,0-0.8c0-0.2-0.1-0.4-0.1-0.7
+			c-0.1-0.3-0.2-0.5-0.3-0.6c-0.2-0.1-0.4-0.3-0.7-0.4c-0.3-0.1-0.7-0.2-1.1-0.2H601.6z M590.7,220.6c-0.8,0.9-1.9,1.3-3.2,1.3
+			c-0.7,0-1.3-0.2-1.8-0.6c-0.5-0.4-0.7-0.9-0.7-1.6c0-0.6,0.2-1.1,0.5-1.5c0.3-0.4,0.7-0.7,1.2-0.9s1-0.4,1.6-0.4
+			c0.5-0.1,1.1-0.1,1.7-0.1c0.4,0,1.1,0,1.8,0.1C592,218.4,591.6,219.6,590.7,220.6 M592.1,222.7c0.1,0.7,0.6,1,1.5,0.9
+			c0.7-0.1,1-0.5,0.9-1.2c-0.1-0.4-0.1-1-0.1-1.6v-5.6c0-1.9-0.4-3.3-1.3-4.2c-0.9-0.9-2.3-1.4-4.3-1.4c-2.2,0-3.8,0.4-4.9,1.3
+			c-0.4,0.3-0.6,0.6-0.6,0.9c0,0.3,0.1,0.5,0.4,0.7c0.3,0.2,0.6,0.3,0.9,0.3s0.6-0.1,0.8-0.3c0.8-0.6,1.8-0.9,3-0.9
+			c1.7,0,2.8,0.5,3.2,1.4c0.2,0.5,0.2,1.2,0.2,2.1c-0.1,0-0.2,0-0.3,0c-0.1,0-0.2,0-0.2,0c-0.3,0-0.7,0-1.2,0
+			c-5.2,0-7.9,1.6-7.9,4.8c0,1.3,0.4,2.4,1.3,3.1c0.9,0.7,2,1.1,3.4,1.1c2.1,0,3.7-0.8,4.8-2.3C591.9,221.6,591.9,222,592.1,222.7
+			 M571.6,212.3c0-0.2,0-0.3,0.1-0.4c0.1-0.1,0.2-0.1,0.4-0.1h3.4c1.3,0,1.9,0.6,1.9,1.7c0,0.6-0.2,1.1-0.6,1.4s-0.8,0.5-1.4,0.5h-4
+			V212.3z M571.6,217.3h4c1.5,0,2.3,0.7,2.3,2.2c0,1.4-0.8,2.1-2.3,2.1h-3.4c-0.2,0-0.4,0-0.4-0.1c-0.1-0.1-0.1-0.2-0.1-0.4V217.3z
+			 M571.3,209.8c-0.5,0-0.8,0.1-1.2,0.2c-0.3,0.1-0.5,0.2-0.7,0.4c-0.2,0.1-0.3,0.3-0.4,0.6s-0.1,0.5-0.1,0.7c0,0.2,0,0.4,0,0.8v8.5
+			c0,0.3,0,0.6,0,0.8c0,0.2,0.1,0.4,0.1,0.7c0.1,0.3,0.2,0.5,0.4,0.6c0.2,0.1,0.4,0.2,0.7,0.4c0.3,0.1,0.7,0.2,1.2,0.2h4.8
+			c1.3,0,2.3-0.4,3.2-1.1c0.9-0.7,1.3-1.7,1.3-2.8c0-0.7-0.2-1.4-0.6-2s-1-1.1-1.7-1.4c1.2-0.6,1.8-1.6,1.8-2.9
+			c0-1.1-0.4-1.9-1.2-2.5c-0.8-0.6-1.9-0.9-3.4-0.9H571.3z M563.6,216.6c0,1.6-0.3,2.8-0.9,3.6c-0.6,0.8-1.6,1.2-2.8,1.2
+			c-1.3,0-2.2-0.4-2.8-1.2c-0.6-0.8-0.9-2-0.9-3.6s0.3-2.8,0.9-3.6c0.6-0.8,1.6-1.2,2.8-1.2c1.3,0,2.2,0.4,2.8,1.2
+			C563.2,213.8,563.6,215,563.6,216.6 M559.8,209.5c-4.3,0-6.4,2.4-6.4,7.1c0,4.7,2.1,7.1,6.4,7.1c4.3,0,6.4-2.4,6.4-7.1
+			C566.2,211.9,564.1,209.5,559.8,209.5 M541.5,217.1v-1.3c0-1.1,0.3-2.1,1-2.9c0.7-0.8,1.6-1.3,2.8-1.3c2.2,0,3.3,1.7,3.3,5
+			c0,3.3-1.1,5-3.3,5c-1.2,0-2.1-0.5-2.8-1.4C541.8,219.3,541.5,218.3,541.5,217.1 M541.4,210.6c0-0.7-0.4-1.1-1.2-1.1
+			c-0.8,0-1.3,0.4-1.3,1.1v16.6c0,0.7,0.4,1.1,1.3,1.1c0.9,0,1.3-0.4,1.3-1.1v-5.1c1,1.2,2.3,1.7,3.9,1.7c1.1,0,2-0.2,2.8-0.6
+			c0.8-0.4,1.4-0.9,1.9-1.6c0.5-0.7,0.8-1.4,1-2.3c0.2-0.8,0.3-1.7,0.3-2.8c0-4.8-1.9-7.2-5.7-7.2c-1.8,0-3.2,0.7-4.3,2V210.6z
+			 M533.5,216.6c0,1.6-0.3,2.8-0.9,3.6c-0.6,0.8-1.6,1.2-2.8,1.2c-1.3,0-2.2-0.4-2.8-1.2c-0.6-0.8-0.9-2-0.9-3.6s0.3-2.8,0.9-3.6
+			c0.6-0.8,1.6-1.2,2.8-1.2c1.3,0,2.2,0.4,2.8,1.2C533.2,213.8,533.5,215,533.5,216.6 M529.7,209.5c-4.3,0-6.4,2.4-6.4,7.1
+			c0,4.7,2.1,7.1,6.4,7.1c4.3,0,6.4-2.4,6.4-7.1C536.1,211.9,534,209.5,529.7,209.5 M513.5,209.8c-1.5,0-2.2,0.8-2.3,2.5
+			c-0.1,0.7-0.1,1.3-0.1,1.7c-0.1,2.3-0.2,4-0.4,4.9c-0.2,1.3-0.6,2-1,2.2c-0.5,0.3-0.8,0.5-1,0.7s-0.3,0.6-0.3,1.2v2.4
+			c0,0.7,0.4,1.1,1.2,1.1c0.8,0,1.2-0.4,1.2-1.1v-1.8c0-0.1,0.1-0.2,0.3-0.2h8.6c0.2,0,0.3,0.1,0.3,0.2v1.8c0,0.7,0.4,1.1,1.2,1.1
+			c0.8,0,1.2-0.4,1.2-1.1v-2.4c0-0.4-0.1-0.8-0.4-1.1s-0.7-0.4-1.2-0.5v-9.1c0-0.3,0-0.6,0-0.8c0-0.2-0.1-0.4-0.1-0.7
+			s-0.2-0.5-0.4-0.6c-0.2-0.1-0.4-0.2-0.7-0.4c-0.3-0.1-0.7-0.2-1.2-0.2H513.5z M512.2,221.5c0.4-0.6,0.6-1.4,0.8-2.4
+			c0.2-1.1,0.3-2.8,0.5-5.3l0.1-1.4c0.1-0.4,0.3-0.6,0.6-0.6h3.2c0.2,0,0.4,0,0.5,0.1s0.1,0.2,0.1,0.4v9.2H512.2z M505.4,216.2
+			c1.5-0.7,2.3-1.7,2.3-3.1c0-0.9-0.3-1.6-0.8-2.2c-0.5-0.6-1.2-1-1.9-1.2c-0.7-0.2-1.5-0.3-2.4-0.3c-1.3,0-2.5,0.3-3.5,0.8
+			c-1,0.6-1.6,1.4-1.8,2.5c0,0.2,0,0.4,0.2,0.6c0.2,0.3,0.6,0.4,1.1,0.4c0.6,0,1-0.3,1.1-0.8c0.1-1.1,1.1-1.6,2.9-1.6
+			c0.8,0,1.4,0.2,1.8,0.5c0.4,0.4,0.7,0.8,0.7,1.4c0,1.4-1,2.1-3.1,2.1c-0.8,0-1.2,0.3-1.2,0.9c0,0.7,0.3,1,1,1h0.1c0,0,0.1,0,0.2,0
+			c0.1,0,0.1,0,0.2,0c0.4,0,0.9,0,1.3,0.1c0.4,0.1,0.8,0.3,1.3,0.6c0.4,0.4,0.6,0.8,0.6,1.4c0,0.8-0.3,1.4-0.8,1.8
+			c-0.5,0.4-1.2,0.7-2.1,0.7c-0.2,0-0.5,0-0.8-0.1c-0.3-0.1-0.6-0.1-0.9-0.3c-0.3-0.1-0.6-0.3-0.8-0.6c-0.2-0.3-0.4-0.6-0.4-0.9
+			c-0.1-0.6-0.5-0.9-1.2-0.9c-0.5,0-0.8,0.1-1.1,0.4c-0.2,0.2-0.2,0.4-0.2,0.7c0.2,0.8,0.6,1.5,1.2,2.1c0.6,0.5,1.3,0.9,2,1.1
+			c0.7,0.2,1.5,0.3,2.3,0.3c1.7,0,3-0.4,4-1.2c1-0.8,1.5-1.8,1.5-3.2C508.1,217.9,507.2,216.8,505.4,216.2 M492.6,216.6
+			c0,1.6-0.3,2.8-0.9,3.6c-0.6,0.8-1.6,1.2-2.8,1.2s-2.2-0.4-2.8-1.2c-0.6-0.8-0.9-2-0.9-3.6s0.3-2.8,0.9-3.6
+			c0.6-0.8,1.6-1.2,2.8-1.2s2.2,0.4,2.8,1.2C492.3,213.8,492.6,215,492.6,216.6 M488.9,209.5c-4.3,0-6.4,2.4-6.4,7.1
+			c0,4.7,2.1,7.1,6.4,7.1c4.3,0,6.4-2.4,6.4-7.1C495.3,211.9,493.2,209.5,488.9,209.5 M479.6,207.7c0-0.8-0.2-1.4-0.5-1.9
+			c-0.4-0.5-1-0.7-2-0.7h-8.6c-1,0-1.6,0.2-2,0.7s-0.5,1.1-0.5,1.9v14.8c0,0.8,0.5,1.2,1.4,1.2c0.9,0,1.4-0.4,1.4-1.2V208
+			c0-0.4,0.2-0.5,0.6-0.5h6.9c0.4,0,0.6,0.2,0.6,0.5v14.5c0,0.8,0.5,1.2,1.4,1.2c0.9,0,1.4-0.4,1.4-1.2V207.7z"/>
+		<path class="st35" d="M640.9,321.2c-0.4,0-0.7,0.1-0.9,0.2s-0.4,0.4-0.4,0.7c-0.5,1.9-1.9,2.8-4.3,2.8c-0.9,0-1.7-0.1-2.4-0.4
+			s-1.2-0.6-1.6-1s-0.7-0.9-0.9-1.6c-0.2-0.6-0.4-1.3-0.4-1.8c-0.1-0.6-0.1-1.3-0.1-2c0-0.7,0-1.4,0.1-2c0.1-0.6,0.2-1.2,0.4-1.8
+			c0.2-0.6,0.5-1.2,0.9-1.6s0.9-0.8,1.6-1.1s1.5-0.4,2.4-0.4c0.6,0,1.2,0.1,1.8,0.3c0.6,0.2,1.1,0.5,1.6,0.9s0.8,1,0.9,1.7
+			c0.1,0.6,0.6,0.9,1.4,0.9c0.5-0.1,0.8-0.2,1.1-0.4c0.2-0.2,0.2-0.4,0.2-0.7c-0.2-1.7-1-2.9-2.4-3.8c-1.4-0.9-2.9-1.3-4.5-1.3
+			c-2.7,0-4.8,0.8-6.2,2.4c-1.4,1.6-2.1,4-2.1,7.1c0,3.1,0.7,5.4,2.1,7c1.4,1.6,3.5,2.4,6.2,2.4c1.8,0,3.3-0.5,4.6-1.5
+			c1.3-1,2.1-2.2,2.3-3.7c0-0.3,0-0.5-0.2-0.7C641.7,321.3,641.3,321.2,640.9,321.2 M616.3,321.2c0.6,0,1-0.3,1.4-1l3.4-5.9v0
+			l0.4-0.8v12.9c0,0.8,0.4,1.1,1.3,1.1c0.8,0,1.2-0.4,1.2-1.2V310c0-0.8-0.5-1.2-1.4-1.2c-0.8,0-1.3,0.4-1.7,1.1l-4.7,8.2l-4.7-8.2
+			c-0.2-0.4-0.5-0.7-0.7-0.8s-0.6-0.2-1-0.2c-0.9,0-1.4,0.4-1.4,1.2v16.3c0,0.8,0.4,1.2,1.2,1.2c0.9,0,1.3-0.4,1.3-1.1v-12.9
+			c0.2,0.4,0.3,0.6,0.4,0.8v0l3.4,5.9C615.2,320.8,615.7,321.2,616.3,321.2 M604.5,321.2c-0.4,0-0.7,0.1-0.9,0.2
+			c-0.3,0.2-0.4,0.4-0.4,0.7c-0.5,1.9-1.9,2.8-4.3,2.8c-0.9,0-1.7-0.1-2.4-0.4c-0.7-0.3-1.2-0.6-1.6-1c-0.4-0.4-0.7-0.9-0.9-1.6
+			c-0.2-0.6-0.4-1.3-0.4-1.8s-0.1-1.3-0.1-2c0-0.7,0-1.4,0.1-2s0.2-1.2,0.4-1.8c0.2-0.6,0.5-1.2,0.9-1.6c0.4-0.4,0.9-0.8,1.6-1.1
+			c0.7-0.3,1.5-0.4,2.4-0.4c0.6,0,1.2,0.1,1.8,0.3c0.6,0.2,1.1,0.5,1.6,0.9c0.5,0.4,0.8,1,0.9,1.7c0.1,0.6,0.6,0.9,1.4,0.9
+			c0.5-0.1,0.8-0.2,1.1-0.4c0.2-0.2,0.2-0.4,0.2-0.7c-0.2-1.7-1-2.9-2.4-3.8c-1.4-0.9-2.9-1.3-4.5-1.3c-2.7,0-4.8,0.8-6.2,2.4
+			c-1.4,1.6-2.1,4-2.1,7.1c0,3.1,0.7,5.4,2.1,7c1.4,1.6,3.5,2.4,6.2,2.4c1.8,0,3.3-0.5,4.6-1.5c1.3-1,2.1-2.2,2.3-3.7
+			c0-0.3,0-0.5-0.2-0.7C605.3,321.3,604.9,321.2,604.5,321.2 M573.6,313.6c-0.4,0-0.8,0.1-1.1,0.2c-0.3,0.1-0.6,0.3-0.7,0.4
+			c-0.2,0.2-0.3,0.4-0.4,0.7c-0.1,0.3-0.2,0.5-0.2,0.7c0,0.2,0,0.5-0.1,0.8c0,0.3-0.1,0.9-0.2,2c-0.2,2.6-0.3,4.2-0.5,4.9
+			c0,0,0,0.1,0,0.1c0,0,0,0.1,0,0.1c-0.1,0.6-0.2,1.1-0.4,1.4s-0.5,0.4-1,0.4c-0.6,0-0.9,0.4-0.9,1.1c0,0.3,0.1,0.5,0.3,0.7
+			s0.5,0.3,0.9,0.3c1.1,0.1,1.9-0.2,2.5-0.9c0.6-0.7,0.9-1.6,1.1-2.9c0.1-1,0.3-3.1,0.5-6.1l0.1-1.3c0-0.4,0.3-0.6,0.7-0.6h2.7
+			c0.4,0,0.6,0.2,0.6,0.5v10.4c0,0.7,0.4,1.1,1.3,1.1c0.9,0,1.3-0.4,1.3-1.1v-10.3c0-0.3,0-0.6,0-0.8c0-0.2-0.1-0.4-0.1-0.7
+			c-0.1-0.3-0.2-0.5-0.3-0.6c-0.2-0.1-0.4-0.3-0.7-0.4c-0.3-0.1-0.7-0.2-1.1-0.2H573.6z M566.2,314.4c0-0.7-0.4-1.1-1.3-1.1
+			c-0.5,0-0.9,0.1-1.1,0.4l-5.5,8c-0.6,1-0.9,1.5-1,1.6v-8.9c0-0.7-0.4-1.1-1.3-1.1c-0.9,0-1.3,0.4-1.3,1.1v12
+			c0,0.7,0.4,1.1,1.3,1.1c0.5,0,0.9-0.2,1.2-0.5l5.6-8.1l0.3-0.5c0.2-0.3,0.4-0.6,0.6-0.9v8.8c0,0.7,0.4,1.1,1.3,1.1
+			c0.9,0,1.3-0.4,1.3-1.1V314.4z M542.9,316c0-0.2,0-0.3,0.1-0.4s0.2-0.1,0.4-0.1h3.4c1.3,0,1.9,0.6,1.9,1.7c0,0.6-0.2,1.1-0.6,1.4
+			c-0.4,0.3-0.8,0.5-1.4,0.5h-4V316z M542.9,321h4c1.5,0,2.3,0.7,2.3,2.2c0,1.4-0.8,2.1-2.3,2.1h-3.4c-0.2,0-0.4,0-0.4-0.1
+			s-0.1-0.2-0.1-0.4V321z M542.7,313.6c-0.5,0-0.8,0.1-1.2,0.2c-0.3,0.1-0.5,0.2-0.7,0.4c-0.2,0.1-0.3,0.3-0.4,0.6
+			c-0.1,0.3-0.1,0.5-0.1,0.7c0,0.2,0,0.4,0,0.8v8.5c0,0.3,0,0.6,0,0.8c0,0.2,0.1,0.4,0.1,0.7c0.1,0.3,0.2,0.5,0.4,0.6
+			s0.4,0.2,0.7,0.4s0.7,0.2,1.2,0.2h4.8c1.3,0,2.3-0.4,3.2-1.1c0.9-0.7,1.3-1.7,1.3-2.8c0-0.7-0.2-1.4-0.6-2c-0.4-0.6-1-1.1-1.7-1.4
+			c1.2-0.6,1.8-1.6,1.8-2.9c0-1.1-0.4-1.9-1.2-2.5s-1.9-0.9-3.4-0.9H542.7z M533.1,324.3c-0.8,0.9-1.9,1.3-3.2,1.3
+			c-0.7,0-1.3-0.2-1.8-0.6c-0.5-0.4-0.7-0.9-0.7-1.6c0-0.6,0.2-1.1,0.5-1.5c0.3-0.4,0.7-0.7,1.2-0.9c0.5-0.2,1-0.4,1.6-0.4
+			c0.5-0.1,1.1-0.1,1.7-0.1c0.4,0,1.1,0,1.8,0.1C534.4,322.1,534,323.4,533.1,324.3 M534.5,326.4c0.1,0.7,0.6,1,1.5,0.9
+			c0.7-0.1,1-0.5,0.9-1.2c-0.1-0.4-0.1-1-0.1-1.6v-5.6c0-1.9-0.4-3.3-1.3-4.2s-2.3-1.4-4.3-1.4c-2.2,0-3.8,0.4-4.9,1.3
+			c-0.4,0.3-0.6,0.6-0.6,0.9s0.1,0.5,0.4,0.7c0.3,0.2,0.6,0.3,0.9,0.3c0.3,0,0.6-0.1,0.8-0.3c0.8-0.6,1.8-0.9,3-0.9
+			c1.7,0,2.8,0.5,3.2,1.4c0.2,0.5,0.2,1.2,0.2,2.1c-0.1,0-0.2,0-0.3,0c-0.1,0-0.2,0-0.2,0c-0.3,0-0.7,0-1.2,0
+			c-5.2,0-7.9,1.6-7.9,4.8c0,1.3,0.4,2.4,1.3,3.1c0.9,0.7,2,1.1,3.4,1.1c2.1,0,3.7-0.8,4.8-2.3C534.3,325.4,534.4,325.8,534.5,326.4
+			 M513.2,320.9v-1.3c0-1.1,0.3-2.1,1-2.9s1.6-1.3,2.8-1.3c2.2,0,3.3,1.7,3.3,5c0,3.3-1.1,5-3.3,5c-1.2,0-2.1-0.5-2.8-1.4
+			C513.5,323.1,513.2,322,513.2,320.9 M513.1,314.4c0-0.7-0.4-1.1-1.2-1.1c-0.8,0-1.3,0.4-1.3,1.1V331c0,0.7,0.4,1.1,1.3,1.1
+			c0.9,0,1.3-0.4,1.3-1.1v-5.1c1,1.2,2.3,1.7,3.9,1.7c1.1,0,2-0.2,2.8-0.6s1.4-0.9,1.9-1.6c0.5-0.7,0.8-1.4,1-2.3
+			c0.2-0.8,0.3-1.7,0.3-2.8c0-4.8-1.9-7.2-5.7-7.2c-1.8,0-3.2,0.7-4.3,2V314.4z M504.6,313.6h-6.4c-0.5,0-1,0.1-1.3,0.2
+			c-0.3,0.1-0.6,0.4-0.7,0.6c-0.1,0.3-0.2,0.5-0.2,0.8c0,0.2,0,0.5,0,0.9v10.3c0,0.7,0.4,1.1,1.3,1.1c0.8,0,1.3-0.4,1.3-1.1V316
+			c0-0.2,0-0.3,0.1-0.4c0.1-0.1,0.2-0.1,0.4-0.1h4.8c0.4,0,0.6,0.2,0.6,0.5v10.4c0,0.7,0.4,1.1,1.3,1.1c0.8,0,1.3-0.4,1.3-1.1v-10.3
+			c0-0.4,0-0.7,0-1c0-0.2-0.1-0.5-0.2-0.8c-0.1-0.3-0.4-0.5-0.7-0.6C505.6,313.7,505.2,313.6,504.6,313.6 M484.1,313.6
+			c-0.6,0-1,0.3-1,1c0,0.7,0.3,1,1,1h3v10.8c0,0.7,0.4,1.1,1.3,1.1c0.8,0,1.3-0.4,1.3-1.1v-10.8h3.1c0.6,0,0.9-0.3,0.9-1
+			c0-0.6-0.3-1-0.9-1H484.1z M478.9,318.1c0,2.3-0.4,4.1-1.3,5.2c-0.9,1.1-2.2,1.7-4.1,1.7c-1.8,0-3.2-0.6-4.1-1.7s-1.3-2.9-1.3-5.2
+			c0-2.4,0.4-4.1,1.3-5.3c0.9-1.1,2.2-1.7,4.1-1.7c1.8,0,3.2,0.6,4.1,1.7C478.4,314,478.9,315.7,478.9,318.1 M479.8,311.3
+			c-1.4-1.8-3.5-2.7-6.3-2.7c-2.8,0-4.9,0.9-6.3,2.7c-1.3,1.6-2,3.9-2,6.8c0,3,0.7,5.3,2.2,7c1.5,1.7,3.5,2.5,6.1,2.5
+			c2.6,0,4.7-0.8,6.1-2.5c1.5-1.6,2.2-4,2.2-7C481.8,315.2,481.1,312.9,479.8,311.3"/>
+		<path class="st35" d="M658,116.5v-1.3c0-1.1,0.3-2.1,1-2.9s1.6-1.3,2.8-1.3c2.2,0,3.3,1.7,3.3,5c0,3.3-1.1,5-3.3,5
+			c-1.2,0-2.1-0.5-2.8-1.4C658.4,118.8,658,117.7,658,116.5 M657.9,110.1c0-0.7-0.4-1.1-1.2-1.1c-0.8,0-1.3,0.4-1.3,1.1v16.6
+			c0,0.7,0.4,1.1,1.3,1.1c0.9,0,1.3-0.4,1.3-1.1v-5.1c1,1.2,2.3,1.7,3.9,1.7c1.1,0,2-0.2,2.8-0.6c0.8-0.4,1.4-0.9,1.9-1.6
+			c0.5-0.7,0.8-1.4,1-2.3c0.2-0.8,0.3-1.7,0.3-2.8c0-4.8-1.9-7.2-5.7-7.2c-1.8,0-3.2,0.7-4.3,2V110.1z M650,116.1
+			c0,1.6-0.3,2.8-0.9,3.6c-0.6,0.8-1.6,1.2-2.8,1.2s-2.2-0.4-2.8-1.2c-0.6-0.8-0.9-2-0.9-3.6c0-1.6,0.3-2.8,0.9-3.6s1.6-1.2,2.8-1.2
+			s2.2,0.4,2.8,1.2C649.7,113.2,650,114.4,650,116.1 M646.3,109c-4.3,0-6.4,2.4-6.4,7.1c0,4.7,2.1,7.1,6.4,7.1
+			c4.3,0,6.4-2.4,6.4-7.1C652.7,111.3,650.5,109,646.3,109 M636.4,119.1c-0.6-0.1-1.1,0.2-1.4,0.8c-0.5,0.9-1.3,1.3-2.4,1.3
+			c-2.5,0-3.7-1.7-3.7-5.2c0-3.4,1.2-5.2,3.7-5.2c1.2,0,2.1,0.5,2.5,1.5c0.2,0.5,0.6,0.8,1.3,0.8h0.1c0.4-0.1,0.7-0.2,0.8-0.4
+			c0.2-0.2,0.2-0.5,0.1-0.9c-0.2-0.8-0.7-1.5-1.6-2.1c-0.9-0.6-2-0.9-3.3-0.9c-4.3,0-6.4,2.4-6.4,7.1c0,4.7,2.1,7.1,6.4,7.1
+			c1.3,0,2.4-0.3,3.3-0.9c0.9-0.6,1.4-1.2,1.6-1.9c0.1-0.5,0-0.8-0.2-0.9C637,119.3,636.7,119.2,636.4,119.1 M619.1,124.1l5.5-13.9
+			h0c0.2-0.4,0.1-0.7-0.2-0.8c-0.3-0.2-0.7-0.3-1.1-0.3c-0.8,0-1.2,0.3-1.5,1l-2.9,7.9v0c-0.1,0.3-0.3,0.6-0.4,1
+			c-0.1-0.4-0.2-0.8-0.3-0.9h0L615,110c-0.3-0.6-0.7-1-1.5-1c-0.5,0-0.8,0.1-1.1,0.3c-0.3,0.2-0.3,0.5-0.1,0.8h0
+			c0.5,1.4,1.3,3.4,2.4,6c1.1,2.7,1.9,4.7,2.4,6l-0.6,1.8c-0.2,0.5-0.4,0.8-0.7,1.1c-0.3,0.2-0.6,0.3-1.1,0.2h0
+			c-0.9-0.2-1.3,0-1.4,0.8c0,0.4,0,0.7,0.2,0.9c0.2,0.2,0.4,0.4,0.7,0.4c0.3,0.1,0.7,0.1,1.1,0.1c0.6,0,1.1-0.1,1.5-0.3
+			c0.4-0.2,0.8-0.5,1.1-0.9c0.3-0.4,0.5-0.7,0.7-1C618.7,125,618.9,124.6,619.1,124.1L619.1,124.1z M603.3,119.4
+			c0.5,0,1-0.3,1.4-0.9l2.6-4.3l0.4-0.7v8.7c0,0.7,0.4,1.1,1.2,1.1s1.2-0.4,1.2-1.1v-12c0-0.7-0.5-1.1-1.4-1.1
+			c-0.6,0-1.2,0.3-1.6,0.9l-3.8,6.4l-3.8-6.4c-0.4-0.6-0.9-0.9-1.5-0.9c-0.9,0-1.4,0.4-1.4,1.1v12c0,0.7,0.4,1.1,1.2,1.1
+			c0.8,0,1.2-0.4,1.2-1.1v-8.7c0.1,0.2,0.2,0.5,0.4,0.7v0l1.3,2.2l1.3,2.2C602.3,119.1,602.8,119.4,603.3,119.4 M578.7,109.3
+			c-0.4,0-0.8,0.1-1.1,0.2c-0.3,0.1-0.6,0.3-0.7,0.4c-0.2,0.2-0.3,0.4-0.4,0.7c-0.1,0.3-0.2,0.5-0.2,0.7s0,0.5-0.1,0.8
+			c0,0.3-0.1,0.9-0.2,2c-0.2,2.6-0.3,4.2-0.5,4.9c0,0,0,0.1,0,0.1s0,0.1,0,0.1c-0.1,0.6-0.2,1.1-0.4,1.4c-0.2,0.3-0.5,0.4-1,0.4
+			c-0.6,0-0.9,0.4-0.9,1.1c0,0.3,0.1,0.5,0.3,0.7s0.5,0.3,0.9,0.3c1.1,0.1,1.9-0.2,2.5-0.9s0.9-1.6,1.1-2.9c0.1-1,0.3-3.1,0.5-6.1
+			l0.1-1.3c0-0.4,0.3-0.6,0.7-0.6h2.7c0.4,0,0.6,0.2,0.6,0.5v10.4c0,0.7,0.4,1.1,1.3,1.1c0.9,0,1.3-0.4,1.3-1.1v-10.3
+			c0-0.3,0-0.6,0-0.8c0-0.2-0.1-0.4-0.1-0.7c-0.1-0.3-0.2-0.5-0.3-0.6c-0.2-0.1-0.4-0.3-0.7-0.4s-0.7-0.2-1.1-0.2H578.7z
+			 M571.4,110.1c0-0.7-0.4-1.1-1.3-1.1c-0.5,0-0.9,0.1-1.1,0.4l-5.5,8c-0.6,1-0.9,1.5-1,1.6v-8.9c0-0.7-0.4-1.1-1.3-1.1
+			c-0.9,0-1.3,0.4-1.3,1.1v12c0,0.7,0.4,1.1,1.3,1.1c0.5,0,0.9-0.2,1.2-0.5l5.6-8.1l0.3-0.5c0.2-0.3,0.4-0.6,0.6-0.9v8.8
+			c0,0.7,0.4,1.1,1.3,1.1c0.9,0,1.3-0.4,1.3-1.1V110.1z M555.7,119.1c-0.6-0.1-1.1,0.2-1.4,0.8c-0.5,0.9-1.3,1.3-2.4,1.3
+			c-2.5,0-3.7-1.7-3.7-5.2c0-3.4,1.2-5.2,3.7-5.2c1.2,0,2.1,0.5,2.5,1.5c0.2,0.5,0.6,0.8,1.3,0.8h0.1c0.4-0.1,0.7-0.2,0.8-0.4
+			c0.2-0.2,0.2-0.5,0.1-0.9c-0.2-0.8-0.7-1.5-1.6-2.1c-0.9-0.6-2-0.9-3.3-0.9c-4.3,0-6.4,2.4-6.4,7.1c0,4.7,2.1,7.1,6.4,7.1
+			c1.3,0,2.4-0.3,3.3-0.9c0.9-0.6,1.4-1.2,1.6-1.9c0.1-0.5,0-0.8-0.2-0.9C556.4,119.3,556.1,119.2,555.7,119.1 M540.8,116.1
+			c0,1.6-0.3,2.8-0.9,3.6c-0.6,0.8-1.6,1.2-2.8,1.2s-2.2-0.4-2.8-1.2c-0.6-0.8-0.9-2-0.9-3.6c0-1.6,0.3-2.8,0.9-3.6s1.6-1.2,2.8-1.2
+			s2.2,0.4,2.8,1.2C540.5,113.2,540.8,114.4,540.8,116.1 M537,109c-4.3,0-6.4,2.4-6.4,7.1c0,4.7,2.1,7.1,6.4,7.1
+			c4.3,0,6.4-2.4,6.4-7.1C543.5,111.3,541.3,109,537,109 M518.8,116.5v-1.3c0-1.1,0.3-2.1,1-2.9s1.6-1.3,2.8-1.3
+			c2.2,0,3.3,1.7,3.3,5c0,3.3-1.1,5-3.3,5c-1.2,0-2.1-0.5-2.8-1.4C519.1,118.8,518.8,117.7,518.8,116.5 M518.6,110.1
+			c0-0.7-0.4-1.1-1.2-1.1c-0.8,0-1.3,0.4-1.3,1.1v16.6c0,0.7,0.4,1.1,1.3,1.1c0.9,0,1.3-0.4,1.3-1.1v-5.1c1,1.2,2.3,1.7,3.9,1.7
+			c1.1,0,2-0.2,2.8-0.6c0.8-0.4,1.4-0.9,1.9-1.6c0.5-0.7,0.8-1.4,1-2.3s0.3-1.7,0.3-2.8c0-4.8-1.9-7.2-5.7-7.2c-1.8,0-3.2,0.7-4.3,2
+			V110.1z M511,116.1c0,0.6-0.1,1.2-0.2,1.8c-0.1,0.6-0.3,1.1-0.5,1.6c-0.3,0.5-0.6,0.9-1.2,1.3c-0.5,0.3-1.1,0.5-1.9,0.5
+			c-2.5,0-3.7-1.7-3.7-5.1s1.2-5.1,3.7-5.1c0.7,0,1.4,0.2,1.9,0.5c0.5,0.3,0.9,0.7,1.2,1.3c0.3,0.5,0.4,1.1,0.5,1.6
+			C510.9,114.9,511,115.5,511,116.1 M507.9,106.6l0.8-0.3c1.8-0.5,2.8-0.9,3.2-1.2c0.8-0.5,1-1,0.7-1.7c-0.3-0.5-0.6-0.7-1.1-0.7
+			c-0.3,0-0.5,0.1-0.7,0.3c-0.4,0.3-1.3,0.7-2.6,1.2c-0.5,0.2-0.9,0.3-1.2,0.5v0c-1.3,0.5-2.4,1.2-3.3,2.1c-0.9,0.9-1.5,1.8-1.9,2.9
+			c-0.4,1.1-0.7,2.1-0.8,3.1c-0.1,1-0.2,2.1-0.2,3.3c0,1,0.1,1.8,0.3,2.7c0.2,0.8,0.6,1.6,1,2.3c0.5,0.7,1.1,1.3,2,1.7
+			c0.9,0.4,1.9,0.6,3.1,0.6c4.3,0,6.4-2.4,6.4-7.1c0-2.3-0.5-4-1.4-5.2s-2.5-1.8-4.8-1.8c-1.5,0-2.8,0.5-3.9,1.6
+			C504.3,108.7,505.7,107.3,507.9,106.6 M497.6,110.1c0-0.7-0.4-1.1-1.3-1.1c-0.8,0-1.3,0.4-1.3,1.1v12c0,0.7,0.4,1.1,1.3,1.1
+			c0.9,0,1.3-0.4,1.3-1.1V110.1z M485.3,110.1c0-0.7-0.4-1.1-1.3-1.1c-0.9,0-1.3,0.4-1.3,1.1v10.3c0,0.4,0,0.7,0,0.9
+			c0,0.2,0.1,0.5,0.2,0.8c0.1,0.3,0.4,0.5,0.7,0.6c0.3,0.1,0.8,0.2,1.3,0.2h4.1c1.4,0,2.5-0.4,3.4-1.2c0.9-0.8,1.4-1.8,1.4-3.1
+			c0-1.3-0.4-2.3-1.3-3.1c-0.8-0.8-2-1.2-3.4-1.2h-3.9V110.1z M485.3,116.4h3.6c1.5,0,2.3,0.8,2.3,2.3c0,0.7-0.2,1.3-0.6,1.7
+			c-0.4,0.4-1,0.6-1.7,0.6h-2.9c-0.2,0-0.4,0-0.5-0.1c-0.1-0.1-0.1-0.2-0.1-0.4V116.4z M468.7,112.3v-4.9c0-0.4,0.2-0.6,0.6-0.6h4
+			c1,0,1.8,0.2,2.4,0.6c0.6,0.4,1,1.1,1,1.9c0,1.9-1.3,2.9-4,2.9H468.7z M473.6,120.7h-4.4c-0.4,0-0.6-0.2-0.6-0.6v-5.7h4.6
+			c1.2,0,2.1,0.3,2.9,0.8c0.7,0.5,1.1,1.4,1.1,2.5c0,0.9-0.3,1.7-1,2.2C475.5,120.5,474.6,120.7,473.6,120.7 M466,107.2v13.2
+			c0,0.8,0.2,1.4,0.5,1.9c0.4,0.5,1,0.7,2,0.7h5.2c1.9,0,3.4-0.4,4.5-1.3c1.1-0.9,1.7-2.2,1.7-3.8c0-1.1-0.3-2-0.9-2.8
+			c-0.6-0.8-1.4-1.4-2.5-1.8c1.9-0.7,2.8-2,2.8-4.1c0-1.5-0.5-2.6-1.6-3.4c-1.1-0.8-2.4-1.2-4.1-1.2h-5.2c-1,0-1.6,0.2-2,0.7
+			C466.1,105.8,466,106.4,466,107.2"/>
+		<path class="st35" d="M247.7,110.1c0-0.7-0.4-1.1-1.3-1.1c-0.5,0-0.9,0.1-1.1,0.4l-5.5,8c-0.6,1-0.9,1.5-1,1.6v-8.9
+			c0-0.7-0.4-1.1-1.3-1.1c-0.9,0-1.3,0.4-1.3,1.1v12c0,0.7,0.4,1.1,1.3,1.1c0.5,0,0.9-0.2,1.2-0.5l5.6-8.1l0.3-0.5
+			c0.2-0.3,0.4-0.6,0.6-0.9v8.8c0,0.7,0.4,1.1,1.3,1.1s1.3-0.4,1.3-1.1V110.1z M224.2,110.1c0-0.7-0.4-1.1-1.3-1.1
+			c-0.9,0-1.3,0.4-1.3,1.1v12c0,0.7,0.4,1.1,1.3,1.1c0.9,0,1.3-0.4,1.3-1.1v-5.4h5.9v5.4c0,0.7,0.4,1.1,1.3,1.1
+			c0.9,0,1.3-0.4,1.3-1.1v-12c0-0.7-0.4-1.1-1.3-1.1c-0.9,0-1.3,0.4-1.3,1.1v4.7h-5.9V110.1z M218.5,110.2c0.2-0.4,0.2-0.7,0-0.9
+			c-0.2-0.2-0.6-0.3-1.1-0.3c-0.4,0-0.7,0-0.9,0.1c-0.2,0.1-0.4,0.3-0.6,0.6c-0.3,0.5-0.7,1.1-1.3,2c-0.6,0.9-1,1.6-1.3,2
+			c-0.3-0.5-0.8-1.2-1.4-2.1c-0.6-0.9-1-1.5-1.2-1.9c-0.2-0.3-0.4-0.5-0.6-0.6c-0.2-0.1-0.5-0.1-0.9-0.1c-0.5,0-0.9,0.1-1.1,0.3
+			c-0.2,0.2-0.2,0.5,0.1,0.9l3.7,5.4c-0.9,1.3-2.3,3.4-4.3,6.2c-0.3,0.4-0.3,0.7-0.1,1c0.2,0.2,0.5,0.3,1.1,0.3c0.4,0,0.7,0,0.9-0.1
+			c0.2-0.1,0.4-0.3,0.7-0.6c0.4-0.5,0.9-1.4,1.6-2.5c0.7-1.1,1.3-1.9,1.6-2.5l3.2,5c0.2,0.3,0.5,0.6,0.7,0.6
+			c0.2,0.1,0.5,0.1,0.9,0.1c0.5,0,0.9-0.1,1.1-0.3c0.2-0.2,0.2-0.5,0-0.9l-4.4-6.4L218.5,110.2z M200.9,124.1l5.5-13.9h0
+			c0.2-0.4,0.1-0.7-0.2-0.8c-0.3-0.2-0.7-0.3-1.1-0.3c-0.8,0-1.2,0.3-1.5,1l-2.9,7.9v0c-0.1,0.3-0.3,0.6-0.4,1
+			c-0.1-0.4-0.2-0.8-0.3-0.9h0l-3.2-7.9c-0.3-0.6-0.7-1-1.5-1c-0.5,0-0.8,0.1-1.1,0.3c-0.3,0.2-0.3,0.5-0.1,0.8h0
+			c0.5,1.4,1.3,3.4,2.4,6c1.1,2.7,1.9,4.7,2.4,6l-0.6,1.8c-0.2,0.5-0.4,0.8-0.7,1.1c-0.3,0.2-0.6,0.3-1.1,0.2h0
+			c-0.9-0.2-1.3,0-1.4,0.8c0,0.4,0,0.7,0.2,0.9c0.2,0.2,0.4,0.4,0.7,0.4c0.3,0.1,0.7,0.1,1.1,0.1c0.6,0,1.1-0.1,1.5-0.3
+			c0.4-0.2,0.8-0.5,1.1-0.9c0.3-0.4,0.5-0.7,0.7-1C200.5,125,200.7,124.6,200.9,124.1L200.9,124.1z M184.7,110.1
+			c0-0.7-0.4-1.1-1.3-1.1c-0.9,0-1.3,0.4-1.3,1.1v12c0,0.7,0.4,1.1,1.3,1.1c0.9,0,1.3-0.4,1.3-1.1v-5.6c1.3,0,2.3,0.2,2.8,0.7
+			c0.6,0.5,1.1,1.4,1.6,2.6l0.3,0.7c0.5,1.2,0.9,2,1.3,2.4c0.3,0.3,0.7,0.4,1.4,0.3c0.8-0.1,1-0.5,0.7-1.1l-0.4-0.9
+			c-0.4-0.8-0.7-1.6-1.1-2.5c-0.7-1.9-1.8-3.1-3.1-3.5c0.9-0.5,1.6-1.2,2.3-2.1c0.1-0.1,0.2-0.3,0.3-0.4c0.1-0.2,0.2-0.3,0.3-0.6
+			c0.1-0.2,0.2-0.4,0.3-0.5c0.2-0.3,0.4-0.7,0.8-1.3c0.5-0.8,0.2-1.2-0.8-1.3c-0.6-0.1-1.1,0.1-1.5,0.5c-0.3,0.4-0.6,0.9-1.1,1.6
+			l-0.7,1.1v0c-0.4,0.7-0.9,1.2-1.4,1.6c-0.5,0.4-1.2,0.6-2.1,0.7V110.1z M169.1,115.6c1.5-0.7,2.3-1.7,2.3-3.1
+			c0-0.9-0.3-1.6-0.8-2.2c-0.5-0.6-1.2-1-1.9-1.2c-0.7-0.2-1.5-0.3-2.4-0.3c-1.3,0-2.5,0.3-3.5,0.8c-1,0.6-1.6,1.4-1.8,2.5
+			c0,0.2,0,0.4,0.2,0.6c0.2,0.3,0.6,0.4,1.1,0.4c0.6,0,1-0.3,1.1-0.8c0.1-1.1,1.1-1.6,2.9-1.6c0.8,0,1.4,0.2,1.8,0.5
+			c0.4,0.4,0.7,0.8,0.7,1.4c0,1.4-1,2.1-3.1,2.1c-0.8,0-1.2,0.3-1.2,0.9c0,0.7,0.3,1,1,1h0.1c0,0,0.1,0,0.2,0c0.1,0,0.1,0,0.2,0
+			c0.4,0,0.9,0,1.3,0.1c0.4,0.1,0.8,0.3,1.3,0.6c0.4,0.4,0.6,0.8,0.6,1.4c0,0.8-0.3,1.4-0.8,1.8c-0.5,0.4-1.2,0.7-2.1,0.7
+			c-0.2,0-0.5,0-0.8-0.1c-0.3-0.1-0.6-0.1-0.9-0.3c-0.3-0.1-0.6-0.3-0.8-0.6s-0.4-0.6-0.4-0.9c-0.1-0.6-0.5-0.9-1.2-0.9
+			c-0.5,0-0.8,0.1-1.1,0.4c-0.2,0.2-0.2,0.4-0.2,0.7c0.2,0.8,0.6,1.5,1.2,2.1s1.3,0.9,2,1.1c0.7,0.2,1.5,0.3,2.3,0.3
+			c1.7,0,3-0.4,4-1.2c1-0.8,1.5-1.8,1.5-3.2C171.7,117.3,170.9,116.2,169.1,115.6 M158.1,110.1c0-0.7-0.4-1.1-1.3-1.1
+			c-0.5,0-0.9,0.1-1.1,0.4l-5.5,8c-0.6,1-0.9,1.5-1,1.6v-8.9c0-0.7-0.4-1.1-1.3-1.1c-0.9,0-1.3,0.4-1.3,1.1v12
+			c0,0.7,0.4,1.1,1.3,1.1c0.5,0,0.9-0.2,1.2-0.5l5.6-8.1l0.3-0.5c0.2-0.3,0.4-0.6,0.6-0.9v8.8c0,0.7,0.4,1.1,1.3,1.1
+			c0.9,0,1.3-0.4,1.3-1.1V110.1z M128.8,109.3c-0.4,0-0.8,0.1-1.1,0.2c-0.3,0.1-0.6,0.3-0.7,0.4c-0.2,0.2-0.3,0.4-0.4,0.7
+			c-0.1,0.3-0.2,0.5-0.2,0.7c0,0.2,0,0.5-0.1,0.8c0,0.3-0.1,0.9-0.2,2c-0.2,2.6-0.3,4.2-0.5,4.9c0,0,0,0.1,0,0.1c0,0,0,0.1,0,0.1
+			c-0.1,0.6-0.2,1.1-0.4,1.4c-0.2,0.3-0.5,0.4-1,0.4c-0.6,0-0.9,0.4-0.9,1.1c0,0.3,0.1,0.5,0.3,0.7c0.2,0.2,0.5,0.3,0.9,0.3
+			c1.1,0.1,1.9-0.2,2.5-0.9c0.6-0.7,0.9-1.6,1.1-2.9c0.1-1,0.3-3.1,0.5-6.1l0.1-1.3c0-0.4,0.3-0.6,0.7-0.6h2.7
+			c0.4,0,0.6,0.2,0.6,0.5v10.4c0,0.7,0.4,1.1,1.3,1.1c0.9,0,1.3-0.4,1.3-1.1v-10.3c0-0.3,0-0.6,0-0.8c0-0.2-0.1-0.4-0.1-0.7
+			c-0.1-0.3-0.2-0.5-0.3-0.6c-0.2-0.1-0.4-0.3-0.7-0.4s-0.7-0.2-1.1-0.2H128.8z M121.5,110.1c0-0.7-0.4-1.1-1.3-1.1
+			c-0.5,0-0.9,0.1-1.1,0.4l-5.5,8c-0.6,1-0.9,1.5-1,1.6v-8.9c0-0.7-0.4-1.1-1.3-1.1c-0.9,0-1.3,0.4-1.3,1.1v12
+			c0,0.7,0.4,1.1,1.3,1.1c0.5,0,0.9-0.2,1.2-0.5l5.6-8.1l0.3-0.5c0.2-0.3,0.4-0.6,0.6-0.9v8.8c0,0.7,0.4,1.1,1.3,1.1
+			c0.9,0,1.3-0.4,1.3-1.1V110.1z M99.4,109.3c-1.5,0-2.2,0.8-2.3,2.5c-0.1,0.7-0.1,1.3-0.1,1.7c-0.1,2.3-0.2,4-0.4,4.9
+			c-0.2,1.3-0.6,2-1,2.2c-0.5,0.3-0.8,0.5-1,0.7c-0.2,0.2-0.3,0.6-0.3,1.2v2.4c0,0.7,0.4,1.1,1.2,1.1c0.8,0,1.2-0.4,1.2-1.1v-1.8
+			c0-0.1,0.1-0.2,0.3-0.2h8.6c0.2,0,0.3,0.1,0.3,0.2v1.8c0,0.7,0.4,1.1,1.2,1.1c0.8,0,1.2-0.4,1.2-1.1v-2.4c0-0.4-0.1-0.8-0.4-1.1
+			c-0.3-0.3-0.7-0.4-1.2-0.5v-9.1c0-0.3,0-0.6,0-0.8c0-0.2-0.1-0.4-0.1-0.7c-0.1-0.3-0.2-0.5-0.4-0.6c-0.2-0.1-0.4-0.2-0.7-0.4
+			c-0.3-0.1-0.7-0.2-1.2-0.2H99.4z M98.2,121c0.4-0.6,0.6-1.4,0.8-2.4c0.2-1.1,0.3-2.8,0.5-5.3l0.1-1.4c0.1-0.4,0.3-0.6,0.6-0.6h3.2
+			c0.2,0,0.4,0,0.5,0.1c0.1,0.1,0.1,0.2,0.1,0.4v9.2H98.2z M91.4,116.1c0,1.6-0.3,2.8-0.9,3.6c-0.6,0.8-1.6,1.2-2.8,1.2
+			s-2.2-0.4-2.8-1.2c-0.6-0.8-0.9-2-0.9-3.6c0-1.6,0.3-2.8,0.9-3.6s1.6-1.2,2.8-1.2s2.2,0.4,2.8,1.2
+			C91.1,113.2,91.4,114.4,91.4,116.1 M87.7,109c-4.3,0-6.4,2.4-6.4,7.1c0,4.7,2.1,7.1,6.4,7.1c4.3,0,6.4-2.4,6.4-7.1
+			C94.1,111.3,91.9,109,87.7,109 M79.7,110.2c0.2-0.4,0.2-0.7,0-0.9s-0.6-0.3-1.1-0.3c-0.4,0-0.7,0-0.9,0.1
+			c-0.2,0.1-0.4,0.3-0.6,0.6c-0.3,0.5-0.7,1.1-1.3,2c-0.6,0.9-1,1.6-1.3,2c-0.3-0.5-0.8-1.2-1.4-2.1c-0.6-0.9-1-1.5-1.2-1.9
+			c-0.2-0.3-0.4-0.5-0.6-0.6c-0.2-0.1-0.5-0.1-0.9-0.1c-0.5,0-0.9,0.1-1.1,0.3c-0.2,0.2-0.2,0.5,0.1,0.9l3.7,5.4
+			c-0.9,1.3-2.3,3.4-4.3,6.2c-0.3,0.4-0.3,0.7-0.1,1c0.2,0.2,0.5,0.3,1.1,0.3c0.4,0,0.7,0,0.9-0.1c0.2-0.1,0.4-0.3,0.7-0.6
+			c0.4-0.5,0.9-1.4,1.6-2.5c0.7-1.1,1.3-1.9,1.6-2.5l3.2,5c0.2,0.3,0.5,0.6,0.7,0.6c0.2,0.1,0.5,0.1,0.9,0.1c0.5,0,0.9-0.1,1.1-0.3
+			c0.2-0.2,0.2-0.5,0-0.9l-4.4-6.4L79.7,110.2z M66.3,110.1c0-0.7-0.4-1.1-1.3-1.1c-0.8,0-1.3,0.4-1.3,1.1v12c0,0.7,0.4,1.1,1.3,1.1
+			c0.9,0,1.3-0.4,1.3-1.1V110.1z M53.9,110.1c0-0.7-0.4-1.1-1.3-1.1c-0.9,0-1.3,0.4-1.3,1.1v10.3c0,0.4,0,0.7,0,0.9
+			c0,0.2,0.1,0.5,0.2,0.8c0.1,0.3,0.4,0.5,0.7,0.6c0.3,0.1,0.8,0.2,1.3,0.2h4.1c1.4,0,2.5-0.4,3.4-1.2c0.9-0.8,1.4-1.8,1.4-3.1
+			c0-1.3-0.4-2.3-1.3-3.1c-0.8-0.8-2-1.2-3.4-1.2h-3.9V110.1z M53.9,116.4h3.6c1.5,0,2.3,0.8,2.3,2.3c0,0.7-0.2,1.3-0.6,1.7
+			c-0.4,0.4-1,0.6-1.7,0.6h-2.9c-0.2,0-0.4,0-0.5-0.1c-0.1-0.1-0.1-0.2-0.1-0.4V116.4z M37.3,112.3v-4.9c0-0.4,0.2-0.6,0.6-0.6h4
+			c1,0,1.8,0.2,2.4,0.6c0.6,0.4,1,1.1,1,1.9c0,1.9-1.3,2.9-4,2.9H37.3z M42.2,120.7h-4.4c-0.4,0-0.6-0.2-0.6-0.6v-5.7h4.6
+			c1.2,0,2.1,0.3,2.9,0.8c0.7,0.5,1.1,1.4,1.1,2.5c0,0.9-0.3,1.7-1,2.2C44.1,120.5,43.3,120.7,42.2,120.7 M34.6,107.2v13.2
+			c0,0.8,0.2,1.4,0.5,1.9c0.4,0.5,1,0.7,2,0.7h5.2c1.9,0,3.4-0.4,4.5-1.3c1.1-0.9,1.7-2.2,1.7-3.8c0-1.1-0.3-2-0.9-2.8
+			c-0.6-0.8-1.4-1.4-2.5-1.8c1.9-0.7,2.8-2,2.8-4.1c0-1.5-0.5-2.6-1.6-3.4s-2.4-1.2-4.1-1.2h-5.2c-1,0-1.6,0.2-2,0.7
+			C34.8,105.8,34.6,106.4,34.6,107.2"/>
+		<path class="st35" d="M206.6,174.4l5.5-13.9h0c0.2-0.4,0.1-0.7-0.2-0.8c-0.3-0.2-0.7-0.3-1.1-0.3c-0.8,0-1.2,0.3-1.5,1l-2.9,7.9v0
+			c-0.1,0.3-0.3,0.6-0.4,1c-0.1-0.4-0.2-0.8-0.3-0.9h0l-3.2-7.9c-0.3-0.6-0.7-1-1.5-1c-0.5,0-0.8,0.1-1.1,0.3
+			c-0.3,0.2-0.3,0.5-0.1,0.8h0c0.5,1.4,1.3,3.4,2.4,6c1.1,2.7,1.9,4.7,2.4,6l-0.6,1.8c-0.2,0.5-0.4,0.8-0.7,1.1
+			c-0.3,0.2-0.6,0.3-1.1,0.2h0c-0.9-0.2-1.3,0-1.4,0.8c0,0.4,0,0.7,0.2,0.9c0.2,0.2,0.4,0.4,0.7,0.4c0.3,0.1,0.7,0.1,1.1,0.1
+			c0.6,0,1.1-0.1,1.5-0.3c0.4-0.2,0.8-0.5,1.1-0.9c0.3-0.4,0.5-0.7,0.7-1C206.1,175.3,206.3,174.9,206.6,174.4L206.6,174.4z
+			 M190.4,160.4c0-0.7-0.4-1.1-1.3-1.1c-0.9,0-1.3,0.4-1.3,1.1v12c0,0.7,0.4,1.1,1.3,1.1c0.9,0,1.3-0.4,1.3-1.1v-5.6
+			c1.3,0,2.3,0.2,2.8,0.7c0.6,0.5,1.1,1.4,1.6,2.6l0.3,0.7c0.5,1.2,0.9,2,1.3,2.4c0.3,0.3,0.7,0.4,1.4,0.3c0.8-0.1,1-0.5,0.7-1.1
+			l-0.4-0.9c-0.4-0.8-0.7-1.6-1.1-2.5c-0.7-1.9-1.8-3.1-3.1-3.5c0.9-0.5,1.6-1.2,2.3-2.1c0.1-0.1,0.2-0.3,0.3-0.4
+			c0.1-0.2,0.2-0.3,0.3-0.6c0.1-0.2,0.2-0.4,0.3-0.5c0.2-0.3,0.4-0.7,0.8-1.3c0.5-0.8,0.2-1.2-0.8-1.3c-0.6-0.1-1.1,0.1-1.5,0.5
+			c-0.3,0.4-0.6,0.9-1.1,1.6l-0.7,1.1v0c-0.4,0.7-0.9,1.2-1.4,1.6c-0.5,0.4-1.2,0.6-2.1,0.7V160.4z M175.2,166.8v-1.3
+			c0-1.1,0.3-2.1,1-2.9c0.7-0.8,1.6-1.3,2.8-1.3c2.2,0,3.3,1.7,3.3,5s-1.1,5-3.3,5c-1.2,0-2.1-0.5-2.8-1.4
+			C175.5,169,175.2,168,175.2,166.8 M175,160.4c0-0.7-0.4-1.1-1.2-1.1c-0.8,0-1.3,0.4-1.3,1.1v16.6c0,0.7,0.4,1.1,1.3,1.1
+			c0.9,0,1.3-0.4,1.3-1.1v-5.1c1,1.2,2.3,1.7,3.9,1.7c1.1,0,2-0.2,2.8-0.6c0.8-0.4,1.4-0.9,1.9-1.6c0.5-0.7,0.8-1.4,1-2.3
+			c0.2-0.8,0.3-1.7,0.3-2.8c0-4.8-1.9-7.2-5.7-7.2c-1.8,0-3.2,0.7-4.3,2V160.4z M167.1,166.4c0,1.6-0.3,2.8-0.9,3.6
+			c-0.6,0.8-1.6,1.2-2.8,1.2c-1.3,0-2.2-0.4-2.8-1.2c-0.6-0.8-0.9-2-0.9-3.6c0-1.6,0.3-2.8,0.9-3.6c0.6-0.8,1.6-1.2,2.8-1.2
+			c1.3,0,2.2,0.4,2.8,1.2S167.1,164.7,167.1,166.4 M163.4,159.2c-4.3,0-6.4,2.4-6.4,7.1c0,4.7,2.1,7.1,6.4,7.1
+			c4.3,0,6.4-2.4,6.4-7.1C169.8,161.6,167.6,159.2,163.4,159.2 M152.5,166.4c0,0.6-0.1,1.2-0.2,1.8c-0.1,0.6-0.3,1.1-0.5,1.6
+			c-0.3,0.5-0.6,0.9-1.2,1.3c-0.5,0.3-1.1,0.5-1.9,0.5c-2.5,0-3.7-1.7-3.7-5.1s1.2-5.1,3.7-5.1c0.7,0,1.4,0.2,1.9,0.5
+			c0.5,0.3,0.9,0.7,1.2,1.3c0.3,0.5,0.4,1.1,0.5,1.6C152.5,165.2,152.5,165.8,152.5,166.4 M149.5,156.8l0.8-0.3
+			c1.8-0.5,2.8-0.9,3.2-1.2c0.8-0.5,1-1,0.7-1.7c-0.3-0.5-0.6-0.7-1.1-0.7c-0.3,0-0.5,0.1-0.7,0.3c-0.4,0.3-1.3,0.7-2.6,1.2
+			c-0.5,0.2-0.9,0.3-1.2,0.5v0c-1.3,0.5-2.4,1.2-3.3,2.1c-0.9,0.9-1.5,1.8-1.9,2.9c-0.4,1.1-0.7,2.1-0.8,3.1s-0.2,2.1-0.2,3.3
+			c0,1,0.1,1.8,0.3,2.7s0.6,1.6,1,2.3c0.5,0.7,1.1,1.3,2,1.7c0.9,0.4,1.9,0.6,3.1,0.6c4.3,0,6.4-2.4,6.4-7.1c0-2.3-0.5-4-1.4-5.2
+			c-0.9-1.2-2.5-1.8-4.8-1.8c-1.5,0-2.8,0.5-3.9,1.6C145.8,159,147.3,157.6,149.5,156.8 M135.6,174.4l5.5-13.9h0
+			c0.2-0.4,0.1-0.7-0.2-0.8c-0.3-0.2-0.7-0.3-1.1-0.3c-0.8,0-1.2,0.3-1.5,1l-2.9,7.9v0c-0.1,0.3-0.3,0.6-0.4,1
+			c-0.1-0.4-0.2-0.8-0.3-0.9h0l-3.2-7.9c-0.3-0.6-0.7-1-1.5-1c-0.5,0-0.8,0.1-1.1,0.3c-0.3,0.2-0.3,0.5-0.1,0.8h0
+			c0.5,1.4,1.3,3.4,2.4,6c1.1,2.7,1.9,4.7,2.4,6l-0.6,1.8c-0.2,0.5-0.4,0.8-0.7,1.1c-0.3,0.2-0.6,0.3-1.1,0.2h0
+			c-0.9-0.2-1.3,0-1.4,0.8c0,0.4,0,0.7,0.2,0.9s0.4,0.4,0.7,0.4c0.3,0.1,0.7,0.1,1.1,0.1c0.6,0,1.1-0.1,1.5-0.3
+			c0.4-0.2,0.8-0.5,1.1-0.9c0.3-0.4,0.5-0.7,0.7-1C135.2,175.3,135.4,174.9,135.6,174.4L135.6,174.4z M112.3,159.6
+			c-0.4,0-0.8,0.1-1.1,0.2c-0.3,0.1-0.6,0.3-0.7,0.4c-0.2,0.2-0.3,0.4-0.4,0.7c-0.1,0.3-0.2,0.5-0.2,0.7c0,0.2,0,0.5-0.1,0.8
+			c0,0.3-0.1,0.9-0.2,2c-0.2,2.6-0.3,4.2-0.5,4.9c0,0,0,0.1,0,0.1c0,0,0,0.1,0,0.1c-0.1,0.6-0.2,1.1-0.4,1.4c-0.2,0.3-0.5,0.4-1,0.4
+			c-0.6,0-0.9,0.4-0.9,1.1c0,0.3,0.1,0.5,0.3,0.7c0.2,0.2,0.5,0.3,0.9,0.3c1.1,0.1,1.9-0.2,2.5-0.9c0.6-0.7,0.9-1.6,1.1-2.9
+			c0.1-1,0.3-3.1,0.5-6.1l0.1-1.3c0-0.4,0.3-0.6,0.7-0.6h2.7c0.4,0,0.6,0.2,0.6,0.5v10.4c0,0.7,0.4,1.1,1.3,1.1
+			c0.9,0,1.3-0.4,1.3-1.1v-10.3c0-0.3,0-0.6,0-0.8c0-0.2-0.1-0.4-0.1-0.7c-0.1-0.3-0.2-0.5-0.3-0.6c-0.2-0.1-0.4-0.3-0.7-0.4
+			c-0.3-0.1-0.7-0.2-1.1-0.2H112.3z M101.4,170.3c-0.8,0.9-1.9,1.3-3.2,1.3c-0.7,0-1.3-0.2-1.8-0.6c-0.5-0.4-0.7-0.9-0.7-1.6
+			c0-0.6,0.2-1.1,0.5-1.5c0.3-0.4,0.7-0.7,1.2-0.9c0.5-0.2,1-0.4,1.6-0.4c0.5-0.1,1.1-0.1,1.7-0.1c0.4,0,1.1,0,1.8,0.1
+			C102.7,168.1,102.3,169.4,101.4,170.3 M102.8,172.4c0.1,0.7,0.6,1,1.5,0.9c0.7-0.1,1-0.5,0.9-1.2c-0.1-0.4-0.1-1-0.1-1.6v-5.6
+			c0-1.9-0.4-3.3-1.3-4.2c-0.9-0.9-2.3-1.4-4.3-1.4c-2.2,0-3.8,0.4-4.9,1.3c-0.4,0.3-0.6,0.6-0.6,0.9c0,0.3,0.1,0.5,0.4,0.7
+			c0.3,0.2,0.6,0.3,0.9,0.3c0.3,0,0.6-0.1,0.8-0.3c0.8-0.6,1.8-0.9,3-0.9c1.7,0,2.8,0.5,3.2,1.4c0.2,0.5,0.2,1.2,0.2,2.1
+			c-0.1,0-0.2,0-0.3,0c-0.1,0-0.2,0-0.2,0c-0.3,0-0.7,0-1.2,0c-5.2,0-7.9,1.6-7.9,4.8c0,1.3,0.4,2.4,1.3,3.1c0.9,0.7,2,1.1,3.4,1.1
+			c2.1,0,3.7-0.8,4.8-2.3C102.6,171.4,102.7,171.7,102.8,172.4 M84,159.6c-0.4,0-0.8,0.1-1.1,0.2c-0.3,0.1-0.6,0.3-0.7,0.4
+			c-0.2,0.2-0.3,0.4-0.4,0.7c-0.1,0.3-0.2,0.5-0.2,0.7c0,0.2,0,0.5-0.1,0.8c0,0.3-0.1,0.9-0.2,2c-0.2,2.6-0.3,4.2-0.5,4.9
+			c0,0,0,0.1,0,0.1c0,0,0,0.1,0,0.1c-0.1,0.6-0.2,1.1-0.4,1.4c-0.2,0.3-0.5,0.4-1,0.4c-0.6,0-0.9,0.4-0.9,1.1c0,0.3,0.1,0.5,0.3,0.7
+			c0.2,0.2,0.5,0.3,0.9,0.3c1.1,0.1,1.9-0.2,2.5-0.9s0.9-1.6,1.1-2.9c0.1-1,0.3-3.1,0.5-6.1l0.1-1.3c0-0.4,0.3-0.6,0.7-0.6h2.7
+			c0.4,0,0.6,0.2,0.6,0.5v10.4c0,0.7,0.4,1.1,1.3,1.1c0.9,0,1.3-0.4,1.3-1.1v-10.3c0-0.3,0-0.6,0-0.8c0-0.2-0.1-0.4-0.1-0.7
+			c-0.1-0.3-0.2-0.5-0.3-0.6c-0.2-0.1-0.4-0.3-0.7-0.4c-0.3-0.1-0.7-0.2-1.1-0.2H84z M67.7,164.8c0.1-1,0.5-1.9,1.2-2.6
+			c0.7-0.8,1.6-1.1,2.7-1.1c1,0,1.8,0.3,2.4,0.9c0.6,0.6,0.9,1.4,1,2.4c0,0.3-0.1,0.4-0.4,0.4H67.7z M77.4,164.7
+			c0-1.6-0.5-2.9-1.5-3.9c-1.1-1.1-2.6-1.7-4.5-1.7c-1.2,0-2.2,0.2-3.1,0.6c-0.9,0.4-1.6,1-2.1,1.7c-0.5,0.7-0.9,1.5-1.1,2.3
+			c-0.2,0.8-0.4,1.7-0.4,2.6c0,0.9,0.1,1.7,0.4,2.5c0.2,0.8,0.6,1.6,1.1,2.3c0.5,0.7,1.2,1.3,2.1,1.7c0.9,0.4,1.9,0.6,3.1,0.6
+			s2.3-0.2,3.3-0.7c1-0.5,1.7-1.2,2-2.1c0.1-0.3,0.1-0.5-0.1-0.8c-0.2-0.3-0.5-0.4-0.9-0.5c-0.6-0.1-1.1,0.2-1.5,0.7
+			c-0.3,0.4-0.7,0.8-1.3,1c-0.6,0.2-1.1,0.3-1.6,0.3c-0.8,0-1.5-0.2-2-0.5c-0.5-0.3-1-0.7-1.2-1.2s-0.5-1-0.6-1.5
+			c-0.1-0.5-0.2-1-0.2-1.6h7.3c1,0,1.7-0.2,2-0.5C77.2,165.8,77.4,165.4,77.4,164.7 M55,159.6c-1.5,0-2.2,0.8-2.3,2.5
+			c-0.1,0.7-0.1,1.3-0.1,1.7c-0.1,2.3-0.2,4-0.4,4.9c-0.2,1.3-0.6,2-1,2.2c-0.5,0.3-0.8,0.5-1,0.7c-0.2,0.2-0.3,0.6-0.3,1.2v2.4
+			c0,0.7,0.4,1.1,1.2,1.1c0.8,0,1.2-0.4,1.2-1.1v-1.8c0-0.1,0.1-0.2,0.3-0.2H61c0.2,0,0.3,0.1,0.3,0.2v1.8c0,0.7,0.4,1.1,1.2,1.1
+			s1.2-0.4,1.2-1.1v-2.4c0-0.4-0.1-0.8-0.4-1.1c-0.3-0.3-0.7-0.4-1.2-0.5v-9.1c0-0.3,0-0.6,0-0.8c0-0.2-0.1-0.4-0.1-0.7
+			c-0.1-0.3-0.2-0.5-0.4-0.6c-0.2-0.1-0.4-0.2-0.7-0.4c-0.3-0.1-0.7-0.2-1.2-0.2H55z M53.8,171.3c0.4-0.6,0.6-1.4,0.8-2.4
+			c0.2-1.1,0.3-2.8,0.5-5.3l0.1-1.4c0.1-0.4,0.3-0.6,0.6-0.6h3.2c0.2,0,0.4,0,0.5,0.1c0.1,0.1,0.1,0.2,0.1,0.4v9.2H53.8z
+			 M47.7,167.2c-0.4,0-0.7,0.1-0.9,0.2c-0.3,0.2-0.4,0.4-0.4,0.7c-0.5,1.9-1.9,2.8-4.3,2.8c-0.9,0-1.7-0.1-2.4-0.4
+			c-0.7-0.3-1.2-0.6-1.6-1s-0.7-0.9-0.9-1.6c-0.2-0.6-0.4-1.3-0.4-1.8c-0.1-0.6-0.1-1.3-0.1-2c0-0.7,0-1.4,0.1-2
+			c0.1-0.6,0.2-1.2,0.4-1.8c0.2-0.6,0.5-1.2,0.9-1.6s0.9-0.8,1.6-1.1c0.7-0.3,1.5-0.4,2.4-0.4c0.6,0,1.2,0.1,1.8,0.3
+			c0.6,0.2,1.1,0.5,1.6,0.9c0.5,0.4,0.8,1,0.9,1.7c0.1,0.6,0.6,0.9,1.4,0.9c0.5-0.1,0.8-0.2,1.1-0.4c0.2-0.2,0.2-0.4,0.2-0.7
+			c-0.2-1.7-1-2.9-2.4-3.8c-1.4-0.9-2.9-1.3-4.5-1.3c-2.7,0-4.8,0.8-6.2,2.4c-1.4,1.6-2.1,4-2.1,7.1c0,3.1,0.7,5.4,2.1,7
+			c1.4,1.6,3.5,2.4,6.2,2.4c1.8,0,3.3-0.5,4.6-1.5c1.3-1,2.1-2.2,2.3-3.7c0-0.3,0-0.5-0.2-0.7C48.5,167.3,48.2,167.2,47.7,167.2"/>
+		<path class="st35" d="M267.7,224.7l5.5-13.9h0c0.2-0.4,0.1-0.7-0.2-0.8c-0.3-0.2-0.7-0.3-1.1-0.3c-0.8,0-1.2,0.3-1.5,1l-2.9,7.9v0
+			c-0.1,0.3-0.3,0.6-0.4,1c-0.1-0.4-0.2-0.8-0.3-0.9h0l-3.2-7.9c-0.3-0.6-0.7-1-1.5-1c-0.5,0-0.8,0.1-1.1,0.3
+			c-0.3,0.2-0.3,0.5-0.1,0.8h0c0.5,1.4,1.3,3.4,2.4,6c1.1,2.7,1.9,4.7,2.4,6l-0.6,1.8c-0.2,0.5-0.4,0.8-0.7,1.1
+			c-0.3,0.2-0.6,0.3-1.1,0.2h0c-0.9-0.2-1.3,0-1.4,0.8c0,0.4,0,0.7,0.2,0.9s0.4,0.4,0.7,0.4c0.3,0.1,0.7,0.1,1.1,0.1
+			c0.6,0,1.1-0.1,1.5-0.3c0.4-0.2,0.8-0.5,1.1-0.9c0.3-0.4,0.5-0.7,0.7-1C267.2,225.6,267.4,225.2,267.7,224.7L267.7,224.7z
+			 M251.5,210.6c0-0.7-0.4-1.1-1.3-1.1c-0.9,0-1.3,0.4-1.3,1.1v12c0,0.7,0.4,1.1,1.3,1.1c0.9,0,1.3-0.4,1.3-1.1V217
+			c1.3,0,2.3,0.2,2.8,0.7c0.6,0.5,1.1,1.4,1.6,2.6l0.3,0.7c0.5,1.2,0.9,2,1.3,2.4c0.3,0.3,0.7,0.4,1.4,0.3c0.8-0.1,1-0.5,0.7-1.1
+			l-0.4-0.9c-0.4-0.8-0.7-1.6-1.1-2.5c-0.7-1.9-1.8-3.1-3.1-3.5c0.9-0.5,1.6-1.2,2.3-2.1c0.1-0.1,0.2-0.3,0.3-0.4
+			c0.1-0.2,0.2-0.3,0.3-0.6c0.1-0.2,0.2-0.4,0.3-0.5c0.2-0.3,0.4-0.7,0.8-1.3c0.5-0.8,0.2-1.2-0.8-1.3c-0.6-0.1-1.1,0.1-1.5,0.5
+			c-0.3,0.4-0.6,0.9-1.1,1.6l-0.7,1.1v0c-0.4,0.7-0.9,1.2-1.4,1.6c-0.5,0.4-1.2,0.6-2.1,0.7V210.6z M244.6,219.7
+			c-0.6-0.1-1.1,0.2-1.4,0.8c-0.5,0.9-1.3,1.3-2.4,1.3c-2.5,0-3.7-1.7-3.7-5.2s1.2-5.2,3.7-5.2c1.2,0,2.1,0.5,2.5,1.5
+			c0.2,0.5,0.6,0.8,1.3,0.8h0.1c0.4-0.1,0.7-0.2,0.8-0.4c0.2-0.2,0.2-0.5,0.1-0.9c-0.2-0.8-0.7-1.5-1.6-2.1c-0.9-0.6-2-0.9-3.3-0.9
+			c-4.3,0-6.4,2.4-6.4,7.1c0,4.7,2.1,7.1,6.4,7.1c1.3,0,2.4-0.3,3.3-0.9c0.9-0.6,1.4-1.2,1.6-1.9c0.1-0.5,0-0.8-0.2-0.9
+			C245.3,219.8,245,219.7,244.6,219.7 M232.2,220.1c0.1-0.4,0-0.6-0.1-0.9c-0.2-0.2-0.4-0.4-0.8-0.4c-0.3,0-0.6,0-0.9,0.2
+			c-0.3,0.2-0.5,0.4-0.6,0.6c-0.2,0.7-0.6,1.2-1.2,1.6s-1.3,0.6-2,0.6c-1.4,0-2.4-0.4-3-1.3c-0.6-0.9-0.9-2-1-3.4h7.3
+			c1,0,1.7-0.2,2-0.5c0.3-0.3,0.5-0.8,0.5-1.4c0-1.7-0.5-3-1.6-4c-1.1-1-2.6-1.6-4.4-1.6c-2.2,0-3.9,0.7-5,2.1
+			c-1.1,1.4-1.7,3.1-1.7,5.2c0,2,0.6,3.7,1.7,5.1c1.1,1.4,2.8,2.1,5,2.1c1.4,0,2.6-0.3,3.7-1C231.2,222.2,231.9,221.2,232.2,220.1
+			 M229.8,214.7c0,0.2,0,0.3-0.1,0.3c-0.1,0.1-0.2,0.1-0.3,0.1h-6.8c0.1-1,0.5-1.8,1.2-2.6c0.7-0.8,1.6-1.1,2.7-1.1
+			c1,0,1.9,0.3,2.4,0.9C229.5,212.9,229.8,213.7,229.8,214.7L229.8,214.7z M228.5,205.1c-0.6,0-0.9,0.1-1.2,0.4
+			c-0.2,0.2-0.3,0.6-0.3,1.1c0,0.5,0.1,0.9,0.3,1.1c0.2,0.3,0.6,0.4,1.2,0.4c0.6,0,1-0.1,1.2-0.4c0.2-0.3,0.3-0.6,0.3-1.1
+			c0-0.5-0.1-0.8-0.3-1.1C229.5,205.2,229.1,205.1,228.5,205.1 M223.9,205.1c-0.6,0-1,0.1-1.2,0.4c-0.2,0.2-0.3,0.6-0.3,1.1
+			c0,0.5,0.1,0.9,0.3,1.1c0.2,0.3,0.6,0.4,1.2,0.4c0.6,0,1-0.1,1.2-0.4c0.2-0.3,0.3-0.6,0.3-1.1
+			C225.4,205.5,224.9,205.1,223.9,205.1 M216.9,210.6c0-0.7-0.4-1.1-1.3-1.1c-0.9,0-1.3,0.4-1.3,1.1v4.2c0,0.6-0.3,1.1-0.8,1.6
+			c-0.5,0.4-1.3,0.6-2.3,0.6c-0.9,0-1.5-0.2-1.8-0.6c-0.3-0.4-0.5-1.1-0.5-2.1v-3.7c0-0.7-0.4-1.1-1.3-1.1s-1.3,0.4-1.3,1.1v4.3
+			c0,2.6,1.5,4,4.6,4c1.4,0,2.5-0.3,3.3-0.9v4.7c0,0.7,0.4,1.1,1.3,1.1c0.8,0,1.3-0.4,1.3-1.1V210.6z M203.6,210.6
+			c0-0.7-0.4-1.1-1.3-1.1c-0.5,0-0.9,0.1-1.1,0.4l-5.5,8c-0.6,1-0.9,1.5-1,1.6v-8.9c0-0.7-0.4-1.1-1.3-1.1c-0.9,0-1.3,0.4-1.3,1.1
+			v12c0,0.7,0.4,1.1,1.3,1.1c0.5,0,0.9-0.2,1.2-0.5l5.6-8.1l0.3-0.5c0.2-0.3,0.4-0.6,0.6-0.9v8.8c0,0.7,0.4,1.1,1.3,1.1
+			c0.9,0,1.3-0.4,1.3-1.1V210.6z M179.5,217.1v-1.3c0-1.1,0.3-2.1,1-2.9c0.7-0.8,1.6-1.3,2.8-1.3c2.2,0,3.3,1.7,3.3,5
+			c0,3.3-1.1,5-3.3,5c-1.2,0-2.1-0.5-2.8-1.4C179.8,219.3,179.5,218.3,179.5,217.1 M179.4,210.6c0-0.7-0.4-1.1-1.2-1.1
+			c-0.8,0-1.3,0.4-1.3,1.1v16.6c0,0.7,0.4,1.1,1.3,1.1c0.9,0,1.3-0.4,1.3-1.1v-5.1c1,1.2,2.3,1.7,3.9,1.7c1.1,0,2-0.2,2.8-0.6
+			c0.8-0.4,1.4-0.9,1.9-1.6c0.5-0.7,0.8-1.4,1-2.3c0.2-0.8,0.3-1.7,0.3-2.8c0-4.8-1.9-7.2-5.7-7.2c-1.8,0-3.2,0.7-4.3,2V210.6z
+			 M170.9,209.8h-6.4c-0.5,0-1,0.1-1.3,0.2c-0.3,0.1-0.6,0.4-0.7,0.6c-0.1,0.3-0.2,0.5-0.2,0.8c0,0.2,0,0.5,0,0.9v10.3
+			c0,0.7,0.4,1.1,1.3,1.1c0.8,0,1.3-0.4,1.3-1.1v-10.4c0-0.2,0-0.3,0.1-0.4c0.1-0.1,0.2-0.1,0.4-0.1h4.8c0.4,0,0.6,0.2,0.6,0.5v10.4
+			c0,0.7,0.4,1.1,1.3,1.1c0.8,0,1.3-0.4,1.3-1.1v-10.3c0-0.4,0-0.7,0-1c0-0.2-0.1-0.5-0.2-0.8c-0.1-0.3-0.4-0.5-0.7-0.6
+			C171.9,209.9,171.4,209.8,170.9,209.8 M144.4,209.8c-0.4,0-0.8,0.1-1.1,0.2c-0.3,0.1-0.6,0.3-0.7,0.4c-0.2,0.2-0.3,0.4-0.4,0.7
+			c-0.1,0.3-0.2,0.5-0.2,0.7s0,0.5-0.1,0.8c0,0.3-0.1,0.9-0.2,2c-0.2,2.6-0.3,4.2-0.5,4.9c0,0,0,0.1,0,0.1c0,0,0,0.1,0,0.1
+			c-0.1,0.6-0.2,1.1-0.4,1.4c-0.2,0.3-0.5,0.4-1,0.4c-0.6,0-0.9,0.4-0.9,1.1c0,0.3,0.1,0.5,0.3,0.7c0.2,0.2,0.5,0.3,0.9,0.3
+			c1.1,0.1,1.9-0.2,2.5-0.9c0.6-0.7,0.9-1.6,1.1-2.9c0.1-1,0.3-3.1,0.5-6.1l0.1-1.3c0-0.4,0.3-0.6,0.7-0.6h2.7
+			c0.4,0,0.6,0.2,0.6,0.5v10.4c0,0.7,0.4,1.1,1.3,1.1c0.9,0,1.3-0.4,1.3-1.1v-10.3c0-0.3,0-0.6,0-0.8c0-0.2-0.1-0.4-0.1-0.7
+			c-0.1-0.3-0.2-0.5-0.3-0.6c-0.2-0.1-0.4-0.3-0.7-0.4c-0.3-0.1-0.7-0.2-1.1-0.2H144.4z M137.1,210.6c0-0.7-0.4-1.1-1.3-1.1
+			c-0.5,0-0.9,0.1-1.1,0.4l-5.5,8c-0.6,1-0.9,1.5-1,1.6v-8.9c0-0.7-0.4-1.1-1.3-1.1c-0.9,0-1.3,0.4-1.3,1.1v12
+			c0,0.7,0.4,1.1,1.3,1.1c0.5,0,0.9-0.2,1.2-0.5l5.6-8.1l0.3-0.5c0.2-0.3,0.4-0.6,0.6-0.9v8.8c0,0.7,0.4,1.1,1.3,1.1
+			c0.9,0,1.3-0.4,1.3-1.1V210.6z M113.7,212.3c0-0.2,0-0.3,0.1-0.4c0.1-0.1,0.2-0.1,0.4-0.1h3.4c1.3,0,1.9,0.6,1.9,1.7
+			c0,0.6-0.2,1.1-0.6,1.4c-0.4,0.3-0.8,0.5-1.4,0.5h-4V212.3z M113.7,217.3h4c1.5,0,2.3,0.7,2.3,2.2c0,1.4-0.8,2.1-2.3,2.1h-3.4
+			c-0.2,0-0.4,0-0.4-0.1c-0.1-0.1-0.1-0.2-0.1-0.4V217.3z M113.5,209.8c-0.5,0-0.8,0.1-1.2,0.2c-0.3,0.1-0.5,0.2-0.7,0.4
+			c-0.2,0.1-0.3,0.3-0.4,0.6c-0.1,0.3-0.1,0.5-0.1,0.7c0,0.2,0,0.4,0,0.8v8.5c0,0.3,0,0.6,0,0.8c0,0.2,0.1,0.4,0.1,0.7
+			c0.1,0.3,0.2,0.5,0.4,0.6c0.2,0.1,0.4,0.2,0.7,0.4c0.3,0.1,0.7,0.2,1.2,0.2h4.8c1.3,0,2.3-0.4,3.2-1.1c0.9-0.7,1.3-1.7,1.3-2.8
+			c0-0.7-0.2-1.4-0.6-2c-0.4-0.6-1-1.1-1.7-1.4c1.2-0.6,1.8-1.6,1.8-2.9c0-1.1-0.4-1.9-1.2-2.5c-0.8-0.6-1.9-0.9-3.4-0.9H113.5z
+			 M103.9,220.6c-0.8,0.9-1.9,1.3-3.2,1.3c-0.7,0-1.3-0.2-1.8-0.6c-0.5-0.4-0.7-0.9-0.7-1.6c0-0.6,0.2-1.1,0.5-1.5
+			c0.3-0.4,0.7-0.7,1.2-0.9c0.5-0.2,1-0.4,1.6-0.4c0.5-0.1,1.1-0.1,1.7-0.1c0.4,0,1.1,0,1.8,0.1
+			C105.2,218.4,104.8,219.6,103.9,220.6 M105.3,222.7c0.1,0.7,0.6,1,1.5,0.9c0.7-0.1,1-0.5,0.9-1.2c-0.1-0.4-0.1-1-0.1-1.6v-5.6
+			c0-1.9-0.4-3.3-1.3-4.2c-0.9-0.9-2.3-1.4-4.3-1.4c-2.2,0-3.8,0.4-4.9,1.3c-0.4,0.3-0.6,0.6-0.6,0.9c0,0.3,0.1,0.5,0.4,0.7
+			c0.3,0.2,0.6,0.3,0.9,0.3s0.6-0.1,0.8-0.3c0.8-0.6,1.8-0.9,3-0.9c1.7,0,2.8,0.5,3.2,1.4c0.2,0.5,0.2,1.2,0.2,2.1
+			c-0.1,0-0.2,0-0.3,0c-0.1,0-0.2,0-0.2,0c-0.3,0-0.7,0-1.2,0c-5.2,0-7.9,1.6-7.9,4.8c0,1.3,0.4,2.4,1.3,3.1c0.9,0.7,2,1.1,3.4,1.1
+			c2.1,0,3.7-0.8,4.8-2.3C105.1,221.6,105.2,222,105.3,222.7 M84,217.1v-1.3c0-1.1,0.3-2.1,1-2.9c0.7-0.8,1.6-1.3,2.8-1.3
+			c2.2,0,3.3,1.7,3.3,5c0,3.3-1.1,5-3.3,5c-1.2,0-2.1-0.5-2.8-1.4C84.4,219.3,84,218.3,84,217.1 M83.9,210.6c0-0.7-0.4-1.1-1.2-1.1
+			c-0.8,0-1.3,0.4-1.3,1.1v16.6c0,0.7,0.4,1.1,1.3,1.1c0.9,0,1.3-0.4,1.3-1.1v-5.1c1,1.2,2.3,1.7,3.9,1.7c1.1,0,2-0.2,2.8-0.6
+			c0.8-0.4,1.4-0.9,1.9-1.6c0.5-0.7,0.8-1.4,1-2.3c0.2-0.8,0.3-1.7,0.3-2.8c0-4.8-1.9-7.2-5.7-7.2c-1.8,0-3.2,0.7-4.3,2V210.6z
+			 M75.4,209.8h-6.4c-0.5,0-1,0.1-1.3,0.2c-0.3,0.1-0.6,0.4-0.7,0.6c-0.1,0.3-0.2,0.5-0.2,0.8c0,0.2,0,0.5,0,0.9v10.3
+			c0,0.7,0.4,1.1,1.3,1.1c0.8,0,1.3-0.4,1.3-1.1v-10.4c0-0.2,0-0.3,0.1-0.4c0.1-0.1,0.2-0.1,0.4-0.1h4.8c0.4,0,0.6,0.2,0.6,0.5v10.4
+			c0,0.7,0.4,1.1,1.3,1.1c0.8,0,1.3-0.4,1.3-1.1v-10.3c0-0.4,0-0.7,0-1c0-0.2-0.1-0.5-0.2-0.8c-0.1-0.3-0.4-0.5-0.7-0.6
+			C76.4,209.9,76,209.8,75.4,209.8 M61.3,216.6c0,1.6-0.3,2.8-0.9,3.6c-0.6,0.8-1.6,1.2-2.8,1.2c-1.3,0-2.2-0.4-2.8-1.2
+			c-0.6-0.8-0.9-2-0.9-3.6s0.3-2.8,0.9-3.6c0.6-0.8,1.6-1.2,2.8-1.2c1.3,0,2.2,0.4,2.8,1.2C61,213.8,61.3,215,61.3,216.6
+			 M57.5,209.5c-4.3,0-6.4,2.4-6.4,7.1c0,4.7,2.1,7.1,6.4,7.1c4.3,0,6.4-2.4,6.4-7.1C63.9,211.9,61.8,209.5,57.5,209.5 M48.3,207.7
+			c0-0.8-0.2-1.4-0.5-1.9c-0.4-0.5-1-0.7-2-0.7h-8.6c-1,0-1.6,0.2-2,0.7s-0.5,1.1-0.5,1.9v14.8c0,0.8,0.5,1.2,1.4,1.2
+			c0.9,0,1.4-0.4,1.4-1.2V208c0-0.4,0.2-0.5,0.6-0.5h6.9c0.4,0,0.6,0.2,0.6,0.5v14.5c0,0.8,0.5,1.2,1.4,1.2c0.9,0,1.4-0.4,1.4-1.2
+			V207.7z"/>
+		<path class="st35" d="M185,319.1c-0.6-0.1-1.1,0.2-1.4,0.8c-0.5,0.9-1.3,1.3-2.4,1.3c-2.5,0-3.7-1.7-3.7-5.2s1.2-5.2,3.7-5.2
+			c1.2,0,2.1,0.5,2.5,1.5c0.2,0.5,0.6,0.8,1.3,0.8h0.1c0.4-0.1,0.7-0.2,0.8-0.4c0.2-0.2,0.2-0.5,0.1-0.9c-0.2-0.8-0.7-1.5-1.6-2.1
+			c-0.9-0.6-2-0.9-3.3-0.9c-4.3,0-6.4,2.4-6.4,7.1c0,4.7,2.1,7.1,6.4,7.1c1.3,0,2.4-0.3,3.3-0.9c0.9-0.6,1.4-1.2,1.6-1.9
+			c0.1-0.5,0-0.8-0.2-0.9C185.7,319.3,185.4,319.2,185,319.1 M170.1,316.1c0,1.6-0.3,2.8-0.9,3.6c-0.6,0.8-1.6,1.2-2.8,1.2
+			c-1.3,0-2.2-0.4-2.8-1.2s-0.9-2-0.9-3.6s0.3-2.8,0.9-3.6s1.6-1.2,2.8-1.2c1.3,0,2.2,0.4,2.8,1.2
+			C169.8,313.2,170.1,314.4,170.1,316.1 M166.4,309c-4.3,0-6.4,2.4-6.4,7.1c0,4.7,2.1,7.1,6.4,7.1c4.3,0,6.4-2.4,6.4-7.1
+			C172.8,311.3,170.6,309,166.4,309 M148.7,310.1c0-0.7-0.4-1.1-1.3-1.1c-0.9,0-1.3,0.4-1.3,1.1v12c0,0.7,0.4,1.1,1.3,1.1
+			c0.9,0,1.3-0.4,1.3-1.1v-5.4h5.9v5.4c0,0.7,0.4,1.1,1.3,1.1s1.3-0.4,1.3-1.1v-12c0-0.7-0.4-1.1-1.3-1.1s-1.3,0.4-1.3,1.1v4.7h-5.9
+			V310.1z M128.3,309.3c-0.4,0-0.8,0.1-1.1,0.2c-0.3,0.1-0.6,0.3-0.7,0.4c-0.2,0.2-0.3,0.4-0.4,0.7c-0.1,0.3-0.2,0.5-0.2,0.7
+			c0,0.2,0,0.5-0.1,0.8c0,0.3-0.1,0.9-0.2,2c-0.2,2.6-0.3,4.2-0.5,4.9c0,0,0,0.1,0,0.1c0,0,0,0.1,0,0.1c-0.1,0.6-0.2,1.1-0.4,1.4
+			c-0.2,0.3-0.5,0.4-1,0.4c-0.6,0-0.9,0.4-0.9,1.1c0,0.3,0.1,0.5,0.3,0.7c0.2,0.2,0.5,0.3,0.9,0.3c1.1,0.1,1.9-0.2,2.5-0.9
+			c0.6-0.7,0.9-1.6,1.1-2.9c0.1-1,0.3-3.1,0.5-6.1l0.1-1.3c0-0.4,0.3-0.6,0.7-0.6h2.7c0.4,0,0.6,0.2,0.6,0.5v10.4
+			c0,0.7,0.4,1.1,1.3,1.1c0.9,0,1.3-0.4,1.3-1.1v-10.3c0-0.3,0-0.6,0-0.8c0-0.2-0.1-0.4-0.1-0.7c-0.1-0.3-0.2-0.5-0.3-0.6
+			s-0.4-0.3-0.7-0.4c-0.3-0.1-0.7-0.2-1.1-0.2H128.3z M117.4,320c-0.8,0.9-1.9,1.3-3.2,1.3c-0.7,0-1.3-0.2-1.8-0.6
+			c-0.5-0.4-0.7-0.9-0.7-1.6c0-0.6,0.2-1.1,0.5-1.5c0.3-0.4,0.7-0.7,1.2-0.9s1-0.4,1.6-0.4s1.1-0.1,1.7-0.1c0.4,0,1.1,0,1.8,0.1
+			C118.7,317.8,118.3,319.1,117.4,320 M118.8,322.1c0.1,0.7,0.6,1,1.5,0.9c0.7-0.1,1-0.5,0.9-1.2c-0.1-0.4-0.1-1-0.1-1.6v-5.6
+			c0-1.9-0.4-3.3-1.3-4.2c-0.9-0.9-2.3-1.4-4.3-1.4c-2.2,0-3.8,0.4-4.9,1.3c-0.4,0.3-0.6,0.6-0.6,0.9c0,0.3,0.1,0.5,0.4,0.7
+			c0.3,0.2,0.6,0.3,0.9,0.3c0.3,0,0.6-0.1,0.8-0.3c0.8-0.6,1.8-0.9,3-0.9c1.7,0,2.8,0.5,3.2,1.4c0.2,0.5,0.2,1.2,0.2,2.1
+			c-0.1,0-0.2,0-0.3,0s-0.2,0-0.2,0c-0.3,0-0.7,0-1.2,0c-5.2,0-7.9,1.6-7.9,4.8c0,1.3,0.4,2.4,1.3,3.1c0.9,0.7,2,1.1,3.4,1.1
+			c2.1,0,3.7-0.8,4.8-2.3C118.6,321.1,118.6,321.5,118.8,322.1 M105.9,319.1c-0.6-0.1-1.1,0.2-1.4,0.8c-0.5,0.9-1.3,1.3-2.4,1.3
+			c-2.5,0-3.7-1.7-3.7-5.2s1.2-5.2,3.7-5.2c1.2,0,2.1,0.5,2.5,1.5c0.2,0.5,0.6,0.8,1.3,0.8h0.1c0.4-0.1,0.7-0.2,0.8-0.4
+			c0.2-0.2,0.2-0.5,0.1-0.9c-0.2-0.8-0.7-1.5-1.6-2.1c-0.9-0.6-2-0.9-3.3-0.9c-4.3,0-6.4,2.4-6.4,7.1c0,4.7,2.1,7.1,6.4,7.1
+			c1.3,0,2.4-0.3,3.3-0.9c0.9-0.6,1.4-1.2,1.6-1.9c0.1-0.5,0-0.8-0.2-0.9C106.5,319.3,106.3,319.2,105.9,319.1 M83.8,314.5
+			c0.1-1,0.5-1.9,1.2-2.6c0.7-0.8,1.6-1.1,2.7-1.1c1,0,1.8,0.3,2.4,0.9c0.6,0.6,0.9,1.4,1,2.4c0,0.3-0.1,0.4-0.4,0.4H83.8z
+			 M93.5,314.5c0-1.6-0.5-2.9-1.5-3.9c-1.1-1.1-2.6-1.7-4.5-1.7c-1.2,0-2.2,0.2-3.1,0.6s-1.6,1-2.1,1.7c-0.5,0.7-0.9,1.5-1.1,2.3
+			c-0.2,0.8-0.4,1.7-0.4,2.6c0,0.9,0.1,1.7,0.4,2.5s0.6,1.6,1.1,2.3c0.5,0.7,1.2,1.3,2.1,1.7c0.9,0.4,1.9,0.6,3.1,0.6
+			c1.2,0,2.3-0.2,3.3-0.7s1.7-1.2,2-2.1c0.1-0.3,0.1-0.5-0.1-0.8c-0.2-0.3-0.5-0.4-0.9-0.5c-0.6-0.1-1.1,0.2-1.5,0.7
+			c-0.3,0.4-0.7,0.8-1.3,1c-0.6,0.2-1.1,0.3-1.6,0.3c-0.8,0-1.5-0.2-2-0.5s-1-0.7-1.2-1.2c-0.3-0.5-0.5-1-0.6-1.5
+			c-0.1-0.5-0.2-1-0.2-1.6h7.3c1,0,1.7-0.2,2-0.5C93.4,315.6,93.5,315.1,93.5,314.5 M78.1,310.1c0-0.7-0.4-1.1-1.3-1.1
+			c-0.9,0-1.3,0.4-1.3,1.1v4.2c0,0.6-0.3,1.1-0.8,1.6c-0.5,0.4-1.3,0.6-2.3,0.6c-0.9,0-1.5-0.2-1.8-0.6c-0.3-0.4-0.5-1.1-0.5-2.1
+			v-3.7c0-0.7-0.4-1.1-1.3-1.1c-0.9,0-1.3,0.4-1.3,1.1v4.3c0,2.6,1.5,4,4.6,4c1.4,0,2.5-0.3,3.3-0.9v4.7c0,0.7,0.4,1.1,1.3,1.1
+			c0.8,0,1.3-0.4,1.3-1.1V310.1z M63,316.1c0,1.6-0.3,2.8-0.9,3.6s-1.6,1.2-2.8,1.2c-1.3,0-2.2-0.4-2.8-1.2c-0.6-0.8-0.9-2-0.9-3.6
+			s0.3-2.8,0.9-3.6c0.6-0.8,1.6-1.2,2.8-1.2c1.3,0,2.2,0.4,2.8,1.2S63,314.4,63,316.1 M59.3,309c-4.3,0-6.4,2.4-6.4,7.1
+			c0,4.7,2.1,7.1,6.4,7.1c4.3,0,6.4-2.4,6.4-7.1C65.7,311.3,63.5,309,59.3,309 M50,307.2c0-0.8-0.2-1.4-0.5-1.9s-1-0.7-2-0.7h-8.6
+			c-1,0-1.6,0.2-2,0.7s-0.5,1.1-0.5,1.9V322c0,0.8,0.5,1.2,1.4,1.2c0.9,0,1.4-0.4,1.4-1.2v-14.5c0-0.4,0.2-0.5,0.6-0.5h6.9
+			c0.4,0,0.6,0.2,0.6,0.5V322c0,0.8,0.5,1.2,1.4,1.2c0.9,0,1.4-0.4,1.4-1.2V307.2z"/>
+		<path class="st35" d="M245.6,260.4c0-0.7-0.4-1.1-1.3-1.1c-0.8,0-1.3,0.4-1.3,1.1v12c0,0.7,0.4,1.1,1.3,1.1c0.9,0,1.3-0.4,1.3-1.1
+			V260.4z M233.2,260.4c0-0.7-0.4-1.1-1.3-1.1c-0.9,0-1.3,0.4-1.3,1.1v10.3c0,0.4,0,0.7,0,0.9c0,0.2,0.1,0.5,0.2,0.8
+			c0.1,0.3,0.4,0.5,0.7,0.6c0.3,0.1,0.8,0.2,1.3,0.2h4.1c1.4,0,2.5-0.4,3.4-1.2c0.9-0.8,1.4-1.8,1.4-3.1c0-1.3-0.4-2.3-1.3-3.1
+			s-2-1.2-3.4-1.2h-3.9V260.4z M233.2,266.7h3.6c1.5,0,2.3,0.8,2.3,2.3c0,0.7-0.2,1.3-0.6,1.7c-0.4,0.4-1,0.6-1.7,0.6h-2.9
+			c-0.2,0-0.4,0-0.5-0.1c-0.1-0.1-0.1-0.2-0.1-0.4V266.7z M220,259.6c-1.5,0-2.2,0.8-2.3,2.5c-0.1,0.7-0.1,1.3-0.1,1.7
+			c-0.1,2.3-0.2,4-0.4,4.9c-0.2,1.3-0.6,2-1,2.2c-0.5,0.3-0.8,0.5-1,0.7c-0.2,0.2-0.3,0.6-0.3,1.2v2.4c0,0.7,0.4,1.1,1.2,1.1
+			c0.8,0,1.2-0.4,1.2-1.1v-1.8c0-0.1,0.1-0.2,0.3-0.2h8.6c0.2,0,0.3,0.1,0.3,0.2v1.8c0,0.7,0.4,1.1,1.2,1.1c0.8,0,1.2-0.4,1.2-1.1
+			v-2.4c0-0.4-0.1-0.8-0.4-1.1c-0.3-0.3-0.7-0.4-1.2-0.5v-9.1c0-0.3,0-0.6,0-0.8s-0.1-0.4-0.1-0.7c-0.1-0.3-0.2-0.5-0.4-0.6
+			c-0.2-0.1-0.4-0.2-0.7-0.4c-0.3-0.1-0.7-0.2-1.2-0.2H220z M218.8,271.3c0.4-0.6,0.6-1.4,0.8-2.4c0.2-1.1,0.3-2.8,0.5-5.3l0.1-1.4
+			c0.1-0.4,0.3-0.6,0.6-0.6h3.2c0.2,0,0.4,0,0.5,0.1c0.1,0.1,0.1,0.2,0.1,0.4v9.2H218.8z M206.7,260.4c0-0.7-0.4-1.1-1.3-1.1
+			c-0.8,0-1.3,0.4-1.3,1.1v4.4c-1.3-0.3-2.3-1.1-3.1-2.5l-0.4-0.7c-0.4-0.7-0.7-1.3-1-1.7c-0.3-0.4-0.8-0.6-1.5-0.5
+			c-0.5,0.1-0.8,0.2-0.9,0.4c-0.2,0.2-0.1,0.5,0.2,1c0,0,0.3,0.6,0.9,1.6l0.4,0.8c0.6,1.2,1.4,2,2.3,2.5c-1.4,0.4-2.4,1.6-3.1,3.5
+			c-0.4,1.5-0.9,2.6-1.2,3.4c-0.3,0.6-0.1,1,0.7,1.1c0.7,0.1,1.2,0,1.4-0.3c0.4-0.5,0.8-1.4,1.2-2.7l0.1-0.5c0.3-1,0.8-1.8,1.4-2.4
+			c0.6-0.6,1.4-0.9,2.6-0.8v5.7c0,0.7,0.4,1.1,1.3,1.1c0.8,0,1.3-0.4,1.3-1.1v-5.7c1.2,0,2.1,0.2,2.6,0.7c0.5,0.5,1,1.4,1.3,2.5
+			l0.2,0.6c0.3,1.2,0.7,2.1,1.1,2.6c0.3,0.3,0.8,0.4,1.5,0.3c0.7-0.1,1-0.5,0.7-1.1c-0.4-0.9-0.8-2-1.2-3.4c-0.6-1.9-1.6-3-3.1-3.5
+			c0.9-0.4,1.7-1.3,2.3-2.5l0.5-1.1c0.2-0.5,0.5-0.9,0.8-1.4c0.2-0.4,0.3-0.8,0.1-1c-0.2-0.2-0.5-0.4-0.9-0.4
+			c-0.7-0.1-1.2,0.1-1.5,0.5h0c-0.3,0.4-0.7,1-1.1,1.9c0,0.1-0.1,0.2-0.1,0.3c-0.1,0.1-0.1,0.2-0.1,0.2c-0.8,1.4-1.9,2.3-3.1,2.5
+			V260.4z M185.1,264.8c0.1-1,0.5-1.9,1.2-2.6c0.7-0.8,1.6-1.1,2.7-1.1c1,0,1.8,0.3,2.4,0.9c0.6,0.6,0.9,1.4,1,2.4
+			c0,0.3-0.1,0.4-0.4,0.4H185.1z M194.9,264.7c0-1.6-0.5-2.9-1.5-3.9c-1.1-1.1-2.6-1.7-4.5-1.7c-1.2,0-2.2,0.2-3.1,0.6
+			c-0.9,0.4-1.6,1-2.1,1.7c-0.5,0.7-0.9,1.5-1.1,2.3c-0.2,0.8-0.4,1.7-0.4,2.6c0,0.9,0.1,1.7,0.4,2.5s0.6,1.6,1.1,2.3
+			c0.5,0.7,1.2,1.3,2.1,1.7c0.9,0.4,1.9,0.6,3.1,0.6c1.2,0,2.3-0.2,3.3-0.7s1.7-1.2,2-2.1c0.1-0.3,0.1-0.5-0.1-0.8
+			c-0.2-0.3-0.5-0.4-0.9-0.5c-0.6-0.1-1.1,0.2-1.5,0.7c-0.3,0.4-0.7,0.8-1.3,1s-1.1,0.3-1.6,0.3c-0.8,0-1.5-0.2-2-0.5
+			c-0.5-0.3-1-0.7-1.2-1.2c-0.3-0.5-0.5-1-0.6-1.5c-0.1-0.5-0.2-1-0.2-1.6h7.3c1,0,1.7-0.2,2-0.5
+			C194.7,265.8,194.9,265.4,194.9,264.7 M172.5,259.6c-1.5,0-2.2,0.8-2.3,2.5c-0.1,0.7-0.1,1.3-0.1,1.7c-0.1,2.3-0.2,4-0.4,4.9
+			c-0.2,1.3-0.6,2-1,2.2c-0.5,0.3-0.8,0.5-1,0.7c-0.2,0.2-0.3,0.6-0.3,1.2v2.4c0,0.7,0.4,1.1,1.2,1.1c0.8,0,1.2-0.4,1.2-1.1v-1.8
+			c0-0.1,0.1-0.2,0.3-0.2h8.6c0.2,0,0.3,0.1,0.3,0.2v1.8c0,0.7,0.4,1.1,1.2,1.1c0.8,0,1.2-0.4,1.2-1.1v-2.4c0-0.4-0.1-0.8-0.4-1.1
+			c-0.3-0.3-0.7-0.4-1.2-0.5v-9.1c0-0.3,0-0.6,0-0.8s-0.1-0.4-0.1-0.7s-0.2-0.5-0.4-0.6c-0.2-0.1-0.4-0.2-0.7-0.4
+			c-0.3-0.1-0.7-0.2-1.2-0.2H172.5z M171.2,271.3c0.4-0.6,0.6-1.4,0.8-2.4c0.2-1.1,0.3-2.8,0.5-5.3l0.1-1.4c0.1-0.4,0.3-0.6,0.6-0.6
+			h3.2c0.2,0,0.4,0,0.5,0.1c0.1,0.1,0.1,0.2,0.1,0.4v9.2H171.2z M164.5,266.4c0,1.6-0.3,2.8-0.9,3.6s-1.6,1.2-2.8,1.2
+			c-1.3,0-2.2-0.4-2.8-1.2s-0.9-2-0.9-3.6c0-1.6,0.3-2.8,0.9-3.6c0.6-0.8,1.6-1.2,2.8-1.2c1.3,0,2.2,0.4,2.8,1.2
+			C164.2,263.5,164.5,264.7,164.5,266.4 M160.7,259.2c-4.3,0-6.4,2.4-6.4,7.1c0,4.7,2.1,7.1,6.4,7.1c4.3,0,6.4-2.4,6.4-7.1
+			C167.1,261.6,165,259.2,160.7,259.2 M137.9,261.5h2.8c0.2,0,0.4,0,0.5,0.1s0.1,0.2,0.1,0.4v3.8h-3.2c-0.8,0-1.4-0.2-1.9-0.6
+			c-0.5-0.4-0.8-0.9-0.8-1.5c0-0.7,0.2-1.3,0.7-1.7C136.5,261.7,137.1,261.5,137.9,261.5 M141.3,267.8v4.6c0,0.7,0.4,1.1,1.3,1.1
+			c0.9,0,1.3-0.4,1.3-1.1V262c0-0.8-0.2-1.5-0.5-1.9c-0.3-0.4-0.9-0.6-1.9-0.6h-3.8c-1.5,0-2.7,0.4-3.7,1.1s-1.4,1.8-1.4,3.1
+			c0,0.8,0.3,1.5,0.8,2.1c0.5,0.6,1.2,1.1,2.1,1.3c-0.6,0.4-1.1,1.1-1.6,2.2c-0.6,1.2-1.1,2.1-1.6,2.8c-0.2,0.3-0.2,0.5-0.1,0.8
+			s0.4,0.4,0.8,0.5c0.6,0.1,1.2-0.1,1.6-0.5c0.5-0.5,1-1.4,1.5-2.8c0.6-1.6,1.7-2.4,3.4-2.4H141.3z M128.9,269.4
+			c-0.6-0.1-1.1,0.2-1.4,0.8c-0.5,0.9-1.3,1.3-2.4,1.3c-2.5,0-3.7-1.7-3.7-5.2c0-3.4,1.2-5.2,3.7-5.2c1.2,0,2.1,0.5,2.5,1.5
+			c0.2,0.5,0.6,0.8,1.3,0.8h0.1c0.4-0.1,0.7-0.2,0.8-0.4c0.2-0.2,0.2-0.5,0.1-0.9c-0.2-0.8-0.7-1.5-1.6-2.1c-0.9-0.6-2-0.9-3.3-0.9
+			c-4.3,0-6.4,2.4-6.4,7.1c0,4.7,2.1,7.1,6.4,7.1c1.3,0,2.4-0.3,3.3-0.9s1.4-1.2,1.6-1.9c0.1-0.5,0-0.8-0.2-0.9
+			C129.6,269.6,129.3,269.4,128.9,269.4 M109.3,259.6c-0.4,0-0.8,0.1-1.1,0.2c-0.3,0.1-0.6,0.3-0.7,0.4c-0.2,0.2-0.3,0.4-0.4,0.7
+			c-0.1,0.3-0.2,0.5-0.2,0.7c0,0.2,0,0.5-0.1,0.8c0,0.3-0.1,0.9-0.2,2c-0.2,2.6-0.3,4.2-0.5,4.9c0,0,0,0.1,0,0.1c0,0,0,0.1,0,0.1
+			c-0.1,0.6-0.2,1.1-0.4,1.4c-0.2,0.3-0.5,0.4-1,0.4c-0.6,0-0.9,0.4-0.9,1.1c0,0.3,0.1,0.5,0.3,0.7s0.5,0.3,0.9,0.3
+			c1.1,0.1,1.9-0.2,2.5-0.9c0.6-0.7,0.9-1.6,1.1-2.9c0.1-1,0.3-3.1,0.5-6.1l0.1-1.3c0-0.4,0.3-0.6,0.7-0.6h2.7
+			c0.4,0,0.6,0.2,0.6,0.5v10.4c0,0.7,0.4,1.1,1.3,1.1c0.9,0,1.3-0.4,1.3-1.1v-10.3c0-0.3,0-0.6,0-0.8c0-0.2-0.1-0.4-0.1-0.7
+			s-0.2-0.5-0.3-0.6c-0.2-0.1-0.4-0.3-0.7-0.4c-0.3-0.1-0.7-0.2-1.1-0.2H109.3z M98.6,274.4l5.5-13.9h0c0.2-0.4,0.1-0.7-0.2-0.8
+			s-0.7-0.3-1.1-0.3c-0.8,0-1.2,0.3-1.5,1l-2.9,7.9v0c-0.1,0.3-0.3,0.6-0.4,1c-0.1-0.4-0.2-0.8-0.3-0.9h0l-3.2-7.9
+			c-0.3-0.6-0.7-1-1.5-1c-0.5,0-0.8,0.1-1.1,0.3c-0.3,0.2-0.3,0.5-0.1,0.8h0c0.5,1.4,1.3,3.4,2.4,6c1.1,2.7,1.9,4.7,2.4,6l-0.6,1.8
+			c-0.2,0.5-0.4,0.8-0.7,1.1c-0.3,0.2-0.6,0.3-1.1,0.2h0c-0.9-0.2-1.3,0-1.4,0.8c0,0.4,0,0.7,0.2,0.9c0.2,0.2,0.4,0.4,0.7,0.4
+			c0.3,0.1,0.7,0.1,1.1,0.1c0.6,0,1.1-0.1,1.5-0.3c0.4-0.2,0.8-0.5,1.1-0.9s0.5-0.7,0.7-1C98.2,275.3,98.4,274.9,98.6,274.4
+			L98.6,274.4z M81,260.4c0-0.7-0.4-1.1-1.3-1.1s-1.3,0.4-1.3,1.1v12c0,0.7,0.4,1.1,1.3,1.1s1.3-0.4,1.3-1.1V267h5.9v5.4
+			c0,0.7,0.4,1.1,1.3,1.1s1.3-0.4,1.3-1.1v-12c0-0.7-0.4-1.1-1.3-1.1s-1.3,0.4-1.3,1.1v4.7H81V260.4z M74.2,269.4
+			c-0.6-0.1-1.1,0.2-1.4,0.8c-0.5,0.9-1.3,1.3-2.4,1.3c-2.5,0-3.7-1.7-3.7-5.2c0-3.4,1.2-5.2,3.7-5.2c1.2,0,2.1,0.5,2.5,1.5
+			c0.2,0.5,0.6,0.8,1.3,0.8h0.1c0.4-0.1,0.7-0.2,0.8-0.4c0.2-0.2,0.2-0.5,0.1-0.9c-0.2-0.8-0.7-1.5-1.6-2.1c-0.9-0.6-2-0.9-3.3-0.9
+			c-4.3,0-6.4,2.4-6.4,7.1c0,4.7,2.1,7.1,6.4,7.1c1.3,0,2.4-0.3,3.3-0.9s1.4-1.2,1.6-1.9c0.1-0.5,0-0.8-0.2-0.9
+			C74.8,269.6,74.6,269.4,74.2,269.4 M59.3,266.4c0,1.6-0.3,2.8-0.9,3.6c-0.6,0.8-1.6,1.2-2.8,1.2c-1.3,0-2.2-0.4-2.8-1.2
+			s-0.9-2-0.9-3.6c0-1.6,0.3-2.8,0.9-3.6c0.6-0.8,1.6-1.2,2.8-1.2c1.3,0,2.2,0.4,2.8,1.2C59,263.5,59.3,264.7,59.3,266.4
+			 M55.5,259.2c-4.3,0-6.4,2.4-6.4,7.1c0,4.7,2.1,7.1,6.4,7.1c4.3,0,6.4-2.4,6.4-7.1C62,261.6,59.8,259.2,55.5,259.2 M37.4,256
+			c0-0.8-0.5-1.2-1.4-1.2s-1.4,0.4-1.4,1.2v16.4c0,0.8,0.5,1.1,1.4,1.1s1.4-0.4,1.4-1.1v-8c0.8,0,1.5,0.1,2.1,0.3s1.1,0.5,1.6,1
+			c0.4,0.5,0.8,0.9,1.1,1.4c0.3,0.5,0.6,1.1,0.8,1.8l0.3,0.9c0.6,1.6,1.1,2.7,1.6,3.3c0.4,0.4,0.9,0.5,1.6,0.4
+			c0.9-0.2,1.2-0.6,0.8-1.3c-0.5-0.8-1.1-2.3-1.8-4.4c-0.9-2.5-2.4-4.1-4.4-4.6c1.3-0.6,2.4-1.6,3.1-2.9v0l0.3-0.4
+			c0.9-1.5,1.5-2.6,2-3.2c0.2-0.3,0.4-0.6,0.4-0.9c0-0.4-0.3-0.7-0.9-0.8c-0.8-0.1-1.4,0.1-1.9,0.7h0c-0.4,0.4-0.9,1.2-1.5,2.4
+			c-0.3,0.5-0.5,0.9-0.7,1.3c-0.6,0.9-1.2,1.6-1.8,2.1c-0.7,0.5-1.5,0.8-2.6,0.9V256z"/>
+	</g>
+	<g>
+		<path class="st2" d="M292.3,449c-1.6,0-2.5-0.8-2.5-2.4c0-1.6,0.8-2.3,2.5-2.3h50.9c1.6,0,2.5,0.8,2.5,2.3c0,1.6-0.8,2.4-2.5,2.4
+			H292.3z"/>
+		<path class="st2" d="M377.5,443.2h14.4v-11.5c0-1.7,1-2.6,3.1-2.6c2.1,0,3.1,0.9,3.1,2.6v29.5c0,1.8-1,2.6-3.1,2.6
+			c-2.1,0-3.1-0.9-3.1-2.6v-13.1h-14.4v13.1c0,1.8-1,2.6-3.1,2.6c-2.1,0-3.1-0.9-3.1-2.6v-29.5c0-1.7,1-2.6,3.1-2.6
+			c2.1,0,3.1,0.9,3.1,2.6V443.2z"/>
+		<path class="st2" d="M427.9,458.5c-2.6,3.7-6.5,5.6-11.7,5.6c-3.4,0-6.2-0.9-8.4-2.7c-2.2-1.8-3.3-4.3-3.3-7.6
+			c0-7.8,6.4-11.8,19.3-11.8c1,0,2,0,2.8,0.1c0.1,0,0.3,0,0.6,0c0.3,0,0.5,0,0.7,0c0-2.1-0.2-3.7-0.6-5c-0.9-2.3-3.5-3.5-7.7-3.5
+			c-2.9,0-5.4,0.8-7.4,2.3c-0.6,0.5-1.2,0.7-1.9,0.7s-1.4-0.3-2.2-0.8c-0.7-0.5-1-1-1-1.8c0-0.7,0.5-1.4,1.4-2.2
+			c2.7-2.1,6.7-3.1,12-3.1c4.9,0,8.4,1.1,10.5,3.4c2.1,2.2,3.2,5.7,3.2,10.3v13.8c0,1.6,0.1,3,0.3,4c0.2,1.7-0.5,2.7-2.3,3
+			c-2.1,0.2-3.4-0.5-3.7-2.2C428,459.6,427.9,458.7,427.9,458.5z M427.9,446.8c-1.9-0.1-3.4-0.2-4.5-0.2c-1.5,0-2.9,0.1-4.2,0.3
+			c-1.3,0.2-2.6,0.6-3.9,1.1c-1.3,0.5-2.3,1.3-3.1,2.3c-0.8,1-1.1,2.3-1.1,3.7c0,1.7,0.6,3,1.7,4c1.1,0.9,2.6,1.4,4.4,1.4
+			c3.1,0,5.7-1.1,7.7-3.2C427.2,453.8,428.2,450.7,427.9,446.8z"/>
+		<path class="st2" d="M462.1,429.8c1.1,0,2.1,0.1,2.9,0.4c0.8,0.3,1.4,0.6,1.8,0.9c0.4,0.3,0.7,0.8,0.9,1.5s0.3,1.2,0.3,1.6
+			c0,0.4,0,1,0,1.9v22.4c1.2,0.1,2.2,0.5,2.8,1.2s1,1.6,1,2.7v5.8c0,1.7-0.9,2.6-2.8,2.6s-2.8-0.9-2.8-2.6v-4.4
+			c0-0.3-0.2-0.5-0.6-0.5h-21c-0.4,0-0.6,0.2-0.6,0.5v4.4c0,1.7-0.9,2.6-2.8,2.6c-1.9,0-2.8-0.9-2.8-2.6v-5.8c0-1.3,0.3-2.2,0.8-2.8
+			c0.5-0.6,1.3-1.2,2.5-1.8c1-0.5,1.9-2.4,2.5-5.5c0.3-2.3,0.6-6.3,0.9-12c0-1.1,0.1-2.5,0.3-4.2c0.3-4.2,2.2-6.2,5.7-6.2H462.1z
+			 M461.6,458.5v-22.6c0-0.4-0.1-0.7-0.3-0.9c-0.2-0.2-0.5-0.3-1.1-0.3h-7.7c-0.8,0-1.3,0.5-1.5,1.4l-0.2,3.5
+			c-0.3,6-0.7,10.4-1.1,13c-0.3,2.5-1,4.5-1.9,5.9H461.6z"/>
+		<path class="st2" d="M506.4,446.4c0,11.6-5.2,17.4-15.7,17.4c-10.5,0-15.8-5.8-15.8-17.4c0-11.7,5.3-17.5,15.8-17.5
+			C501.2,429,506.4,434.8,506.4,446.4z M497.7,437.5c-1.5-1.9-3.8-2.9-7-2.9s-5.5,1-6.9,2.9c-1.5,1.9-2.2,4.9-2.2,8.9
+			c0,4,0.7,7,2.2,8.9c1.5,1.9,3.8,2.9,6.9,2.9s5.5-1,7-2.9c1.5-1.9,2.3-4.9,2.3-8.9C499.9,442.4,499.2,439.4,497.7,437.5z"/>
+		<path class="st2" d="M556.6,430.2c0.8,0.3,1.4,0.8,1.8,1.6c0.3,0.7,0.5,1.4,0.6,1.9c0.1,0.5,0.1,1.3,0.1,2.4v25.2
+			c0,1.8-1,2.6-3.1,2.6c-2.1,0-3.1-0.9-3.1-2.6v-25.5c0-0.8-0.5-1.1-1.4-1.1h-11.7c-0.5,0-0.9,0.1-1.1,0.3s-0.3,0.5-0.3,0.9v25.5
+			c0,1.8-1,2.6-3.1,2.6c-2.1,0-3.1-0.9-3.1-2.6v-25.2c0-1,0-1.8,0.1-2.3c0.1-0.5,0.3-1.2,0.6-1.9c0.3-0.7,0.9-1.2,1.7-1.6
+			c0.8-0.3,1.9-0.5,3.2-0.5h15.6C554.7,429.8,555.8,429.9,556.6,430.2z"/>
+		<path class="st2" d="M597.6,446.4c0,11.6-5.2,17.4-15.7,17.4c-10.5,0-15.8-5.8-15.8-17.4c0-11.7,5.3-17.5,15.8-17.5
+			C592.3,429,597.6,434.8,597.6,446.4z M588.8,437.5c-1.5-1.9-3.8-2.9-7-2.9c-3.1,0-5.5,1-7,2.9c-1.5,1.9-2.2,4.9-2.2,8.9
+			c0,4,0.7,7,2.2,8.9c1.5,1.9,3.8,2.9,7,2.9c3.1,0,5.5-1,7-2.9c1.5-1.9,2.3-4.9,2.3-8.9C591.1,442.4,590.3,439.4,588.8,437.5z"/>
+		<path class="st2" d="M617.6,452.3l-3.2-5.3l-3.2-5.3v-0.1c-0.3-0.5-0.6-1.1-0.9-1.7v21.3c0,1.8-1,2.6-3,2.6
+			c-1.9,0-2.9-0.9-2.9-2.6v-29.4c0-1.7,1.2-2.6,3.5-2.6c1.5,0,2.8,0.8,3.8,2.3l9.3,15.6l9.3-15.6c1-1.6,2.2-2.3,3.8-2.3
+			c2.2,0,3.3,0.9,3.3,2.6v29.4c0,1.8-1,2.6-2.9,2.6c-1.9,0-2.9-0.9-2.9-2.6v-21.3l-0.9,1.8l-6.4,10.6c-1,1.6-2.1,2.3-3.3,2.3
+			C619.7,454.6,618.5,453.8,617.6,452.3z"/>
+		<path class="st2" d="M652.6,442.3h9.7c3.6,0,6.4,1,8.4,2.9c2.1,1.9,3.1,4.4,3.1,7.5c0,3.1-1.1,5.6-3.3,7.6c-2.2,2-5,3-8.3,3h-10.1
+			c-1.3,0-2.4-0.2-3.3-0.5c-0.8-0.3-1.4-0.9-1.8-1.6c-0.3-0.7-0.5-1.3-0.6-1.9c-0.1-0.5-0.1-1.3-0.1-2.3v-25.2c0-1.8,1-2.6,3.1-2.6
+			c2.1,0,3.1,0.9,3.1,2.6V442.3z M652.6,457.3c0,0.5,0.1,0.8,0.3,0.9c0.2,0.1,0.6,0.2,1.2,0.2h7.2c1.8,0,3.2-0.5,4.2-1.4
+			c1-1,1.4-2.3,1.4-4.1c0-3.8-1.9-5.7-5.7-5.7h-8.7V457.3z M683,461.3c0,1.7-1,2.6-3.1,2.6c-2.1,0-3.1-0.9-3.1-2.6v-29.5
+			c0-1.8,1-2.6,3.1-2.6c2.1,0,3.1,0.9,3.1,2.6V461.3z"/>
+		<path class="st2" d="M712,429.8c1.6,0,2.3,0.8,2.3,2.4c0,1.6-0.8,2.5-2.3,2.5h-7.5v26.6c0,1.8-1,2.6-3.1,2.6
+			c-2.1,0-3.1-0.9-3.1-2.6v-26.6h-7.4c-1.6,0-2.4-0.8-2.4-2.5c0-1.6,0.8-2.4,2.4-2.4H712z"/>
+		<path class="st2" d="M726.1,442.3h9.7c3.5,0,6.3,1,8.4,2.9c2.1,1.9,3.1,4.4,3.1,7.5c0,3.1-1.1,5.6-3.3,7.6c-2.2,2-5,3-8.3,3h-10.1
+			c-1.1,0-2.1-0.1-2.8-0.4c-0.8-0.3-1.3-0.6-1.7-0.9c-0.4-0.3-0.7-0.8-0.9-1.5c-0.2-0.7-0.3-1.2-0.3-1.6c0-0.4,0-1,0-1.9v-25.2
+			c0-1.7,1-2.6,3.1-2.6s3.1,0.9,3.1,2.6V442.3z M726.1,457.2c0,0.8,0.5,1.2,1.4,1.2h7.2c3.8,0,5.7-1.8,5.7-5.5
+			c0-3.8-1.9-5.7-5.7-5.7h-8.7V457.2z"/>
+		<path class="st2" d="M777.9,433.9c2.7-3.3,6.2-5,10.6-5c9.3,0,13.9,5.9,13.9,17.5c0,2.5-0.3,4.7-0.8,6.8c-0.5,2-1.3,3.9-2.5,5.5
+			c-1.1,1.7-2.6,2.9-4.6,3.9c-1.9,0.9-4.2,1.4-6.8,1.4c-3.8,0-6.9-1.4-9.5-4.3v12.6c0,1.7-1.1,2.6-3.2,2.6c-2.1,0-3.1-0.9-3.1-2.6
+			v-40.6c0-1.7,1-2.6,3.1-2.6c2,0,3,0.9,3,2.6V433.9z M780.6,455.3c1.6,2.3,3.9,3.5,6.8,3.5c5.4,0,8.1-4.1,8.1-12.3
+			s-2.7-12.3-8.1-12.3c-2.9,0-5.2,1-6.8,3.1c-1.6,2.1-2.4,4.5-2.4,7.2v3.1C778.2,450.4,779,453,780.6,455.3z"/>
+		<path class="st2" d="M821.5,466.1c-0.5,1.3-1,2.3-1.4,3c-0.4,0.7-0.9,1.6-1.6,2.5c-0.7,1-1.6,1.7-2.7,2.1c-1,0.4-2.3,0.7-3.6,0.7
+			c-0.9,0-1.8-0.1-2.6-0.3c-0.6-0.1-1.2-0.5-1.6-1.1c-0.4-0.6-0.6-1.3-0.5-2.2c0.2-1.8,1.4-2.5,3.5-1.9h-0.1c1.2,0.2,2.1,0,2.8-0.5
+			c0.6-0.5,1.2-1.4,1.6-2.6l1.6-4.3c-1.3-3.3-3.3-8.3-6-14.8c-2.7-6.6-4.6-11.5-5.9-14.8h0.1c-0.4-0.9-0.3-1.6,0.3-2.1
+			c0.6-0.5,1.5-0.7,2.6-0.7c1.8,0,3,0.8,3.6,2.4l7.7,19.5h-0.1c0.2,0.5,0.5,1.2,0.8,2.3c0.3-0.9,0.5-1.7,0.9-2.4v0.1l7.2-19.4
+			c0.6-1.6,1.8-2.5,3.6-2.5c1.1,0,2,0.2,2.7,0.7s0.9,1.2,0.5,2.1h0.1L821.5,466.1L821.5,466.1z"/>
+		<path class="st2" d="M846.9,442.7c2.1-0.3,3.8-0.8,5.1-1.7c1.3-0.9,2.4-2.2,3.5-3.8v0.1l1.6-2.7c1-1.8,1.9-3.1,2.6-4
+			c1-1,2.2-1.4,3.6-1.3c2.4,0.2,3,1.3,1.9,3.2c-0.9,1.4-1.6,2.5-2,3.2c-0.2,0.3-0.4,0.6-0.7,1.1c-0.3,0.5-0.6,1-0.8,1.4
+			c-0.3,0.4-0.5,0.8-0.8,1.1c-1.6,2.2-3.4,3.9-5.5,5.2c3.3,0.9,5.8,3.8,7.6,8.6c0.8,2.2,1.7,4.2,2.6,6l1.1,2.2
+			c0.7,1.5,0.1,2.4-1.7,2.7c-1.7,0.3-2.9,0-3.5-0.8c-0.9-1-2-2.9-3.1-5.8l-0.7-1.8c-1.1-2.9-2.4-5-3.8-6.3c-1.4-1.2-3.7-1.8-7-1.7
+			v13.8c0,1.8-1,2.6-3.1,2.6c-2.1,0-3.1-0.9-3.1-2.6v-29.5c0-1.7,1-2.6,3.1-2.6c2.1,0,3.1,0.9,3.1,2.6V442.7z"/>
+		<path class="st2" d="M901.3,461.2c0,1.8-1,2.6-3.1,2.6c-2.1,0-3.1-0.9-3.1-2.6v-21.7c-0.4,0.6-0.8,1.3-1.4,2.1l-0.8,1.2
+			l-13.7,19.8c-0.6,0.8-1.6,1.2-2.8,1.2c-2.1,0-3.1-0.9-3.1-2.6v-29.5c0-1.7,1-2.6,3.1-2.6c2.1,0,3.2,0.9,3.2,2.6v22
+			c0.1-0.2,0.9-1.4,2.4-3.8l13.5-19.6c0.5-0.7,1.4-1.1,2.7-1.1c2.1,0,3.1,0.9,3.1,2.6V461.2z"/>
+		<path class="st2" d="M910.8,419.4c0.8-0.7,1.9-1.1,3.2-1.1c1.5,0,2.6,0.3,3.4,1c0.8,0.7,1.1,1.6,1,2.9l-2.2,28.9
+			c-0.1,1.1-0.9,1.7-2.2,1.7c-1.3,0-1.9-0.6-2.1-1.7c-0.2-2.1-0.4-5.1-0.7-9c-0.3-4-0.6-7.6-0.8-10.9c-0.3-3.3-0.5-6.3-0.6-9
+			C909.6,421,909.9,420.1,910.8,419.4z M914,455.8c1.6,0,2.8,0.3,3.4,1c0.6,0.6,0.9,1.6,0.9,3c0,1.4-0.3,2.4-0.9,3.1
+			c-0.6,0.7-1.7,1-3.4,1c-2.8,0-4.2-1.4-4.2-4.2C909.8,457.1,911.2,455.8,914,455.8z"/>
+	</g>
+</g>
+</svg>

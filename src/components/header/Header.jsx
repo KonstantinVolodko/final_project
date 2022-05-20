@@ -4,6 +4,7 @@ import styles from "./Header.module.scss"
 import { Link, animateScroll as scroll } from "react-scroll";
 import logo from "../../icons/logo.svg"
 import { BasketWindow } from "../basketWindow/BasketWindow";
+import { Select } from "./select/Select";
 
 
 export const Header = ({
@@ -41,7 +42,7 @@ export const Header = ({
                 <Link to="sauce">
                     <div>Соусы</div>
                 </Link>
-                <div>Другое</div>
+                <Select />
             </div>
             <div className={styles.basketPosition}>
                 <BasketWindow 

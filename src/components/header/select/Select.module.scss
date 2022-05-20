@@ -1,0 +1,51 @@
+.btn {
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    border: none;
+    background-color: #ffff;
+    gap: 8px;
+}
+
+.selectWindow {
+    width: 285px;
+    margin-top: 20px;
+    border: 1px solid #F0F0F0;
+    box-shadow: 0px 2px 8px rgba(25, 25, 25, 0.1);
+    border-radius: 12px;
+    background: #FFFFFF;
+    padding-left: 20px;
+    padding: 20px 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    font-family: 'open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: #191919;
+}
+
+.licence {
+    text-decoration: none;
+    color: #191919;
+}
+
+.licence:hover {
+    color: #FF7010;
+}
+
+.aboutUs {
+    text-decoration: none;
+    color: #191919;
+}
+
+.aboutUs:hover {
+    color: #FF7010;
+}

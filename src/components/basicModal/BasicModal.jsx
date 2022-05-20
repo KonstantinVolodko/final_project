@@ -25,7 +25,6 @@ export const BasicModal = ({
   const [onion, setOnion] = useState(false)
   const [pepper, setPepper] = useState(false)
   const [elPrice, setElPrice] = useState(price)
-  console.log(elPrice)
 
   const doppingFunction = (dopping) => {
     if(dopping === false) {
