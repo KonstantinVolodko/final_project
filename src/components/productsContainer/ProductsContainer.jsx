@@ -3,7 +3,7 @@ import styles from "./ProductsContainer.module.scss"
 import { ProductInfo } from "../productInfo/ProductInfo";
 import { ProductInfoOther } from "../productInfo/productInfoOther/ProductInfoOther";
 import { FilterWindow } from "./filterWindow/FilterWindow";
-import { Api } from "../../constants/Constants";
+import { ProductInfoOtherContainer } from "../productInfo/productInfoOther/productInfoOtherContainer/ProductInfoOtherContainer";
 
 export const ProductsContainer = ({
     products, addedBasket, setProducts
@@ -13,15 +13,6 @@ export const ProductsContainer = ({
     const [valueInp, setValueInp] = useState('')
 
     const textInput = useRef()
-
-    // const getInput = () => {
-    //     return (
-    //         console.log(textInput.current.value),
-    //         setFiltered(filtered.filter(prod => {
-    //             return prod.name.toLowerCase().includes(textInput.current.value.toLowerCase())
-    //         }))
-    //     )
-    // }
 
     const findProd = filtered.filter(prod => {
         return prod.name.toLowerCase().includes(valueInp.toLowerCase())

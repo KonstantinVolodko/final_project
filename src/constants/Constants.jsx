@@ -1,52 +1,52 @@
-import p1 from '../images/p1.svg';
-import p2 from '../images/p2.svg';
-import p3 from '../images/p3.svg';
-import p4 from '../images/p4.svg';
+import p1 from '../images/p1.jpeg';
+import p2 from '../images/p2.jpeg';
+import p3 from '../images/p3.jpeg';
+import p4 from '../images/p4.jpeg';
 import p5 from '../images/p5.jpeg';
 import p6 from '../images/p6.jpeg';
 import p7 from '../images/p7.jpeg';
 import p8 from '../images/p8.jpeg';
 
-import s1 from '../images/s1.svg';
-import s2 from '../images/s2.svg';
-import s3 from '../images/s3.svg';
-import s4 from '../images/s4.svg';
+import s1 from '../images/s1.jpg';
+import s2 from '../images/s2.jpg';
+import s3 from '../images/s3.jpg';
+import s4 from '../images/s4.jpg';
 import s5 from '../images/s5.png';
 import s6 from '../images/s6.png';
 import s7 from '../images/s7.png';
 import s8 from '../images/s8.png';
 
-import sn1 from '../images/sn1.svg';
-import sn2 from '../images/sn2.svg';
-import sn3 from '../images/sn3.svg';
-import sn4 from '../images/sn4.svg';
-import sn5 from '../images/sn5.svg';
-import sn6 from '../images/sn6.svg';
-import sn7 from '../images/sn7.webp';
-import sn8 from '../images/sn8.webp';
+import sn1 from '../images/sn1.jpeg';
+import sn2 from '../images/sn2.jpeg';
+import sn3 from '../images/sn3.jpeg';
+import sn4 from '../images/sn4.jpeg';
+import sn5 from '../images/sn5.jpeg';
+import sn6 from '../images/sn6.jpeg';
+import sn7 from '../images/sn7.jpeg';
+import sn8 from '../images/sn8.jpeg';
 
-import d1 from '../images/d1.svg';
-import d2 from '../images/d2.svg';
-import d3 from '../images/d3.svg';
-import d4 from '../images/d4.svg';
-import d5 from '../images/d5.svg';
-import d6 from '../images/d6.svg';
-import d7 from '../images/d7.webp';
-import d8 from '../images/d8.webp';
+import d1 from '../images/d1.jpeg';
+import d2 from '../images/d2.jpeg';
+import d3 from '../images/d3.jpeg';
+import d4 from '../images/d4.jpeg';
+import d5 from '../images/d5.jpeg';
+import d6 from '../images/d6.jpeg';
+import d7 from '../images/d7.jpeg';
+import d8 from '../images/d8.jpeg';
 
-import dr1 from '../images/dr1.svg';
-import dr2 from '../images/dr2.svg';
-import dr3 from '../images/dr3.svg';
-import dr4 from '../images/dr4.svg';
-import dr5 from '../images/dr5.svg';
-import dr6 from '../images/dr6.svg';
-import dr7 from '../images/dr7.webp';
-import dr8 from '../images/dr8.webp';
+import dr1 from '../images/dr1.jpeg';
+import dr2 from '../images/dr2.jpeg';
+import dr3 from '../images/dr3.jpeg';
+import dr4 from '../images/dr4.jpeg';
+import dr5 from '../images/dr5.jpeg';
+import dr6 from '../images/dr6.jpeg';
+import dr7 from '../images/dr7.jpeg';
+import dr8 from '../images/dr8.jpeg';
 
-import so1 from '../images/so1.svg';
-import so2 from '../images/so2.svg';
-import so3 from '../images/so3.svg';
-import so4 from '../images/so4.svg';
+import so1 from '../images/so1.jpg';
+import so2 from '../images/so2.jpg';
+import so3 from '../images/so3.jpg';
+import so4 from '../images/so4.jpg';
 import so5 from '../images/so5.jpg';
 import so6 from '../images/so6.jpg';
 import so7 from '../images/so7.jpg';
@@ -66,8 +66,8 @@ export const promoCodes = ['pizza228', 'ананасыЗло', 'хочуПицц
 
 export const Api = [
     {
-        "name": "Чикен Сладкий Чили",
-        "description": "Курица, Лук, Перец Халапеньо, Сыр Моцарелла, Томатный соу...",
+        "name": "Цыпленок с мандаринами",
+        "description": "Цыпленок, мандарины, моцарелла, цитрусовый соус, сыры чеддер и пармезан, соус альфредо",
         "price": "399",
         "category": "pizza",
         "type": "meat",
@@ -76,8 +76,8 @@ export const Api = [
         "status": "all"
     },
     {
-        "name": "EASY PEASY огуречный расколбас",
-        "description": "Курица, Лук, Перец Халапеньо...",
+        "name": "Аррива!",
+        "description": "Чоризо, цыпленок, томаты, сладкий перец, лук красный, чеснок сухой, моцарелла, соус ранч, соус бургер",
         "price": "549",
         "category": "pizza",
         "type": "meat",
@@ -86,8 +86,8 @@ export const Api = [
     },
 
     {
-        "name": "EASY PEASY чикен а-ля хрен",
-        "description": "Курица, Лук, Соус Карбонара,...",
+        "name": "Сырный цыпленок",
+        "description": "Цыпленок, моцарелла, сыры чеддер и пармезан, сырный соус, томаты, соус альфредо, чеснок",
         "price": "249",
         "category": "pizza",
         "type": "meat",
@@ -96,8 +96,8 @@ export const Api = [
     },
 
     {
-        "name": "4 сезона",
-        "description": "Бекон, Ветчина, Грибы, Курица, Лук, Маслины, Огурцы мари...",
+        "name": "Цыпленок ранч",
+        "description": "Цыпленок, томаты, чеснок сухой, моцарелла, соус ранч, ветчина",
         "price": "630",
         "category": "pizza",
         "type": "meat",
@@ -146,9 +146,9 @@ export const Api = [
     },
 
     {
-        "name": "Филадельфия кранч",
-        "description": "Семга, рис, сыр креметто, соус унаги, креветка, авокадо, чип...",
-        "price": "475",
+        "name": "Окунь опаленный",
+        "description": "Креветка, огурец, спайси соус, рис, нори",
+        "price": "200",
         "category": "sushi",
         "type": "fish",
         "image": s1,
@@ -156,9 +156,9 @@ export const Api = [
     },
 
     {
-        "name": "Филадельфия крем-брюле",
-        "description": "Сливочный сыр, семга татаки с тростниковым сахаром, соус у...",
-        "price": "395",
+        "name": "Омлет",
+        "description": "Омлет, соус унаги, кунжут, рис, нори",
+        "price": "210",
         "category": "sushi",
         "type": "fish",
         "image": s2,
@@ -166,8 +166,8 @@ export const Api = [
     },
 
     {
-        "name": "Супер Филадельфия",
-        "description": "Действительно много семги, сливочный сыр, огурец, рис, н...",
+        "name": "Угорь",
+        "description": "Копченый угорь, соус унаги, кунжут, нори, рис",
         "price": "425",
         "category": "sushi",
         "type": "fish",
@@ -176,8 +176,8 @@ export const Api = [
     },
 
     {
-        "name": "Тигр мама",
-        "description": "Тигровая креветка, огурец, авокадо, соус Айоли, рис, ик...",
+        "name": "Лосоь и ментайко-майо",
+        "description": "Лосось, ментайко майо опаленный, васаби, рис",
         "price": "525",
         "category": "sushi",
         "type": "meat",
@@ -187,7 +187,7 @@ export const Api = [
 
     {
         "name": "Остин",
-        "description": "Семга, рис, сыр креметто, соус унаги, креветка, авокадо, чип...",
+        "description": "Тунец, свежий огурчик, стружка тунца, сыр сливочный Креметта, нори, рис",
         "price": "422",
         "category": "sushi",
         "type": "fish",
@@ -197,7 +197,7 @@ export const Api = [
 
     {
         "name": "Детройт",
-        "description": "Семга, рис, сыр креметто, соус унаги, креветка, авокадо, чип...",
+        "description": "Лосось подкопченный, сыр сливочный, авокадо, икра летучей рыбы, рис, нори",
         "price": "411",
         "category": "sushi",
         "type": "fish",
@@ -207,7 +207,7 @@ export const Api = [
 
     {
         "name": "Спрингфилд",
-        "description": "Семга, рис, сыр креметто, соус унаги, креветка, авокадо, чип...",
+        "description": "Тунец, свежий огурчик, белый кунжут, сыр сливочный Креметта, нори, рис",
         "price": "423",
         "category": "sushi",
         "type": "fish",
@@ -217,7 +217,7 @@ export const Api = [
 
     {
         "name": "Изуми Фрай",
-        "description": "Семга, рис, сыр креметто, соус унаги, креветка, авокадо, чип...",
+        "description": "Тигровая креветка, лосось, манго, лосось сливочный, кунжут, нори, рис",
         "price": "424",
         "category": "sushi",
         "type": "fish",
@@ -226,8 +226,8 @@ export const Api = [
     },
 
     {
-        "name": "Картофель из печи",
-        "description": "Ароматный запеченный картофель с итальянскими травами.",
+        "name": "Картофель из печи, большой",
+        "description": "Ароматный запеченный картофель с итальянскими травами. Большая порция.",
         "price": "199",
         "category": "snack",
         "type": "other",
@@ -236,9 +236,9 @@ export const Api = [
     },
     
     {
-        "name": "Куриные крылья",
-        "description": "Куриные крылышки со специями и ароматом копчения.",
-        "price": "499",
+        "name": "Картофельные оладьи",
+        "description": "Запеченные оладьи из картофеля в панировке, 8 шт.",
+        "price": "299",
         "category": "snack",
         "type": "other",
         "image": sn2,
@@ -246,8 +246,8 @@ export const Api = [
     },
 
     {
-        "name": "Куриные кусочки",
-        "description": "Сочное куриное филе в хрустящей панировке.",
+        "name": "Ланчбокс с куриными кусочками",
+        "description": "Горячий сытный обед из нежных куриных кусочков, картофеля из печи с итальянскими травами и сырного соуса.",
         "price": "499",
         "category": "snack",
         "type": "other",
@@ -257,7 +257,7 @@ export const Api = [
 
     {
         "name": "Додстер",
-        "description": "Легендарная горячая закуска с цыпленком, томатами, моцарела...",
+        "description": "Легендарная горячая закуска с цыплёнком, томатами, моцареллой, соусом ранч в тонкой пшеничной лепешке.",
         "price": "199",
         "category": "snack",
         "type": "other",
@@ -266,8 +266,8 @@ export const Api = [
     },
 
     {
-        "name": "Салат Цезарь",
-        "description": "Сочный цыпленок, хрустящие листья салата айсберг, томаты че...",
+        "name": "Греческий салат с соусом бальзамик",
+        "description": "Салат айсберг, томаты черри, маслины, свежий огурец, кубики брынзы, соус бальзамик.",
         "price": "249",
         "category": "snack",
         "type": "other",
@@ -276,9 +276,9 @@ export const Api = [
     },
 
     {
-        "name": "Картофельные оладьи, 8 шт ",
-        "description": "Хрустящие снаружи и нежные внутри оладьи из картофеля в пан...",
-        "price": "199",
+        "name": "Куриные кусочки",
+        "description": "Сочное куриное филе в хрустящей панировке.",
+        "price": "399",
         "category": "snack",
         "type": "other",
         "image": sn6,
@@ -286,9 +286,9 @@ export const Api = [
     },
 
     {
-        "name": "Роллы с Чеддером",
-        "description": "Сыр моцарелла, сыр чеддер, особый чесночный соус, посыпанные сыром чеддер",
-        "price": "399",
+        "name": "Грибной Стартер",
+        "description": "Горячая закуска с шампиньонами, моцареллой и соусом ранч в тонкой пшеничной лепешке.",
+        "price": "299",
         "category": "snack",
         "type": "other",
         "image": sn7,
@@ -296,9 +296,9 @@ export const Api = [
     },
 
     {
-        "name": "Пападиас Ветчина, грибы и 6 сыров",
-        "description": "Сэндвич с ветчиной, шампиньонами, сыром Моцарелла, смесью 2-х и 3-х сыров, итальянскими травами и чесночным соусом",
-        "price": "385",
+        "name": "Мясной Стартер",
+        "description": "Горячая закуска с митболами из говядины, томатами, моцареллой и пикантным соусом бургер в тонкой пшеничной лепешке.",
+        "price": "350",
         "category": "snack",
         "type": "other",
         "image": sn8,
@@ -306,8 +306,8 @@ export const Api = [
     },
 
     {
-        "name": "Узелки сладкие",
-        "description": "Мягкие булочки с корицей и сахарной пудрой",
+        "name": "Вишневый пирог",
+        "description": "Это не просто десерт, а вишенка на торте! Творожно-песочное тесто с ягодами, заварным кремом и лепестками миндаля.",
         "price": "149",
         "category": "desserts",
         "type": "other",
@@ -316,8 +316,8 @@ export const Api = [
     },
 
     {
-        "name": "Рогалики с клубникой",
-        "description": "Сладкие рогалики с клубникой, сыром 'кремчиз' и сахарной пудр...",
+        "name": "Чизкейк Нью-Йорк",
+        "description": "Мы перепробовали тысячу десертов и наконец нашли любимца гостей — нежнейший творожный чизкейк.",
         "price": "199",
         "category": "desserts",
         "type": "other",
@@ -326,9 +326,9 @@ export const Api = [
     },
 
     {
-        "name": "Сырники",
-        "description": "Нежные сырники из печи с соусом на выбор",
-        "price": "159",
+        "name": "2 Маффина Три шоколада",
+        "description": "Основное блюдо заканчивается, начинаются маффины с начинкой на шоколадной основе с кубиками белого и молочного шоколада.",
+        "price": "230",
         "category": "desserts",
         "type": "other",
         "image": d3,
@@ -336,9 +336,9 @@ export const Api = [
     },
 
     {
-        "name": "Магнат Шоколадный трюфель",
-        "description": "Шоколадное мороженое с кусочк...",
-        "price": "139",
+        "name": "Фонданы",
+        "description": "Четверо из пяти гостей говорят «Oh la la!», когда едят этот французский десерт с хрустящей корочкой и топленой шоколадной начинкой",
+        "price": "300",
         "category": "desserts",
         "type": "other",
         "image": d4,
@@ -346,9 +346,9 @@ export const Api = [
     },
 
     {
-        "name": "Магнат Манго и красные ягоды",
-        "description": "Мороженое эскимо сливочное c...",
-        "price": "139",
+        "name": "Рулетики с брусникой",
+        "description": "Это задорные сладкие рулетики, в которых закрутился микс из натуральной брусники и сгущенного молока.",
+        "price": "320",
         "category": "desserts",
         "type": "other",
         "image": d5,
@@ -356,9 +356,9 @@ export const Api = [
     },
 
     {
-        "name": "Магнат Мини",
-        "description": "Набор из 2 видов мороженого: Магнат Шоколадный трюфель, Ма...",
-        "price": "499",
+        "name": "Рулетики с корицей",
+        "description": "Десерт, одобренный нашими бабушками. Горячие сладкие рулетики с пряной корицей и сахаром",
+        "price": "320",
         "category": "desserts",
         "type": "other",
         "image": d6,
@@ -366,9 +366,9 @@ export const Api = [
     },
 
     {
-        "name": "Фрамбуаз из малины",
-        "description": "Шоколадный бисквит, с молочным муссом на основе шоколада. В середине малиновая прослойка с ягодным вкусом",
-        "price": "111",
+        "name": "Сырники с малиновым вареньем",
+        "description": "Любимый десерт многих наших гостей — румяные сырники из печи. Такие нежные, в меру сладкие и напоминающие детство.",
+        "price": "420",
         "category": "desserts",
         "type": "other",
         "image": d7,
@@ -376,9 +376,9 @@ export const Api = [
     },
 
     {
-        "name": "Чизкейк классический",
-        "description": "Чизкейк классический",
-        "price": "99",
+        "name": "Сырники",
+        "description": "Любимый десерт многих наших гостей — румяные сырники из печи. Такие нежные, в меру сладкие и напоминающие детство",
+        "price": "400",
         "category": "desserts",
         "type": "other",
         "image": d8,
@@ -386,8 +386,8 @@ export const Api = [
     },
 
     {
-        "name": "Adrenaline Gamefuel",
-        "description": "Adrenaline Gamefuel",
+        "name": "Pepsi",
+        "description": "",
         "price": "199",
         "category": "drinks",
         "type": "other",
@@ -396,9 +396,9 @@ export const Api = [
     },
 
     {
-        "name": "Pepsi MAX",
-        "description": "Pepsi MAX",
-        "price": "99",
+        "name": "7Up",
+        "description": "",
+        "price": "199",
         "category": "drinks",
         "type": "other",
         "image": dr2,
@@ -406,9 +406,9 @@ export const Api = [
     },
 
     {
-        "name": "Pepsi",
-        "description": "Pepsi",
-        "price": "99",
+        "name": "Mirinda",
+        "description": "",
+        "price": "199",
         "category": "drinks",
         "type": "other",
         "image": dr3,
@@ -416,9 +416,9 @@ export const Api = [
     },
 
     {
-        "name": "Pepsi Дикая вишня",
-        "description": "Pepsi Дикая вишня",
-        "price": "99",
+        "name": "Aqua Minerale газ.",
+        "description": "",
+        "price": "199",
         "category": "drinks",
         "type": "other",
         "image": dr4,
@@ -426,9 +426,9 @@ export const Api = [
     },
 
     {
-        "name": "Pepsi Light",
-        "description": "Pepsi Light",
-        "price": "99",
+        "name": "Сок Я Апельсин",
+        "description": "",
+        "price": "299",
         "category": "drinks",
         "type": "other",
         "image": dr5,
@@ -436,9 +436,9 @@ export const Api = [
     },
 
     {
-        "name": "Mirinda",
-        "description": "Mirinda",
-        "price": "99",
+        "name": "Сок Я Вишневый",
+        "description": "",
+        "price": "299",
         "category": "drinks",
         "type": "other",
         "image": dr6,
@@ -446,9 +446,9 @@ export const Api = [
     },
 
     {
-        "name": "Rich сок апельсиновый",
-        "description": "Rich сок апельсиновый",
-        "price": "99",
+        "name": "Сок Я Яблоко",
+        "description": "",
+        "price": "299",
         "category": "drinks",
         "type": "other",
         "image": dr7,
@@ -456,9 +456,9 @@ export const Api = [
     },
 
     {
-        "name": "ФьюзТи Лесные ягоды-гибискус",
-        "description": "ФьюзТи Лесные ягоды-гибискус",
-        "price": "99",
+        "name": "Чай Lipton зеленый",
+        "description": "",
+        "price": "199",
         "category": "drinks",
         "type": "other",
         "image": dr8,
@@ -466,8 +466,8 @@ export const Api = [
     },
 
     {
-        "name": "Сырный соус",
-        "description": "Сырный соус",
+        "name": "Чили-майонез",
+        "description": "",
         "price": "49",
         "category": "sauce",
         "type": "other",
@@ -476,8 +476,8 @@ export const Api = [
     },
 
     {
-        "name": "Барбекю",
-        "description": "Барбекю",
+        "name": "Чесночный майонез",
+        "description": "",
         "price": "49",
         "category": "sauce",
         "type": "other",
@@ -486,8 +486,8 @@ export const Api = [
     },
 
     {
-        "name": "Ранч",
-        "description": "Ранч",
+        "name": "Барбекю",
+        "description": "",
         "price": "49",
         "category": "sauce",
         "type": "other",
@@ -496,8 +496,8 @@ export const Api = [
     },
 
     {
-        "name": "Сгущёнка",
-        "description": "Сгущёнка",
+        "name": "Яблочный джем",
+        "description": "",
         "price": "49",
         "category": "sauce",
         "type": "other",
@@ -506,8 +506,8 @@ export const Api = [
     },
 
     {
-        "name": "Пармеджано",
-        "description": "Пармеджано",
+        "name": "Кетчуп",
+        "description": "",
         "price": "49",
         "category": "sauce",
         "type": "other",
@@ -516,8 +516,8 @@ export const Api = [
     },
 
     {
-        "name": "Кисло-сладкий",
-        "description": "Кисло-сладкий",
+        "name": "Паприка-майонез",
+        "description": "",
         "price": "49",
         "category": "sauce",
         "type": "other",
@@ -526,8 +526,8 @@ export const Api = [
     },
 
     {
-        "name": "Горчичный",
-        "description": "Горчичный",
+        "name": "Огуречный майонез",
+        "description": "",
         "price": "49",
         "category": "sauce",
         "type": "other",
@@ -536,8 +536,8 @@ export const Api = [
     },
 
     {
-        "name": "Чесночный",
-        "description": "Чесночный",
+        "name": "Карри-майонез",
+        "description": "",
         "price": "49",
         "category": "sauce",
         "type": "other",

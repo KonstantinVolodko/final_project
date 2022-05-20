@@ -7,6 +7,7 @@ import onionIco from '../../icons/onionIco.svg'
 import pepperIco from '../../icons/pepperIco.svg'
 import mozarellaIco from '../../icons/mozarellaIco.svg'
 import crossIco from '../../icons/crossIco.svg'
+import { ProductInfoContainer } from '../productInfo/productInfoContainer/ProductInfoContainer';
 
 
 
@@ -54,7 +55,14 @@ export const BasicModal = ({
 
   return (
     <div>
-      <button className={styles.productButton}  onClick={handleOpen}>Выбрать</button>
+      <div onClick={handleOpen}>
+          <ProductInfoContainer 
+          img={img}
+          name={name}
+          description={description}
+          price={price}
+          />
+      </div>
       <Modal
         open={open}
         onClose={handleClose}
@@ -65,7 +73,9 @@ export const BasicModal = ({
                 <img src={img} alt="#" />
             </div>
             <div className={styles.titleContainer}>
-                <div className={styles.cross} onClick={() => handleClose()}><img src={crossIco} alt="#" /></div>
+                <div className={styles.cross} onClick={() => handleClose()}>
+                    <div className={styles.crossItem}></div>
+                    </div>
                 <div>
                     <div className={styles.name}>{name}</div>
                     <div className={styles.addContainer}>Выберите тесто</div>
@@ -116,9 +126,7 @@ export const BasicModal = ({
                             onClick={() => {
                                 setSize("28");
                                 return (
-                                    price = Number(price) + (Number(price) * 0.3),
-
-                                    console.log(price)
+                                    price = Number(price) + (Number(price) * 0.3)
                                 )
                               }}
                             />
@@ -145,8 +153,7 @@ export const BasicModal = ({
                             onChange={(e) => {
                                 return(
                                     setMozarella(e.target.checked),
-                                    doppingFunction(mozarella),
-                                    console.log(price)
+                                    doppingFunction(mozarella)
                                 ) 
                             }}
                             />
@@ -161,8 +168,7 @@ export const BasicModal = ({
                             onChange={(e) => {
                                 return(
                                     setShamp(e.target.checked),
-                                    doppingFunction(shamp),
-                                    console.log(price)
+                                    doppingFunction(shamp)
                                 ) 
                             }}
                             />
@@ -177,8 +183,7 @@ export const BasicModal = ({
                             onChange={(e) => {
                                 return(
                                     setOnion(e.target.checked),
-                                    doppingFunction(onion),
-                                    console.log(price)
+                                    doppingFunction(onion)
                                 ) 
                             }}
                             />
@@ -193,8 +198,7 @@ export const BasicModal = ({
                             onChange={(e) => {
                                 return(
                                     setPepper(e.target.checked),
-                                    doppingFunction(pepper),
-                                    console.log(e.target)
+                                    doppingFunction(pepper)
                                 ) 
                             }}
                             />

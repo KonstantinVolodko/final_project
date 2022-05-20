@@ -49,11 +49,11 @@ export const Select = () => {
                 placement === 'bottom' ? 'center top' : 'center bottom',
             }}
           >
-            <Paper>
-              <ClickAwayListener onClickAway={handleClose}>
-                <MenuList className={styles.selectWindow} id="split-button-menu" autoFocusItem>
+            <Paper className={styles.selectWindow}>
+              <ClickAwayListener  onClickAway={handleClose}>
+                <MenuList  id="split-button-menu" autoFocusItem>
                     <Link className={styles.aboutUs} to="/aboutCompany">
-                        <div>О компании</div>
+                        <div className={styles.aboutUsContainer}>О компании</div>
                     </Link>
                     <Link className={styles.licence} to="/licence">
                         <div>Пользовательское соглашение</div>

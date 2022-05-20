@@ -82,7 +82,8 @@ export const AboutUsForm = ({
 
     const clearBasket = () => {
         return(
-            basket.length = 0
+            basket.length = 0,
+            getSum()
         )
     }
 

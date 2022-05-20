@@ -1,17 +1,15 @@
 import React from "react";
-import { BasketHeader } from "./basketHeader/BasketHeader";
 import { BasketMain } from "./basketMain/BasketMain";
 import { Footer } from "../footer/Footer"
+import { AdoptedHeader } from "../adoptedPage/adoptedHeader/AdoptedHeader";
 
 export const BasketPage = ({
     basket, getSum, products, addedBasket, setBasket, promo, setPromo
 }) => {
 
-    console.log(addedBasket)
-
     return (
         <div>
-            <BasketHeader
+            <AdoptedHeader
             basket={basket}
             getSum={getSum}
             />

@@ -10,12 +10,12 @@ export const AboutCompany = ({
 }) => {
     return (
         <div>
-            <div>
-                <AdoptedHeader 
-                getSum={getSum}
-                basket={basket}
-                />
-            </div>
+            
+            <AdoptedHeader 
+            getSum={getSum}
+            basket={basket}
+            />
+            
             <div className={styles.contentContainer}>
                 <div className={styles.firstContainer}>
                     <h1>Мы</h1>
@@ -115,9 +115,9 @@ export const AboutCompany = ({
                     <p className={styles.finalText}>Именно открытость заставляет нас выполнять обещания, соблюдать стандарты и работать строго в рамках закона. Но открытость для нас — не просто модный тренд. Это наше глубокое убеждение, философия и ценность, которую мы хотим нести миру.</p>
                 </div>
             </div>
-            <div>
-                <Footer />
-            </div>
+            
+            <Footer />
+            
         </div>
     )
 }
