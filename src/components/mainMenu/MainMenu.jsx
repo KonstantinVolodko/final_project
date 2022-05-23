@@ -4,8 +4,7 @@ import { Link, animateScroll as scroll } from "react-scroll";
 
 export const MainMenu = () => {
     return (
-        <div className={styles.mainMenu}>
-            
+        <div name="mainPozition"  className={styles.mainMenu}>
             <button className={styles.btnSales}>
                 <span>Акции</span>
             </button>

@@ -26,16 +26,16 @@ export const ProductsContainer = ({
       }, []);
 
     const filter = (status) => {
-        if(status === 'meat') {
-            let newProducts = [...products].filter(item => item.type === status)
+        if(status === 1) {
+            let newProducts = [...products].filter(item => item.type === 'meat')
             setFiltered(newProducts)
-        }else if (status === 'fish') {
-            let newProducts = [...products].filter(item => item.type === status)
+        }else if (status === 2) {
+            let newProducts = [...products].filter(item => item.type === 'fish')
             setFiltered(newProducts)
-        }else if (status === 'other') {
-            let newProducts = [...products].filter(item => item.type === status)
+        }else if (status === 3) {
+            let newProducts = [...products].filter(item => item.type === 'other')
             setFiltered(newProducts)
-        }else if (status === 'all') {
+        }else if (status === 0) {
             setFiltered(products)
         }
     }
@@ -66,6 +66,11 @@ export const ProductsContainer = ({
                             setProducts={setProducts}
                             products={products}
                             id={el.id}
+                            cheese={el.cheese}
+                            mushrooms={el.mushrooms}
+                            onion={el.onion}
+                            pepper={el.pepper}
+                            setFiltered={setFiltered}
                             />
                         )
                     }

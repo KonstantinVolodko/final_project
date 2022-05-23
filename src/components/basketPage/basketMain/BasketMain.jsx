@@ -7,7 +7,7 @@ import { MySlider } from "./slider/Slider";
 import { SliderSouce } from "./slider/sliderSouce/SliderSouce";
 
 export const BasketMain = ({
-    basket, getSum, products, addedBasket, setBasket, promo, setPromo
+    basket, getSum, products, addedBasket, setBasket, promo, setPromo, filtered
 }) => {
 
     return (
@@ -17,6 +17,7 @@ export const BasketMain = ({
                 <BasketProductInfo 
                 basket={basket}
                 setBasket={setBasket}
+                filtered={filtered}
                 />
             </div>
             <div className={styles.promo}>

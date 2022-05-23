@@ -6,7 +6,7 @@ import basketIco from "../../icons/basketIco.svg"
 import { BasketWindowContainer } from './basketWindowContainer/BasketWindowContainer';
 
 export const BasketWindow = ({
-    getSum, basket, setBasket
+    getSum, basket, setBasket, addedBasket
 }) => {
   const [state, setState] = React.useState({
     right: false,
@@ -55,6 +55,7 @@ export const BasketWindow = ({
                 basket={basket}
                 getSum={getSum}
                 setBasket={setBasket}
+                addedBasket={addedBasket}
             />
             
           </SwipeableDrawer>

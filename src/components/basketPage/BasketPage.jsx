@@ -4,7 +4,7 @@ import { Footer } from "../footer/Footer"
 import { AdoptedHeader } from "../adoptedPage/adoptedHeader/AdoptedHeader";
 
 export const BasketPage = ({
-    basket, getSum, products, addedBasket, setBasket, promo, setPromo
+    basket, getSum, products, addedBasket, setBasket, promo, setPromo, filtered
 }) => {
 
     return (
@@ -22,6 +22,7 @@ export const BasketPage = ({
             addedBasket={addedBasket}
             promo={promo}
             setPromo={setPromo}
+            filtered={filtered}
             />
 
             <Footer />

@@ -9,6 +9,7 @@ import { promoCodes } from "./constants/Constants";
 import { Api } from "./constants/Constants";
 import { LicencePage } from "./components/licencePage/LicencePage";
 import { AboutCompany } from "./components/aboutCompany/AboutCompany";
+import { newCount } from "./constants/Helper";
 
 
 
@@ -17,9 +18,20 @@ export const App = function () {
   const [basket, setBasket] = useState([]);
   const [promo, setPromo] = useState('')
   
-  const addedBasket = el => setBasket(state => [...state, el])
+  // const addedBasket = el => setBasket(state => [...state, el])
 
-  
+  const addedBasket = el => {
+    const currentProd = basket.find(product => product.id === el.id)
+
+    if(currentProd) {
+      setBasket(newCount(basket, currentProd.id))
+    }else {
+      setBasket(state => [...state, {
+        ...el,
+        count: 1
+      }])
+    }
+  }
   
   const condition = (promoItem) => {
     return (
@@ -30,11 +42,11 @@ export const App = function () {
   const getSum = () => {
     if(promoCodes.find(condition)){
       return basket.reduce((acc, el) => {
-        return acc + Math.round(Number(el.price - (el.price * 0.1)))
+        return acc + Math.round(Number(el.price - (el.price * 0.1))) * el.count
     }, 0)
     }else {
       return basket.reduce((acc, el) => {
-        return acc + Math.round(Number(el.price))
+        return acc + Math.round(Number(el.price)) * el.count
     }, 0)
     }
     }
@@ -50,6 +62,7 @@ export const App = function () {
             basket={basket}
             getSum={getSum()}
             setBasket={setBasket}
+            addedBasket={addedBasket}
           />
           <Main 
             products={products}

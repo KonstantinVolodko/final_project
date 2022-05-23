@@ -73,7 +73,11 @@ export const Api = [
         "type": "meat",
         "image": p1,
         "id": 1,
-        "status": "all"
+        "count": 1,
+        "cheese": false,
+        "mushrooms": false,
+        "onion": false,
+        "pepper": false,
     },
     {
         "name": "Аррива!",
@@ -83,6 +87,11 @@ export const Api = [
         "type": "meat",
         "image": p2,
         "id": 2,
+        "count": 1,
+        "cheese": false,
+        "mushrooms": false,
+        "onion": false,
+        "pepper": false,
     },
 
     {
@@ -93,6 +102,11 @@ export const Api = [
         "type": "meat",
         "image": p3,
         "id": 3,
+        "count": 1,
+        "cheese": false,
+        "mushrooms": false,
+        "onion": false,
+        "pepper": false,
     },
 
     {
@@ -103,6 +117,11 @@ export const Api = [
         "type": "meat",
         "image": p4,
         "id": 4,
+        "count": 1,
+        "cheese": false,
+        "mushrooms": false,
+        "onion": false,
+        "pepper": false,
     },
 
     {
@@ -110,9 +129,14 @@ export const Api = [
         "description": "Томатный соус, моцарелла, острые колбаски чоризо, сладкий перец",
         "price": "555",
         "category": "pizza",
-        "type": "fish",
+        "type": "meat",
         "image": p5,
         "id": 5,
+        "count": 1,
+        "cheese": false,
+        "mushrooms": false,
+        "onion": false,
+        "pepper": false,
     },
 
     {
@@ -123,6 +147,11 @@ export const Api = [
         "type": "meat",
         "image": p6,
         "id": 6,
+        "count": 1,
+        "cheese": false,
+        "mushrooms": false,
+        "onion": false,
+        "pepper": false,
     },
 
     {
@@ -133,6 +162,11 @@ export const Api = [
         "type": "meat",
         "image": p7,
         "id": 7,
+        "count": 1,
+        "cheese": false,
+        "mushrooms": false,
+        "onion": false,
+        "pepper": false,
     },
 
     {
@@ -140,9 +174,14 @@ export const Api = [
         "description": "Бекон, митболы из говядины, пикантная пепперони, моцарелла, томаты, шампиньоны, сладкий перец, красный лук,",
         "price": "511",
         "category": "pizza",
-        "type": "fish",
+        "type": "meat",
         "image": p8,
         "id": 8,
+        "count": 1,
+        "cheese": false,
+        "mushrooms": false,
+        "onion": false,
+        "pepper": false,
     },
 
     {
@@ -153,6 +192,7 @@ export const Api = [
         "type": "fish",
         "image": s1,
         "id": 9,
+        "count": 1,
     },
 
     {
@@ -160,9 +200,10 @@ export const Api = [
         "description": "Омлет, соус унаги, кунжут, рис, нори",
         "price": "210",
         "category": "sushi",
-        "type": "fish",
+        "type": "other",
         "image": s2,
         "id": 10,
+        "count": 1,
     },
 
     {
@@ -173,6 +214,7 @@ export const Api = [
         "type": "fish",
         "image": s3,
         "id": 11,
+        "count": 1,
     },
 
     {
@@ -180,9 +222,10 @@ export const Api = [
         "description": "Лосось, ментайко майо опаленный, васаби, рис",
         "price": "525",
         "category": "sushi",
-        "type": "meat",
+        "type": "fish",
         "image": s4,
         "id": 12,
+        "count": 1,
     },
 
     {
@@ -193,6 +236,7 @@ export const Api = [
         "type": "fish",
         "image": s5,
         "id": 13,
+        "count": 1,
     },
 
     {
@@ -203,6 +247,7 @@ export const Api = [
         "type": "fish",
         "image": s6,
         "id": 14,
+        "count": 1,
     },
 
     {
@@ -213,6 +258,7 @@ export const Api = [
         "type": "fish",
         "image": s7,
         "id": 15,
+        "count": 1,
     },
 
     {
@@ -223,6 +269,7 @@ export const Api = [
         "type": "fish",
         "image": s8,
         "id": 16,
+        "count": 1,
     },
 
     {
@@ -233,6 +280,7 @@ export const Api = [
         "type": "other",
         "image": sn1,
         "id": 17,
+        "count": 1,
     },
     
     {
@@ -243,6 +291,7 @@ export const Api = [
         "type": "other",
         "image": sn2,
         "id": 18,
+        "count": 1,
     },
 
     {
@@ -250,9 +299,10 @@ export const Api = [
         "description": "Горячий сытный обед из нежных куриных кусочков, картофеля из печи с итальянскими травами и сырного соуса.",
         "price": "499",
         "category": "snack",
-        "type": "other",
+        "type": "meat",
         "image": sn3,
         "id": 19,
+        "count": 1,
     },
 
     {
@@ -260,9 +310,10 @@ export const Api = [
         "description": "Легендарная горячая закуска с цыплёнком, томатами, моцареллой, соусом ранч в тонкой пшеничной лепешке.",
         "price": "199",
         "category": "snack",
-        "type": "other",
+        "type": "meat",
         "image": sn4,
         "id": 20,
+        "count": 1,
     },
 
     {
@@ -273,6 +324,7 @@ export const Api = [
         "type": "other",
         "image": sn5,
         "id": 21,
+        "count": 1,
     },
 
     {
@@ -280,9 +332,10 @@ export const Api = [
         "description": "Сочное куриное филе в хрустящей панировке.",
         "price": "399",
         "category": "snack",
-        "type": "other",
+        "type": "meat",
         "image": sn6,
         "id": 22,
+        "count": 1,
     },
 
     {
@@ -293,6 +346,7 @@ export const Api = [
         "type": "other",
         "image": sn7,
         "id": 23,
+        "count": 1,
     },
 
     {
@@ -300,9 +354,10 @@ export const Api = [
         "description": "Горячая закуска с митболами из говядины, томатами, моцареллой и пикантным соусом бургер в тонкой пшеничной лепешке.",
         "price": "350",
         "category": "snack",
-        "type": "other",
+        "type": "meat",
         "image": sn8,
         "id": 24,
+        "count": 1,
     },
 
     {
@@ -313,6 +368,7 @@ export const Api = [
         "type": "other",
         "image": d1,
         "id": 25,
+        "count": 1,
     },
 
     {
@@ -323,6 +379,7 @@ export const Api = [
         "type": "other",
         "image": d2,
         "id": 26,
+        "count": 1,
     },
 
     {
@@ -333,6 +390,7 @@ export const Api = [
         "type": "other",
         "image": d3,
         "id": 27,
+        "count": 1,
     },
 
     {
@@ -343,6 +401,7 @@ export const Api = [
         "type": "other",
         "image": d4,
         "id": 28,
+        "count": 1,
     },
 
     {
@@ -353,6 +412,7 @@ export const Api = [
         "type": "other",
         "image": d5,
         "id": 29,
+        "count": 1,
     },
 
     {
@@ -363,6 +423,7 @@ export const Api = [
         "type": "other",
         "image": d6,
         "id": 30,
+        "count": 1,
     },
 
     {
@@ -373,6 +434,7 @@ export const Api = [
         "type": "other",
         "image": d7,
         "id": 31,
+        "count": 1,
     },
 
     {
@@ -383,6 +445,7 @@ export const Api = [
         "type": "other",
         "image": d8,
         "id": 32,
+        "count": 1,
     },
 
     {
@@ -393,6 +456,7 @@ export const Api = [
         "type": "other",
         "image": dr1,
         "id": 33,
+        "count": 1,
     },
 
     {
@@ -403,6 +467,7 @@ export const Api = [
         "type": "other",
         "image": dr2,
         "id": 34,
+        "count": 1,
     },
 
     {
@@ -413,6 +478,7 @@ export const Api = [
         "type": "other",
         "image": dr3,
         "id": 35,
+        "count": 1,
     },
 
     {
@@ -423,6 +489,7 @@ export const Api = [
         "type": "other",
         "image": dr4,
         "id": 36,
+        "count": 1,
     },
 
     {
@@ -433,6 +500,7 @@ export const Api = [
         "type": "other",
         "image": dr5,
         "id": 37,
+        "count": 1,
     },
 
     {
@@ -443,6 +511,7 @@ export const Api = [
         "type": "other",
         "image": dr6,
         "id": 38,
+        "count": 1,
     },
 
     {
@@ -453,6 +522,7 @@ export const Api = [
         "type": "other",
         "image": dr7,
         "id": 39,
+        "count": 1,
     },
 
     {
@@ -463,6 +533,7 @@ export const Api = [
         "type": "other",
         "image": dr8,
         "id": 40,
+        "count": 1,
     },
 
     {
@@ -473,6 +544,7 @@ export const Api = [
         "type": "other",
         "image": so1,
         "id": 41,
+        "count": 1,
     },
 
     {
@@ -483,6 +555,7 @@ export const Api = [
         "type": "other",
         "image": so2,
         "id": 42,
+        "count": 1,
     },
 
     {
@@ -493,6 +566,7 @@ export const Api = [
         "type": "other",
         "image": so3,
         "id": 43,
+        "count": 1,
     },
 
     {
@@ -503,6 +577,7 @@ export const Api = [
         "type": "other",
         "image": so4,
         "id": 44,
+        "count": 1,
     },
 
     {
@@ -513,6 +588,7 @@ export const Api = [
         "type": "other",
         "image": so5,
         "id": 45,
+        "count": 1,
     },
 
     {
@@ -523,6 +599,7 @@ export const Api = [
         "type": "other",
         "image": so6,
         "id": 46,
+        "count": 1,
     },
 
     {
@@ -533,6 +610,7 @@ export const Api = [
         "type": "other",
         "image": so7,
         "id": 47,
+        "count": 1,
     },
 
     {
@@ -543,6 +621,7 @@ export const Api = [
         "type": "other",
         "image": so8,
         "id": 48,
+        "count": 1,
     },
 
     {
@@ -553,6 +632,7 @@ export const Api = [
         "type": "other",
         "image": comb1,
         "id": 49,
+        "count": 1,
     },
 
     {
@@ -563,6 +643,7 @@ export const Api = [
         "type": "other",
         "image": comb2,
         "id": 50,
+        "count": 1,
     },
 
     {
@@ -573,6 +654,7 @@ export const Api = [
         "type": "other",
         "image": comb3,
         "id": 51,
+        "count": 1,
     },
 
     {
@@ -583,6 +665,7 @@ export const Api = [
         "type": "other",
         "image": comb4,
         "id": 52,
+        "count": 1,
     },
 
 ]

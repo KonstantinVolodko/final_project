@@ -1,20 +1,26 @@
 import React, {useState} from "react";
 import styles from './BasketWindowContainer.module.scss'
 import { Link } from "react-router-dom";
+import { ProdInfo } from "./prodInfo/ProdInfo";
 
 export const BasketWindowContainer = ({
-    basket, getSum, setBasket,
+    basket, getSum, setBasket, addedBasket
 }) => {
+
+    
+    
 
     const [counter, setCounter] = useState(1)
 
-    const increament = () => {
-        setCounter(counter + 1)
-    }
+    // const increament = () => {
+    //     addedBasket()
+    // }
 
-    const decreament = () => {
-        setCounter(counter - 1)
-    }
+    // const decreament = () => {
+    //     setCounter(counter - 1)
+    // }
+
+    
 
     return (
         <div className={styles.basketWindowContainer}>
@@ -23,25 +29,19 @@ export const BasketWindowContainer = ({
 
             {
                 basket.map(el => {
-                    return(
-                        <div className={styles.prodContainer}>
-                            <div><img src={el.image} alt="#" /></div>
-                            <div className={styles.titleContainer}>
-                                <div className={styles.name}>{el.name}</div>
-                                <div className={styles.description}>Тесто</div>
-                                <div className={styles.priceContainer}>
-                                    <div className={styles.addContainer}>
-                                        <button onClick={(el) => decreament(el)}>-</button>
-                                        <div> {counter} </div>
-                                        <button onClick={(el) => increament(el)}>+</button>
-                                    </div>
-                                    <button className={styles.deleteBtn} onClick={() => setBasket(basket.filter(e => e.id !== el.id))}>Удалить</button>
-                                    <div className={styles.price}>{el.price} ₽</div>
-                                </div>
-                            </div>
-                        </div>
+                    return (
+                        <ProdInfo 
+                            basket={basket}
+                            setBasket={setBasket}
+                            name={el.name}
+                            id={el.id}
+                            count={el.count}
+                            description={el.description}
+                            image={el.image}
+                            price={el.price}
+                            addedBasket={addedBasket}
+                    />
                     )
-                    
                 })
             }
 

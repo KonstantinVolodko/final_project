@@ -5,7 +5,7 @@ export const FilterWindowContainer = ({
     filter
 }) => {
 
-    const [type, setType] = useState('all')
+    const [type, setType] = useState(5)
     
     return (
         <div>
@@ -13,58 +13,38 @@ export const FilterWindowContainer = ({
                 Фильтры
             </div>
             <div className={styles.btnContainer}>
-                <div className={styles.switch}>
-                    <input 
-                    type="radio" 
-                    value={type}
-                    name="type"
-                    checked={type == "meat"}
-                    onClick={() => {
-                        setType("meat");
-                        filter('meat')
-                        }}
-                    />
-                    <label>Мясо</label>
-                </div>
-                <div className={styles.switch}>
-                    <input 
-                    type="radio" 
-                    value={type}
-                    name="fish"
-                    checked={type == "fish"}
-                    onClick={() => {
-                        setType("fish");
-                        filter('fish')
-                        }}
-                    />
-                    <label>Рыба</label>
-                </div>
-                <div className={styles.switch}>
-                    <input 
-                    type="radio" 
-                    value={type}
-                    name="other"
-                    checked={type == "other"}
-                    onClick={() => {
-                        setType("other");
-                        filter('other')
-                        }}
-                    />
-                    <label>Другое</label>
-                </div>
-                <div className={styles.switch}>
-                    <input 
-                    type="radio" 
-                    value={type}
-                    name="all"
-                    checked={type == "all"}
-                    onClick={() => {
-                        filter('all');
-                        setType("all")
-                        }}
-                    />
-                    <label>Очистить фильтр</label>
-                </div>
+                <button onClick={() => {
+                    return(
+                        setType(1),
+                        filter(1)
+                    )
+                }} className={type === 1 ? styles.switchActive : styles.switch}>
+                    Мясо
+                </button>
+                <button onClick={() => {
+                    return(
+                        setType(2),
+                        filter(2)
+                    )
+                }} className={type === 2 ? styles.switchActive : styles.switch}>
+                    Рыба
+                </button>
+                <button onClick={() => {
+                    return(
+                        setType(3),
+                        filter(3)
+                    )
+                }} className={type === 3 ? styles.switchActive : styles.switch}>
+                    Другое
+                </button>
+                <button onClick={() => {
+                    return(
+                        setType(0),
+                        filter(0)
+                    )
+                }} className={type === 0 ? styles.switchActive : styles.switch}>
+                    Очистить фильтр
+                </button>
             </div>
             
         </div>

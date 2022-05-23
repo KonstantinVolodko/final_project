@@ -8,16 +8,18 @@ import { Select } from "./select/Select";
 
 
 export const Header = ({
-    basket, getSum, setBasket,
+    basket, getSum, setBasket, filtered, addedBasket
 }) => {
 
 
     
 
     return (
-        <div className={styles.header}>
+        <div  className={styles.header}>
             <div className={styles.headerLogo}>
+                <Link to="mainPozition">
                 <div><img src={logo} alt="#" /></div>
+                </Link>
             </div>
             <div className={styles.headerMenu}>
                 <div>Акции</div>
@@ -49,6 +51,8 @@ export const Header = ({
                     getSum={getSum}
                     basket={basket}
                     setBasket={setBasket}
+                    filtered={filtered}
+                    addedBasket={addedBasket}
                 />
             </div>
         </div>

@@ -13,36 +13,73 @@ import { ProductInfoContainer } from '../productInfo/productInfoContainer/Produc
 
 
 export const BasicModal = ({
-    img, description, name, price, setBasket, setProducts, products
+    img, description, name, price, setBasket, setProducts, products, cheese, mushrooms, onionProps, pepperProps, setFiltered
 }) => {
   const [open, setOpen] = React.useState(false);
   const handleOpen = () => setOpen(true);
   const handleClose = () => setOpen(false);
 
-  const [dough, setDough] = useState('classic')
-  const [size, setSize] = useState('20')
+  const [dough, setDough] = useState(0)
+  const [size, setSize] = useState(0)
   const [mozarella, setMozarella] = useState(false)
   const [shamp, setShamp] = useState(false)
   const [onion, setOnion] = useState(false)
   const [pepper, setPepper] = useState(false)
-  const [elPrice, setElPrice] = useState(price)
 
-  const doppingFunction = (dopping) => {
-    if(dopping === false) {
-        products.map(el => {
-            return(
-                Number(el.price) + 59
-            )
-        })
-    }else if (dopping === true) {
-        products.map(el => {
-            return(
-                Number(el.price) + 59 - 59
-            )
-        })
+
+//   const doppingFunction = (dopping) => {
+//     if(dopping === false) {
+//         products.map(el => {
+//             return(
+//                 Number(el.price) + 59
+//             )
+//         })
+//     }else if (dopping === true) {
+//         products.map(el => {
+//             return(
+//                 Number(el.price) + 59 - 59
+//             )
+//         })
+//     }
+//   }
+
+
+    // const doppingFunction = (dopping) => {
+    //     if (dopping === false) {
+    //         description = description + '+ fassaf'
+    //         price = Number(price) + 49
+    //         console.log(price)
+    //         console.log(description)
+    //         console.log('нажато')
+            
+    //     }else{
+    //         description = description + ''
+    //         price = Number(price) - 49 + 49
+    //         console.log(price)
+    //         console.log(description)
+    //         console.log('не нажато')
+    //     }
+    // }
+
+    const doppingFunction = (dopping) => {
+        if (dopping === false) {    
+            products.map((e) => {
+                if(e.name === name){
+                    e.description = description + '+ выбранный доппинг'
+                    e.price = Number(price) + 59
+                }
+            })
+            setProducts()
+        }else{
+            products.map((e) => {
+                if(e.name === name){
+                    e.description = description + ''
+                    e.price = Number(price) + 59 - 59
+                }
+            })
+            setProducts()
+        }
     }
-  }
-
 
 
   const addFunction = () => {
@@ -78,132 +115,57 @@ export const BasicModal = ({
                     </div>
                 <div>
                     <div className={styles.name}>{name}</div>
+                    <div className={styles.description}>{description}</div>
                     <div className={styles.addContainer}>Выберите тесто</div>
                     <div className={styles.btnCategory}>
-                        <div className={styles.switch}>
-                            <input 
-                            type="radio" 
-                            value={dough}
-                            name="dough"
-                            checked={dough == "classic"}
-                            onClick={() => {
-                                setDough("classic");
-                              }}
-                              />
-                            <label>Традиционное</label>
-                        </div>
-                        <div className={styles.switch}>
-                            <input
-                            type="radio" 
-                            value={dough}
-                            name="dough"
-                            checked={dough == "thin"}
-                            onClick={() => {
-                                setDough("thin");
-                              }} />
-                            <label>Тонкое</label>
-                        </div>
+                        <button onClick={() => setDough(0)} className={dough === 0 ? styles.switchActive : styles.switch}>Традиционное</button>
+                        <button onClick={() => setDough(1)} className={dough === 1 ? styles.switchActive : styles.switch}>Тонкое</button>
                     </div>
                     <div className={styles.addContainer}>Выберите размер</div>
                     <div className={styles.btnSizeContainer}>    
-                        <div className={styles.btnSize}>
-                            <input 
-                            type="radio" 
-                            value={size}
-                            name="20"
-                            checked={size == "20"}
-                            onClick={() => {
-                                setSize("20");
-                              }}
-                            />
-                            <label>20 см</label>
-                        </div>
-                        <div className={styles.btnSize}>
-                            <input
-                            type="radio" 
-                            value={size}
-                            name="20"
-                            onClick={() => {
-                                setSize("28");
-                                return (
-                                    price = Number(price) + (Number(price) * 0.3)
-                                )
-                              }}
-                            />
-                            <label>28 см</label>
-                        </div>
-                        <div className={styles.btnSize}>
-                            <input
-                            type="radio" 
-                            value={size}
-                            name="20"
-                            onClick={() => {
-                                setSize("33");
-                              }}
-                            />
-                            <label>33 см</label>
-                        </div>
+                        <button onClick={() => setSize(0)} className={size === 0 ? styles.btnSizeActive : styles.btnSize}>
+                            20 см
+                        </button>
+                        <button onClick={() => setSize(1)} className={size === 1 ? styles.btnSizeActive : styles.btnSize}>
+                            28 см
+                        </button>
+                        <button onClick={() => setSize(2)} className={size === 2 ? styles.btnSizeActive : styles.btnSize}>
+                            33 см
+                        </button>
                     </div>
                 </div>
                 <div className={styles.addContainer}>Добавьте в пиццу</div>
                 <div className={styles.doppingContainer}>
                     <div>
-                        <div className={styles.btnDopping}>
-                            <input type="checkbox" 
-                            onChange={(e) => {
-                                return(
-                                    setMozarella(e.target.checked),
-                                    doppingFunction(mozarella)
-                                ) 
-                            }}
-                            />
-                            <label><img src={mozarellaIco} alt="#" /></label>
-                        </div>
+                        <button onClick={() => {
+                            return(
+                                setMozarella(current => !current),
+                                doppingFunction(mozarella)
+                            )
+                        }} className={mozarella === true ? styles.btnDoppingActive : styles.btnDopping}>
+                            <img src={mozarellaIco} alt="#" />
+                        </button>
                         <div className={styles.doppingName}>Моцарелла</div>
                         <div className={styles.doppingPrice}>59 ₽</div>
                     </div>
                     <div>
-                        <div className={styles.btnDopping}>
-                            <input type="checkbox" 
-                            onChange={(e) => {
-                                return(
-                                    setShamp(e.target.checked),
-                                    doppingFunction(shamp)
-                                ) 
-                            }}
-                            />
-                            <label><img src={mashroomsIco} alt="#" /></label>
-                        </div>
+                        <button onClick={() => setShamp(current => !current)} className={shamp === true ? styles.btnDoppingActive : styles.btnDopping}>                  
+                            <img src={mashroomsIco} alt="#" />
+                        </button>
                         <div className={styles.doppingName}>Шампиньоны</div>
                         <div className={styles.doppingPrice}>59 ₽</div>
                     </div>
-                    <div>
-                        <div className={styles.btnDopping}>
-                            <input type="checkbox" 
-                            onChange={(e) => {
-                                return(
-                                    setOnion(e.target.checked),
-                                    doppingFunction(onion)
-                                ) 
-                            }}
-                            />
-                            <label><img src={onionIco} alt="#" /></label>
-                        </div>
+                    <div >
+                        <button onClick={() => setOnion(current => !current)} className={onion === true ? styles.btnDoppingActive : styles.btnDopping}>     
+                            <img src={onionIco} alt="#" />
+                        </button>
                         <div className={styles.doppingName}>Красный лук</div>
                         <div className={styles.doppingPrice}>59 ₽</div>
                     </div>
                     <div>
-                        <div className={styles.btnDopping}>
-                            <input type="checkbox" 
-                            onChange={(e) => {
-                                return(
-                                    setPepper(e.target.checked),
-                                    doppingFunction(pepper)
-                                ) 
-                            }}
-                            />
-                            <label><img src={pepperIco} alt="#" /></label>
-                        </div>
+                        <button onClick={() => setPepper(current => !current)} className={pepper === true ? styles.btnDoppingActive : styles.btnDopping}>
+                            <img src={pepperIco} alt="#" />
+                        </button>
                         <div className={styles.doppingName}>Сладкий перец</div>
                         <div className={styles.doppingPrice}>59 ₽</div>
                     </div>

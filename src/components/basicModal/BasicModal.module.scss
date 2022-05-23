@@ -21,6 +21,8 @@
     background: rgb(236, 100, 3);
 }
 
+
+
 .modal {
     @extend %fonts;
     border-radius: 24px;
@@ -49,34 +51,25 @@
     font-weight: 600;
 }
 
+.description {
+    color: #191919;
+    margin-top: 10px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    width: 480px;
+}
+
 .btnCategory {
         margin-top: 15px;
         display: flex;
-
-        button {
-            border-radius: 6px;
-            width: 240px;
-            height: 48px;
-            background: #FFFFFF;
-            border: 1px solid #F0F0F0;
-        }
-
-        // button:active {
-        //     background-color: #FF7010;
-        // }
 }
 
 .btnSizeContainer {
     margin-top: 16px;
     display: flex;
-
-    button {
-        width: 160px;
-        height: 44px;
-        border-radius: 6px;
-        background: #FFFFFF;
-        border: 1px solid #F0F0F0;
-    }
 }
 
 .addContainer {
@@ -110,112 +103,74 @@
 .switch {
     width: 240px;
     height: 48px;
-    position: relative;
+    background: #FFFFFF;
+    border-radius: 6px;
+    color: black;
+    @extend %fonts;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    border: 1px solid #F0F0F0;
+}
 
-    input {
-        position: absolute;
-        width: 100%;
-        height: 100%;
-        z-index: 100;
-        opacity: 0;
-        cursor: pointer;
-    }
-
-    label {
-        display: flex;
-        width: 100%;
-        height: 100%;
-        position: absolute;
-        background: #FFFFFF;
-        border-radius: 6px;
-        color: black;
-        bottom: 0px;
-        align-items: center;
-        justify-content: center;
-        @extend %fonts;
-        font-weight: 400;
-        font-size: 16px;
-        line-height: 22px;
-        border: 1px solid #F0F0F0;
-    }
-
-    input:checked ~ label { 
-        background: #FF7010;
-        color: #FFFFFF;
-    }
+.switchActive {
+    background-color: #FF7010;
+    width: 240px;
+    height: 48px;
+    border-radius: 6px;
+    color: #FFFFFF;
+    @extend %fonts;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    border: 1px solid #F0F0F0;
 }
 
 .btnSize {
     width: 160px;
     height: 44px;
-    position: relative;
+    @extend %fonts;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    border: 1px solid #F0F0F0;
+    background: #FFFFFF;
+    color: black;
+    border-radius: 6px;
+}
 
-    input {
-        position: absolute;
-        width: 100%;
-        height: 100%;
-        z-index: 100;
-        opacity: 0;
-        cursor: pointer;
-    }
-
-    label {
-        display: flex;
-        width: 100%;
-        height: 100%;
-        position: absolute;
-        background: #FFFFFF;
-        border-radius: 6px;
-        color: black;
-        bottom: 0px;
-        align-items: center;
-        justify-content: center;
-        @extend %fonts;
-        font-weight: 400;
-        font-size: 16px;
-        line-height: 22px;
-        border: 1px solid #F0F0F0;
-    }
-
-    input:checked ~ label { 
-        background: #FF7010;
-        color: #FFFFFF;
-    }
+.btnSizeActive {
+    width: 160px;
+    height: 44px;
+    @extend %fonts;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    border: 1px solid #F0F0F0;
+    background: #FFFFFF;
+    color: black;
+    border-radius: 6px;
+    background: #FF7010;
+    color: #FFFFFF;
 }
 
 .btnDopping {
     width: 105px;
     height: 105px;
-    position: relative;
+    background: #FFFFFF;
+    border-radius: 12px;
+    color: black;
+    border: 1px solid #F0F0F0;
+}
 
-    input {
-        position: absolute;
-        width: 100%;
-        height: 100%;
-        z-index: 100;
-        opacity: 0;
-        cursor: pointer;
-    }
-
-    label {
-        display: flex;
-        width: 100%;
-        height: 100%;
-        position: absolute;
-        background: #FFFFFF;
-        border-radius: 12px;
-        color: black;
-        bottom: 0px;
-        align-items: center;
-        justify-content: center;
-        border: 1px solid #F0F0F0;
-    }
-
-    input:checked ~ label { 
-        border: 1px solid #FF7010;
-        color: #FFFFFF;
-        // box-shadow: 10px 5px 5px #FF7010;
-    }
+.btnDoppingActive {
+    border: 1px solid #FF7010;
+    color: #FFFFFF;
+    width: 105px;
+    height: 105px;
+    background: #FFFFFF;
+    border-radius: 12px;
+    color: black;
 }
 
 .price {
