@@ -139,6 +139,7 @@
     border-radius: 6px;
 }
 
+
 .btnSizeActive {
     width: 160px;
     height: 44px;
@@ -199,10 +200,11 @@
 }
 
 .imgContainer {
-    img {
-        width: 450px;
-        height: 450px;
-    }
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 450px;
+    height: 450px;
 }
 
 .cross {
@@ -254,3 +256,68 @@
     color: #fff;
 }
 
+.imgItem {
+    width: 350px;
+    height: 350px;
+    transition: all 1s;
+}
+
+.smallImg {
+    width: 350px;
+    height: 350px;
+    transition: all 1s;
+}
+
+.mediumImg {
+    width: 400px;
+    height: 400px;
+    transition: all 1s;
+}
+
+.bigImg {
+    width: 450px;
+    height: 450px;
+    transition: all 1s;
+}
+
+:disabled {
+    background: #e9ecef;
+}
+
+@media (max-width: 1024px) {
+    .modal {
+        width: 900px;
+    }
+
+    .contentContainer {
+        padding-right: 20px;
+    }
+
+    .priceContainer {
+        padding-right: 20px;
+    }
+
+    .imgItem {
+        width: 300px;
+        height: 300px;
+        transition: all 1s;
+    }
+    
+    .smallImg {
+        width: 300px;
+        height: 300px;
+        transition: all 1s;
+    }
+    
+    .mediumImg {
+        width: 330px;
+        height: 330px;
+        transition: all 1s;
+    }
+    
+    .bigImg {
+        width: 350px;
+        height: 350px;
+        transition: all 1s;
+    }
+}

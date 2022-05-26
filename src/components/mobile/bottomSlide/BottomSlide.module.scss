@@ -1,0 +1,125 @@
+.mobileMainContainer {
+    display: flex;
+    height: 124px;
+    border: 1px solid #F0F0F0;
+    border-radius: 12px;
+    background: #FFFFFF;
+    margin-left: 20px;
+    margin-right: 20px;
+    align-items: center;
+    gap: 12px;
+
+    .mobileImgContainer {
+        margin-left: 12px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .mobileProductImage {
+        width: 100px;
+        height: 100px;
+    }
+
+    .mobileProductTitle {
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+        padding-right: 12px;
+    }
+
+    .mobileProductName {
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 18px;
+        color: #191919;
+    }
+
+    .mobileProductDescription {
+        height: 32px;
+        overflow: hidden;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 16px;
+        color: #191919;
+    }
+
+    .mobileProductButton {
+        background: #FFEEE2;
+        border-radius: 6px;
+        width: 93px;
+        height: 32px;
+        border: none;
+    }
+
+    .mobileProductButton:hover {
+        background: #FF7010;
+    }
+}
+
+.height {
+    height: 3000px;
+}
+
+.contentContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.imgContainer {
+    img {
+        width: 260px;
+        height: 260px;
+    }
+}
+
+.nameContainer {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.descriptionContainer {
+    width: 300px;
+    text-align: center;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+}
+
+.crossContainer {
+    display: flex;
+    justify-content: end;
+    padding-right: 80px;
+    margin-top: 40px;
+    button {
+        border: none;
+        background: none;
+    }
+}
+
+.productButton {
+    margin-bottom: 40px;
+    background: #FF7010;
+    border-radius: 6px;
+    color: #F0F0F0;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    height: 48px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: none;
+}

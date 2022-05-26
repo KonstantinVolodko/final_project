@@ -3,13 +3,8 @@ import styles from "./BasketProductInfo.module.scss"
 import { BasketProdItem } from "./basketProdItem/BasketProdItem";
 
 export const BasketProductInfo = ({
-    basket, setBasket
+    basket, setBasket, desctop, mobile
 }) => {
-
-    // const onDelete = (el) => {
-    //     const newItemsBasket = basket.filter(e => e.id !== id)
-    //     setBasket(newItemsBasket)
-    //   }
 
     return (
         <div className={styles.container}>
@@ -25,6 +20,8 @@ export const BasketProductInfo = ({
                             description={el.description}
                             image={el.image}
                             price={el.price}
+                            desctop={desctop}
+                            mobile={mobile}
 
                         />
                     )

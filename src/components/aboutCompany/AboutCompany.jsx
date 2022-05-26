@@ -4,17 +4,23 @@ import { Footer } from "../footer/Footer";
 import styles from './AboutCompany.module.scss';
 import diagramma from '../../images/diagramma.svg'
 import washHandForm from '../../images/washHandForm.svg'
+import { MobileHeader } from "../mobile/mobileHeader/MobileHeader";
 
 export const AboutCompany = ({
-    getSum, basket
+    getSum, basket, desctop, mobile
 }) => {
+
     return (
         <div>
-            
+            {desctop && 
             <AdoptedHeader 
             getSum={getSum}
             basket={basket}
             />
+            }
+            {mobile && 
+            <MobileHeader />
+            }
             
             <div className={styles.contentContainer}>
                 <div className={styles.firstContainer}>
@@ -85,7 +91,7 @@ export const AboutCompany = ({
                         <div className={styles.helperTitle}>
                             <div>Тайные покупатели</div>
                             <div>Инспекторы чистоты</div>
-                            <div>Рейтинг</div>
+                            <div className={styles.rating}>Рейтинг</div>
                         </div>
                         <div className={styles.helperText}>
                             <div>Мы выбираем их из числа тайных покупателей и наделяем особыми полномочиями. Самые строгие ребята.</div>

@@ -5,7 +5,7 @@ import promoIco from "../../../../icons/promoIco.svg"
 
 
 export const Promo = ({
-    getSum, setBasketPrice, basketPrice, basket, setBasket, promo, setPromo
+    getSum, setBasketPrice, basketPrice, basket, setBasket, promo, setPromo, desctop, mobile
 }) => {
 
     const textInput = useRef()
@@ -13,7 +13,8 @@ export const Promo = ({
     const getInput = () => setPromo(textInput.current.value)
 
     return (
-        <div className={styles.promoContainer}>
+        <div>
+            <div className={styles.promoContainer}>
             <div className={styles.promoInputContainer}>
                 <input className={styles.inp} type="text" ref={textInput} placeholder="Промокод" />
                 <button onClick={getInput} className={styles.inpButton}>
@@ -24,6 +25,8 @@ export const Promo = ({
             <div className={styles.price}>
                 Итого: {getSum} ₽
             </div>
+            </div>
         </div>
+        
     )
 }

@@ -6,7 +6,7 @@ import { FilterWindow } from "./filterWindow/FilterWindow";
 import { ProductInfoOtherContainer } from "../productInfo/productInfoOther/productInfoOtherContainer/ProductInfoOtherContainer";
 
 export const ProductsContainer = ({
-    products, addedBasket, setProducts
+    products, addedBasket, setProducts, desctop, mobile
 }) => {
 
     const [filtered, setFiltered] = useState([])
@@ -41,14 +41,23 @@ export const ProductsContainer = ({
     }
 
     return (
-        <div>
+        <div className={styles.prodContainer}>
+            {mobile &&
+            <div className={styles.mobileSearch}>
+                <input  type="text" placeholder="Поиск" onChange={(event) => setValueInp(event.target.value)}/>
+            </div>
+            }
             <div name="pizza" className={styles.filterContainer}>
-                <div className={styles.pizzaTitle}>Пицца</div>
+                <h1 className={styles.pizzaTitle}>Пицца</h1>
+                {desctop &&
                 <input className={styles.search} type="text" placeholder="Поиск" onChange={(event) => setValueInp(event.target.value)}/>
+                }
                 <div className={styles.btnFilter}>
                     <FilterWindow 
                     filter={filter}
                     products={products}
+                    desctop={desctop}
+                    mobile={mobile}
                     />
                 </div>
             </div>
@@ -71,13 +80,15 @@ export const ProductsContainer = ({
                             onion={el.onion}
                             pepper={el.pepper}
                             setFiltered={setFiltered}
+                            desctop={desctop}
+                            mobile={mobile}
                             />
                         )
                     }
                 })
             }
             </div>
-            <div name="sushi" className={styles.sushiTitle}>Суши</div>
+            <h1 name="sushi" className={styles.sushiTitle}>Суши</h1>
             <div  className={styles.productsContainer}>
             {
                 findProd.map(el => {
@@ -89,13 +100,15 @@ export const ProductsContainer = ({
                             description={el.description}
                             price={el.price}
                             setBasket={() => addedBasket(el)}
+                            desctop={desctop}
+                            mobile={mobile}
                             />
                         )
                     }
                 })
             }
             </div>
-            <div name="snack" className={styles.sushiTitle}>Закуски</div>
+            <h1 name="snack" className={styles.sushiTitle}>Закуски</h1>
             <div className={styles.productsContainer}>
             {
                 findProd.map(el => {
@@ -107,13 +120,15 @@ export const ProductsContainer = ({
                             description={el.description}
                             price={el.price}
                             setBasket={() => addedBasket(el)}
+                            desctop={desctop}
+                            mobile={mobile}
                             />
                         )
                     }
                 })
             }
             </div>
-            <div name="desserts" className={styles.sushiTitle}>Десерты</div>
+            <h1 name="desserts" className={styles.sushiTitle}>Десерты</h1>
             <div className={styles.productsContainer}>
             {
                 findProd.map(el => {
@@ -125,13 +140,15 @@ export const ProductsContainer = ({
                             description={el.description}
                             price={el.price}
                             setBasket={() => addedBasket(el)}
+                            desctop={desctop}
+                            mobile={mobile}
                             />
                         )
                     }
                 })
             }
             </div>
-            <div name="drinks" className={styles.sushiTitle}>Напитки</div>
+            <h1 name="drinks" className={styles.sushiTitle}>Напитки</h1>
             <div className={styles.productsContainer}>
             {
                 findProd.map(el => {
@@ -143,13 +160,15 @@ export const ProductsContainer = ({
                             description=""
                             price={el.price}
                             setBasket={() => addedBasket(el)}
+                            desctop={desctop}
+                            mobile={mobile}
                             />
                         )
                     }
                 })
             }
             </div>
-            <div name="sauce" className={styles.sushiTitle}>Соусы</div>
+            <h1 name="sauce" className={styles.sushiTitle}>Соусы</h1>
             <div className={styles.productsContainer}>
             {
                 findProd.map(el => {
@@ -161,6 +180,8 @@ export const ProductsContainer = ({
                             description=""
                             price={el.price}
                             setBasket={() => addedBasket(el)}
+                            desctop={desctop}
+                            mobile={mobile}
                             />
                         )
                     }
@@ -168,7 +189,7 @@ export const ProductsContainer = ({
             }
             </div>
 
-            <div name="combo" className={styles.sushiTitle}>Комбо</div>
+            <h1 name="combo" className={styles.sushiTitle}>Комбо</h1>
             <div className={styles.productsContainer}>
             {
                 findProd.map(el => {
@@ -180,6 +201,8 @@ export const ProductsContainer = ({
                             description={el.description}
                             price={el.price}
                             setBasket={() => addedBasket(el)}
+                            desctop={desctop}
+                            mobile={mobile}
                             />
                         )
                     }

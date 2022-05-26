@@ -10,6 +10,7 @@ export const AdoptedHeader = ({
 }) => {
     return (
         <div className={styles.header}>
+            <div className={styles.helpHeader}>
             <Link className={styles.headerLogo} to='/'>
             <div>
                 <div><img src={logo} alt="#" /></div>
@@ -48,6 +49,8 @@ export const AdoptedHeader = ({
                     basket={basket}
                 />
             </div>
+            </div>
+            
         </div>
     )   
 }

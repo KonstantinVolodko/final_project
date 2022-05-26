@@ -27,8 +27,8 @@
     border-radius: 12px;
     display: flex;
     justify-content: space-between;
-    width: 850px;
     height: 152px;
+    width: 100%;
     align-items: center;
     margin-top: 16px;
 
@@ -133,4 +133,14 @@
             cursor: pointer;
             height: 36px;
         }
+}
+
+.adoptedContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+    .buttonContainer {
+        margin-left: 20px;
+    }
 }

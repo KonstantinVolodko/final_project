@@ -11,7 +11,7 @@ import { ProductInfoOtherContainer } from '../productInfoOtherContainer/ProductI
 
 
 export const OtherModal = ({
-    img, description, name, price, setBasket, setProducts, products
+    img, description, name, price, setBasket, setProducts, products, desctop, mobile
 }) => {
   const [open, setOpen] = React.useState(false);
   const handleOpen = () => setOpen(true);
@@ -36,6 +36,8 @@ export const OtherModal = ({
         price={price}
         setBasket={setBasket}
         handleOpen={handleOpen}
+        desctop={desctop}
+        mobile={mobile}
         />
       </div>
       
@@ -44,22 +46,25 @@ export const OtherModal = ({
         onClose={handleClose}
         aria-labelledby="modal-modal-title"
         aria-describedby="modal-modal-description">
-        <Box  className={styles.modal}>
-            <div className={styles.imgContainer}>
-                <img src={img} alt="#" />
-            </div>
-            <div className={styles.titleContainer}>
-                <div className={styles.cross} onClick={() => handleClose()}>
-                    <div className={styles.crossItem}></div>
-                </div>
-                <div>
-                    <div className={styles.name}>{name}</div>
-                    <div className={styles.description}>{description}</div>
-                    <button className={styles.btnPrice} onClick={() => addFunction()}>Добавить в корзину за {price} ₽</button>
-                </div>
-                    
-            </div>
+          <div>
+          <Box  className={styles.modal}>       
+          <div className={styles.imgContainer}>
+              <img src={img} alt="#" />
+          </div>
+          <div className={styles.titleContainer}>
+              <div className={styles.cross} onClick={() => handleClose()}>
+                  <div className={styles.crossItem}></div>
+              </div>
+              <div>
+                  <div className={styles.name}>{name}</div>
+                  <div className={styles.description}>{description}</div>
+                  <button className={styles.btnPrice} onClick={() => addFunction()}>Добавить в корзину за {price} ₽</button>
+              </div>   
+          </div>
         </Box>
+          </div>
+
+        
       </Modal>
     </div>
   );

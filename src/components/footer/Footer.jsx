@@ -10,6 +10,7 @@ import { Link } from "react-router-dom";
 export const Footer = () => {
     return (
         <div className={styles.footer}>
+            <div className={styles.footerHelp}>
             <Link className={styles.footerLogo} to='/'>
             <div><img src={logo} alt="#" /></div>
             </Link>
@@ -34,6 +35,8 @@ export const Footer = () => {
                     </div>
                 </div>
             </div>
+            </div>
+            
         </div>
     )
 }

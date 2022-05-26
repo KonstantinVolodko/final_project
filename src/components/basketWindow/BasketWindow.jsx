@@ -6,10 +6,11 @@ import basketIco from "../../icons/basketIco.svg"
 import { BasketWindowContainer } from './basketWindowContainer/BasketWindowContainer';
 
 export const BasketWindow = ({
-    getSum, basket, setBasket, addedBasket
+    getSum, basket, setBasket, addedBasket, mobile, desctop
 }) => {
   const [state, setState] = React.useState({
     right: false,
+    bottom: false,
   });
 
   const toggleDrawer = (anchor, open) => (event) => {
@@ -36,13 +37,14 @@ export const BasketWindow = ({
 
   return (
     <div>
-      {['right'].map((anchor) => (
+      {desctop && 
+      <div>
+        {['right'].map((anchor) => (
         <React.Fragment key={anchor}>
             <button onClick={toggleDrawer(anchor, true)} className={styles.basket}>
                 <img className={styles.basketIco} src={basketIco} alt="#" />
                 <div className={styles.basketTitle}>{getSum} ₽</div>
             </button>
-            
           
           <SwipeableDrawer
             anchor={anchor}
@@ -56,11 +58,50 @@ export const BasketWindow = ({
                 getSum={getSum}
                 setBasket={setBasket}
                 addedBasket={addedBasket}
+                onClose={toggleDrawer(anchor, false)}
+                mobile={mobile}
+                desctop={desctop}
             />
             
           </SwipeableDrawer>
         </React.Fragment>
       ))}
+      </div>
+      }
+      {mobile &&
+      <div>
+      {['bottom'].map((anchor) => (
+      <React.Fragment key={anchor}>
+          <button onClick={toggleDrawer(anchor, true)} className={styles.basketMobile}>
+              <img className={styles.basketIco} src={basketIco} alt="#" />
+            </button>
+        
+        <SwipeableDrawer
+          anchor={anchor}
+          open={state[anchor]}
+          onClose={toggleDrawer(anchor, false)}
+          onOpen={toggleDrawer(anchor, true)}
+        >
+          {list(anchor)}
+          <div className={styles.height}>
+          <BasketWindowContainer 
+              basket={basket}
+              getSum={getSum}
+              setBasket={setBasket}
+              addedBasket={addedBasket}
+              onClose={toggleDrawer(anchor, false)}
+              mobile={mobile}
+              desctop={desctop}
+          />
+          </div>
+          
+          
+        </SwipeableDrawer>
+      </React.Fragment>
+    ))}
+    </div>
+      }
+      
     </div>
   );
 }

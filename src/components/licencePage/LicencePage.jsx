@@ -2,16 +2,23 @@ import React from "react";
 import { AdoptedHeader } from "../adoptedPage/adoptedHeader/AdoptedHeader";
 import { Footer } from "../footer/Footer";
 import styles from './LicencePage.module.scss'
+import { MobileHeader } from "../mobile/mobileHeader/MobileHeader";
 
 export const LicencePage = ({
-    getSum, basket
+    getSum, basket, desctop, mobile
 }) => {
+
     return (
         <div>
+            {desctop && 
             <AdoptedHeader
             getSum={getSum}
             basket={basket}
             />
+            }
+            {mobile && 
+            <MobileHeader />
+            }
             <div className={styles.contentContainer}>
                 <h1>Договор публичной оферты о продаже товаров интернет-магазина KudaPizza</h1>
                 <h2>1. Общие положения, термины и определения</h2>

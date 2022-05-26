@@ -3,18 +3,24 @@ import { Footer } from "../footer/Footer";
 import { AdoptedHeader } from "./adoptedHeader/AdoptedHeader";
 import adoptedImg from '../../images/adoptedImg.svg';
 import styles from './AdoptedPage.module.scss'
+import { MobileHeader } from "../mobile/mobileHeader/MobileHeader";
 
 export const AdoptedPage = ({
-    basket, getSum
+    basket, getSum, desctop, mobile
 }) => {
 
     return (
         <div className={styles.adopted}>
             <div>
+                {desctop && 
                 <AdoptedHeader 
                 getSum={getSum}
                 basket={basket}
                 />
+                }
+                {mobile &&
+                <MobileHeader />
+                }
             </div>
             <div className={styles.contentContainer}>
                 <img src={adoptedImg} alt="#" />

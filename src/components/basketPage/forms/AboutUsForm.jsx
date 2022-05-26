@@ -190,12 +190,15 @@ export const AboutUsForm = ({
                                 setTripType("roundTrip");
                               }}
                             />
-                            <select class='form-select' aria-label="Default select example">
-                                <option selected>По времени</option>
+                            <div className={styles.selected}>
+                            <select disabled={tripType !== "roundTrip"} class='form-select' aria-label="Default select example">
+                                <option disabled selected>По времени</option>
                                 <option value="1">Через час</option>
                                 <option value="2">Через полтора часа</option>
                                 <option value="3">Через два часа</option>
                             </select>
+                            </div>
+                            
                         </div>
                     </div>
 
@@ -272,7 +275,7 @@ export const AboutUsForm = ({
                                 />
                                 <label>Сдача с</label>
                             </div>
-                            <input className={styles.cashbackInp} type="text" placeholder="0 ₽" />
+                            <input disabled={cashBack !== 'changeOut'} className={styles.cashbackInp} type="text" placeholder="0 ₽" />
                         </div>
                     </div>
                 </fieldset>

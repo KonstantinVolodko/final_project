@@ -9,7 +9,7 @@
 
 %backgroundPosition {
         background-position-y: 20px;
-        background-position-x: 51px;
+        background-position-x: center;
         background-repeat: no-repeat;
         background-size: 32px;
 }
@@ -120,5 +120,16 @@
         align-self: center;
         justify-content: center;
         cursor: pointer;
+    }
+}
+
+
+@media (max-width: 1024px) {
+    .mainMenu {
+        gap: 10px;
+
+        button {
+            width: 120px;
+        }
     }
 }

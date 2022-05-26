@@ -176,3 +176,155 @@ p {
 .finalText {
     margin-top: 30px;
 }
+
+@media (max-width: 1440px) {
+    .blockContainer {
+        .block{
+            width: 380px;
+        }
+    }
+
+    .diagrammaContainer {
+        img {
+            width: 751px;
+        }
+    }
+
+    p {
+        width: 800px;
+    }
+
+    .washContainer {
+        img {
+            width: 786px;
+        } 
+    }
+
+    .fiveContainer {
+        .bigBlock {
+            width: 786px;
+            height: 400px;
+            
+            .rating {
+                margin-top: 70px;
+            }
+        }
+    }
+}
+
+
+@media (max-width: 1024px) {
+
+    .contentContainer {
+        padding-left: 20px;
+    }
+
+    p {
+        width: 700px;
+    }
+
+    .blockContainer {
+        .block{
+            width: 350px;
+        }
+    }
+
+    .diagrammaContainer {
+        img {
+            width: 710px;
+        }
+    }
+
+    .washContainer {
+        img {
+            width: 710px;
+        } 
+    }
+
+    .fiveContainer {
+        .bigBlock {
+            width: 710px;
+            height: 500px;
+            
+            .rating {
+                margin-top: 70px;
+            }
+        }
+
+    }
+
+
+    .contentContainer {
+        width: 100%;
+    }
+
+    .firstContainer {
+        background-size: 400px;
+    }
+
+    .secondContainer {
+        background-size: 360px;
+    }
+
+    .thirdContainer {
+        background-size: 400px;
+    }
+
+    .fourContainer {
+        background-size: 400px;
+    }
+
+    .fiveContainer {
+        background-size: 390px;
+    }
+
+}
+
+@media (max-width: 1023px) {
+    .contentContainer {
+        width: 100%;
+    }
+    p {
+        width: unset;
+    }
+    .firstContainer {
+        padding-bottom: 600px;
+        background-position: bottom;
+        p {
+            width: unset;
+        }
+    }
+    .secondContainer {
+        padding-bottom: 300px;
+        background-position: bottom;
+        p {
+            width: unset;
+        }
+    }
+
+    .thirdContainer {
+        padding-bottom: 300px;
+        background-position: bottom;
+        img {
+            width: 100%;
+        }
+    }
+
+    .fourContainer {
+        padding-bottom: 300px;
+        background-position: bottom;
+        img {
+            width: 100%;
+        }
+    }
+
+    .fiveContainer {
+        padding-bottom: 320px;
+        background-position: bottom;
+        .bigBlock {
+            width: 100%;
+            height: 100%;
+        }
+    }
+}
+

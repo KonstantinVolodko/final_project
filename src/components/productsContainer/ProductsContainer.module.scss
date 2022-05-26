@@ -6,18 +6,22 @@
     margin-top: 32px;
 }
 
-.sushiTitle {
-    display: flex;
-    color: #191919;
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 40px;
-    line-height: 48px;
-    justify-content: space-between;
-    margin-left: 155px;
-    margin-top: 48px;
+.prodContainer {
+    h1 {
+        display: flex;
+        color: #191919;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 40px;
+        line-height: 48px;
+        justify-content: space-between;
+        margin-left: 155px;
+        margin-top: 48px;
+        padding-bottom: 10px;
+    }
 }
+
 
 .btnFilter {
     background: #FFFFFF;
@@ -48,18 +52,8 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin-top: 50px;
 }
 
-.pizzaTitle {
-    color: #191919;
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 40px;
-    line-height: 48px;
-    margin-left: 155px;
-}
 
 .search {
     width: 500px;
@@ -76,3 +70,34 @@
     outline: none;
     color: #191919;
 }
+
+.mobileSearch {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    input {
+        width: 80%;
+        height: 40px;
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 22px;
+        border: 1px solid #F0F0F0;
+        border-radius: 6px;
+        background: #FFFFFF;
+        outline: none;
+        color: #191919;
+        padding-left: 15px;
+    }
+}
+
+@media (max-width: 1024px) {
+    .prodContainer {
+        h1 {
+            margin-left: 40px;
+        }
+    }
+}
+

@@ -6,10 +6,11 @@ import filterIco from "../../../icons/filterIco.svg"
 import { FilterWindowContainer } from './filterWindowContainer/FilterWindowContainer';
 
 export const FilterWindow = ({
-    filter, products
+    filter, products, mobile, desctop
 }) => {
   const [state, setState] = React.useState({
     right: false,
+    bottom: false,
   });
 
   const toggleDrawer = (anchor, open) => (event) => {
@@ -36,6 +37,8 @@ export const FilterWindow = ({
 
   return (
     <div>
+      {desctop &&
+      <div>
       {['right'].map((anchor) => (
         <React.Fragment key={anchor}>
             <button onClick={toggleDrawer(anchor, true)} className={styles.btnFilter}>
@@ -54,10 +57,43 @@ export const FilterWindow = ({
             <FilterWindowContainer 
             filter={filter}
             products={products}
+            onClose={toggleDrawer(anchor, false)}
             />
           </SwipeableDrawer>
         </React.Fragment>
       ))}
+      </div>
+      }
+      
+      {mobile && 
+      <div>
+      {['bottom'].map((anchor) => (
+        <React.Fragment key={anchor}>
+            <button onClick={toggleDrawer(anchor, true)} className={styles.btnFilter}>
+                    <img src={filterIco} alt="#" />
+                    <span>Фильтры</span>
+            </button>
+            
+          
+          <SwipeableDrawer
+            anchor={anchor}
+            open={state[anchor]}
+            onClose={toggleDrawer(anchor, false)}
+            onOpen={toggleDrawer(anchor, true)}
+          >
+            {list(anchor)}
+            <div className={styles.height}>
+            <FilterWindowContainer 
+            filter={filter}
+            products={products}
+            onClose={toggleDrawer(anchor, false)}
+            />
+            </div>
+          </SwipeableDrawer>
+        </React.Fragment>
+      ))}
+      </div>
+      }
     </div>
   );
 }

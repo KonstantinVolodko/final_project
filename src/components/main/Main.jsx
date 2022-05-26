@@ -11,7 +11,7 @@ import { BasketWindow } from "../basketWindow/BasketWindow";
 
 
 export const Main = ({
-    products, setProducts, setBasket, addedBasket
+    products, setProducts, setBasket, addedBasket, desctop
 }) => {
 
     
@@ -36,9 +36,10 @@ export const Main = ({
             setBasket={setBasket}
             addedBasket={addedBasket}
             setProducts={setProducts}
+            desctop={desctop}
             />
             <Footer />
-
+            
         </div>
     )
 }

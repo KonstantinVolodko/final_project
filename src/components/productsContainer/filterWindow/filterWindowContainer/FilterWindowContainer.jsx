@@ -1,17 +1,22 @@
 import React, { useState } from "react";
 import styles from './FilterWindowContainer.module.scss'
+import crossIcoBlack from '../../../../icons/crossIcoBlack.svg'
 
 export const FilterWindowContainer = ({
-    filter
+    filter, onClose
 }) => {
 
     const [type, setType] = useState(5)
     
     return (
         <div>
-            <div className={styles.filterTitle}>
-                Фильтры
+            <div className={styles.crossContainer}>
+                <div className={styles.filterTitle}>
+                    Фильтры
+                </div>
+                <button onClick={onClose}><img src={crossIcoBlack} alt="#" /></button>
             </div>
+            
             <div className={styles.btnContainer}>
                 <button onClick={() => {
                     return(

@@ -46,8 +46,6 @@
 .title {
     color: #191919;
     @extend %fonts;
-    margin-top: 32px;
-    margin-left: 20px;
     font-weight: 600;
     font-size: 32px;
     line-height: 40px;
@@ -88,7 +86,7 @@
     @extend %fonts;
     position: fixed;
     bottom: 0;
-    width: 420px;
+    width: 100%;
     height: 72px;
     background: #FFFFFF;
     
@@ -156,4 +154,56 @@
 
 .container {
     margin-bottom: 72px;
+}
+
+.crossContainer {
+    display: flex;
+    margin-top: 32px;
+    justify-content: space-around;
+    align-items: center;
+    
+    button {
+        border: none;
+        background: none;
+    }
+}
+
+@media (max-width: 1023px) {
+    .finalPrice {
+        left: 50px;
+    }
+
+    .link {
+        left: 550px;
+    }
+}
+
+@media (max-width: 425px) {
+    .finalPrice {
+        left: 50px;
+    }
+
+    .link {
+        left: 220px;
+    }
+}
+
+@media (max-width: 375px) {
+    .finalPrice {
+        left: 20px;
+    }
+
+    .link {
+        left: 230px;
+    }
+}
+
+@media (max-width: 375px) {
+    .finalPrice {
+        left: 0px;
+    }
+
+    .link {
+        left: 150px;
+    }
 }

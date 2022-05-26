@@ -28,3 +28,19 @@
 .windowContainer {
     height: 500px;
 }
+
+.basketMobile {
+    width: 56px;
+    height: 56px;
+    box-shadow: 0px 2px 8px rgba(25, 25, 25, 0.2);
+    background: #FF7010;
+    border: none;
+    border-radius: 50%;
+    position: fixed;
+    bottom: 40px;
+    right: 30px;
+}
+
+.height {
+    height: 3000px;
+}

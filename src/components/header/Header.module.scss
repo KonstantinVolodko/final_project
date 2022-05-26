@@ -10,8 +10,7 @@
 .header {
     height: 64px;
     display: flex;
-    justify-content: space-around;
-    gap: 150px;
+    justify-content: center;
     background: #FFFFFF;
     position: sticky;
     z-index: 1;
@@ -19,8 +18,15 @@
     box-shadow: 10px 10px 3px -3px rgba(0,0,0,.1);
 }
 
+.helpHeader {
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
 .headerLogo {
-    margin-left: 197px;
+    
     width: 141px;
     height: 32px;
     align-self: center;
@@ -37,7 +43,6 @@
 
 .basketPosition {
     align-self: center;
-    margin-right: 195px;
 }
 
 
@@ -46,5 +51,23 @@
     div {
         cursor: pointer;
         @extend %fonts
+    }
+}
+
+
+@media (max-width: 1024px) {
+    .header {
+        justify-content: none;  
+    }
+
+    .headerMenu {
+        gap: 15px;
+    }
+
+    .helpHeader {
+        gap: 10px;
+        width: 100%;
+        padding-left: 10px;
+        padding-right: 10px;
     }
 }

@@ -1,4 +1,4 @@
-import React, {useState} from "react";
+import React, {useState, useEffect} from "react";
 import styles from "./App.module.scss"
 import { Header } from "./components/header/Header";
 import { Main } from "./components/main/Main";
@@ -10,15 +10,37 @@ import { Api } from "./constants/Constants";
 import { LicencePage } from "./components/licencePage/LicencePage";
 import { AboutCompany } from "./components/aboutCompany/AboutCompany";
 import { newCount } from "./constants/Helper";
-
+import { useMediaQuery } from 'react-responsive'
+import { Footer } from "./components/footer/Footer";
+import { MobileHeader } from "./components/mobile/mobileHeader/MobileHeader";
+import { BasketWindow } from "./components/basketWindow/BasketWindow"
+import { ProductsContainer } from "./components/productsContainer/ProductsContainer"
 
 
 export const App = function () {
   const [products, setProducts] = useState(Api);
   const [basket, setBasket] = useState([]);
   const [promo, setPromo] = useState('')
+
+  const desctop = useMediaQuery({
+    query: '(min-width: 1024px)'
+  })
+
+  const mobile = useMediaQuery({
+    query: '(max-width: 1023px)'
+  })
   
   // const addedBasket = el => setBasket(state => [...state, el])
+
+  // const pushLocal = () => {
+  //   localStorage.setItem('basketItems', JSON.stringify(basket));
+  // }
+
+  // useEffect(() => {
+  //   pushLocal()
+  // }, [basket])
+
+  // console.log(JSON.parse(localStorage.getItem('basketItems')))
 
   const addedBasket = el => {
     const currentProd = basket.find(product => product.id === el.id)
@@ -53,8 +75,9 @@ export const App = function () {
         
 
 
-  return (
+  return (   
     <div className={styles.App}>
+      {desctop && 
       <Routes>
       <Route path="/" element={
         <div>
@@ -63,12 +86,15 @@ export const App = function () {
             getSum={getSum()}
             setBasket={setBasket}
             addedBasket={addedBasket}
+            desctop={desctop}
+            mobile={mobile}
           />
           <Main 
             products={products}
             setProducts={setProducts}
             setBasket={setBasket}
             addedBasket={addedBasket}
+            desctop={desctop}
           />
         </div> 
       }/>
@@ -81,12 +107,16 @@ export const App = function () {
         setBasket={setBasket}
         promo={promo}
         setPromo={setPromo}
+        desctop={desctop}
+        mobile={mobile}
         />
       }/>
       <Route path="/adopted" element={
         <AdoptedPage 
         basket={basket}
         getSum={getSum()}
+        mobile={mobile}
+        desctop={desctop}
         />
       }/>
       <Route path="/licence" element={
@@ -103,6 +133,71 @@ export const App = function () {
       }/>
 
       </Routes>
+      }
+
+    {mobile && 
+    <Routes>
+      <Route path="/" element={
+        <div>
+          <MobileHeader />
+          <BasketWindow 
+              getSum={getSum()}
+              basket={basket}
+              setBasket={setBasket}
+              mobile={mobile}
+              desctop={desctop}
+              addedBasket={addedBasket}
+          />
+          <ProductsContainer 
+            products={products}
+            setBasket={setBasket}
+            addedBasket={addedBasket}
+            setProducts={setProducts}
+            mobile={mobile}
+            />
+          <Footer />
+        </div>
+      }/>
+      <Route path="/AboutCompany" element={
+        <AboutCompany 
+        desctop={desctop}
+        mobile={mobile}
+        />
+      }
+      />
+      <Route path="/licence" element={
+        <LicencePage 
+        desctop={desctop}
+        mobile={mobile}
+        />
+      }
+      />
+      <Route path="/basket" element={
+        <BasketPage 
+        basket={basket}
+        getSum={getSum()}
+        products={products}
+        addedBasket={addedBasket}
+        setBasket={setBasket}
+        promo={promo}
+        setPromo={setPromo}
+        desctop={desctop}
+        mobile={mobile}
+        />
+      }
+      />
+
+      <Route path="/adopted" element={
+        <AdoptedPage
+        mobile={mobile}
+        desctop={desctop}
+        />
+      } />
+        
+    </Routes>
+    
+    }
     </div>
+    
   );
 }

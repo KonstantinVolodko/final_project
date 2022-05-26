@@ -1,30 +1,22 @@
-import React, {useState} from "react";
+import React, {useEffect, useState} from "react";
 import styles from './BasketWindowContainer.module.scss'
 import { Link } from "react-router-dom";
 import { ProdInfo } from "./prodInfo/ProdInfo";
+import blackCross from "../../../icons/crossIcoBlack.svg"
 
 export const BasketWindowContainer = ({
-    basket, getSum, setBasket, addedBasket
+    basket, getSum, setBasket, addedBasket, onClose, desctop, mobile
 }) => {
-
     
-    
-
     const [counter, setCounter] = useState(1)
-
-    // const increament = () => {
-    //     addedBasket()
-    // }
-
-    // const decreament = () => {
-    //     setCounter(counter - 1)
-    // }
-
-    
 
     return (
         <div className={styles.basketWindowContainer}>
-            <div className={styles.title}>Ваш заказ</div>
+            <div className={styles.crossContainer}>
+                <div className={styles.title}>Ваш заказ</div>
+                <button onClick={onClose}><img src={blackCross} alt="#" /></button>
+            </div>
+            
             <div className={styles.container}>
 
             {
@@ -51,6 +43,7 @@ export const BasketWindowContainer = ({
                 <Link className={styles.link} to='/basket'>
                     <button className={styles.sendBtn}>Оформить заказ</button>
                 </Link>
+                
             </div>
         </div>
     )
