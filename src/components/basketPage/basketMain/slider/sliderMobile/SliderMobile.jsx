@@ -5,35 +5,17 @@ import '../../../../../../node_modules/slick-carousel/slick/slick-theme.css'
 import styles from './SliderMobile.module.scss'
 
 
-// function SampleNextArrow(props) {
-//   const { onClick } = props;
-//   return (
-//     <div className={styles.arrowRight}
-//       onClick={onClick}
-//     />
-//   );
-// }
-
-// function SamplePrevArrow(props) {
-//   const { onClick } = props;
-//   return (
-//     <div className={styles.arrowLeft}
-//       onClick={onClick}
-//     />
-//   );
-// }
-
 
 export const SliderMobile = ({
-    products, setBasket, addedBasket
+    products, setBasket, addedBasket, bigMobile
 }) => {
+
     const settings = {
         dots: false,
         infinite: true,
-        slidesToShow: 3,
+        slidesToShow: 2,
         slidesToScroll: 2,
       };
-
 
     return (
         <div>

@@ -9,7 +9,7 @@ import { SliderSouce } from "./slider/sliderSouce/SliderSouce";
 import { SliderSouceMobile } from "./slider/sliderSouceMobile/SliderSouceMobile";
 
 export const BasketMain = ({
-    basket, getSum, products, addedBasket, setBasket, promo, setPromo, filtered, desctop, mobile
+    basket, getSum, products, addedBasket, setBasket, promo, setPromo, filtered, desctop, mobile, bigMobile
 }) => {
 
     return (
@@ -57,6 +57,7 @@ export const BasketMain = ({
                 addedBasket={addedBasket}
                 desctop={desctop}
                 mobile={mobile}
+                bigMobile={bigMobile}
                 />
                 }
                     
@@ -76,6 +77,7 @@ export const BasketMain = ({
                 products={products}
                 setBasket={setBasket}
                 addedBasket={addedBasket}
+                bigMobile={bigMobile}
                 />
                 }
             </div>

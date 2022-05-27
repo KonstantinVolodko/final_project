@@ -36,7 +36,8 @@
 .headerMenu {
     display: flex;
     gap: 32px;
-    align-self: center;
+    align-items: center;
+    @extend %fonts;
 }
 
 
@@ -50,7 +51,7 @@
 .headerMenu {
     div {
         cursor: pointer;
-        @extend %fonts
+        @extend %fonts;
     }
 }
 

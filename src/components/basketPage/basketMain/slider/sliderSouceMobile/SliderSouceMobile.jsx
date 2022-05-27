@@ -30,7 +30,7 @@ export const SliderSouceMobile = ({
     const settings = {
         dots: false,
         infinite: true,
-        slidesToShow: 3,
+        slidesToShow: 2,
         slidesToScroll: 2,
       };
 

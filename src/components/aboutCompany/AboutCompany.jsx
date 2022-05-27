@@ -16,12 +16,14 @@ export const AboutCompany = ({
             <AdoptedHeader 
             getSum={getSum}
             basket={basket}
+            mobile={mobile}
+            desctop={desctop}
             />
             }
-            {mobile && 
+            {/* {mobile && 
             <MobileHeader />
             }
-            
+             */}
             <div className={styles.contentContainer}>
                 <div className={styles.firstContainer}>
                     <h1>Мы</h1>

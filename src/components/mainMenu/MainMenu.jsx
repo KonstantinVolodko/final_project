@@ -1,10 +1,15 @@
 import React from "react";
 import styles from "./MainMenu.module.scss"
 import { Link, animateScroll as scroll } from "react-scroll";
+import { MainMenuSlider } from "./mainMenuSlider/MainMenuSlider";
 
-export const MainMenu = () => {
+export const MainMenu = ({
+    desctop, mobile
+}) => {
     return (
-        <div name="mainPozition"  className={styles.mainMenu}>
+        <div>
+            {desctop && 
+            <div name="mainPozition"  className={styles.mainMenu}>
             <button className={styles.btnSales}>
                 <span>Акции</span>
             </button>
@@ -45,5 +50,12 @@ export const MainMenu = () => {
             </Link>
             
         </div>
+            }
+
+            {mobile && 
+            <MainMenuSlider  className={styles.slidePosition}/>
+            }
+        </div>
+        
     )
 }

@@ -12,6 +12,7 @@ export const BasketWindowContainer = ({
 
     return (
         <div className={styles.basketWindowContainer}>
+            
             <div className={styles.crossContainer}>
                 <div className={styles.title}>Ваш заказ</div>
                 <button onClick={onClose}><img src={blackCross} alt="#" /></button>
@@ -45,6 +46,8 @@ export const BasketWindowContainer = ({
                 </Link>
                 
             </div>
+            
         </div>
+    
     )
 }

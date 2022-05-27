@@ -1,0 +1,61 @@
+.slider {
+    width: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 80px;
+    margin-top: 20px;
+}
+
+
+
+button {
+    width: 99px;
+    height: 40px;
+    border: 1px solid #F0F0F0;
+    border-radius: 6px;
+    background: #FFFFFF;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #191919;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+}
+
+@media (max-width: 425px) {
+    .slider {
+        width: 380px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-left: 80px;
+        margin-top: 20px;
+    }
+}
+
+@media (max-width: 375px) {
+    .slider {
+        width: 300px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-left: 30px;
+        margin-top: 20px;
+    }
+}
+
+@media (max-width: 320px) {
+    .slider {
+        width: 280px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-left: 20px;
+        margin-top: 20px;
+    }
+}

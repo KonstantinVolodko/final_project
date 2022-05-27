@@ -11,9 +11,10 @@
     height: 64px;
     display: flex;
     justify-content: center;
+    align-items: center;
     background: #FFFFFF;
     position: sticky;
-    z-index: 1;
+    z-index: 20000;
     top: 0px;
     box-shadow: 10px 10px 3px -3px rgba(0,0,0,.1);
 }
@@ -35,7 +36,8 @@
 .headerMenu {
     display: flex;
     gap: 32px;
-    align-self: center;
+    align-items: center;
+    @extend %fonts;
 }
 
 .menuElement {

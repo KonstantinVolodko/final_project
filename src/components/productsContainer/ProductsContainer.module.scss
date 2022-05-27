@@ -4,6 +4,10 @@
     gap: 30px;
     justify-content: center;
     margin-top: 32px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    
 }
 
 .prodContainer {
@@ -50,8 +54,9 @@
 
 .filterContainer {
     display: flex;
+    justify-content: space-around;
     align-items: center;
-    justify-content: space-between;
+    
 }
 
 
@@ -99,5 +104,10 @@
             margin-left: 40px;
         }
     }
+    .filterContainer {
+
+    }
 }
+
+
 

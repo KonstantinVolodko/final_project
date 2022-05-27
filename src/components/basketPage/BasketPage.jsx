@@ -5,7 +5,7 @@ import { AdoptedHeader } from "../adoptedPage/adoptedHeader/AdoptedHeader";
 import { MobileHeader } from "../mobile/mobileHeader/MobileHeader";
 
 export const BasketPage = ({
-    basket, getSum, products, addedBasket, setBasket, promo, setPromo, filtered, desctop, mobile
+    basket, getSum, products, addedBasket, setBasket, promo, setPromo, filtered, desctop, mobile, bigMobile
 }) => {
 
     return (
@@ -14,6 +14,8 @@ export const BasketPage = ({
             <AdoptedHeader
             basket={basket}
             getSum={getSum}
+            desctop={desctop}
+            mobile={mobile}
             />
             }
             
@@ -34,6 +36,7 @@ export const BasketPage = ({
             filtered={filtered}
             desctop={desctop}
             mobile={mobile}
+            bigMobile={bigMobile}
             />
 
             <Footer />

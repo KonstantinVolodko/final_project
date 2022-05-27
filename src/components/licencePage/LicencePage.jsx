@@ -14,6 +14,8 @@ export const LicencePage = ({
             <AdoptedHeader
             getSum={getSum}
             basket={basket}
+            desctop={desctop}
+            mobile={mobile}
             />
             }
             {mobile && 

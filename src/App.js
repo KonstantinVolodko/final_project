@@ -15,6 +15,7 @@ import { Footer } from "./components/footer/Footer";
 import { MobileHeader } from "./components/mobile/mobileHeader/MobileHeader";
 import { BasketWindow } from "./components/basketWindow/BasketWindow"
 import { ProductsContainer } from "./components/productsContainer/ProductsContainer"
+import { MainMenu } from "./components/mainMenu/MainMenu";
 
 
 export const App = function () {
@@ -29,6 +30,8 @@ export const App = function () {
   const mobile = useMediaQuery({
     query: '(max-width: 1023px)'
   })
+
+  const bigMobile = useMediaQuery({ query: '(max-width: 425px)' })
   
   // const addedBasket = el => setBasket(state => [...state, el])
 
@@ -95,6 +98,7 @@ export const App = function () {
             setBasket={setBasket}
             addedBasket={addedBasket}
             desctop={desctop}
+            mobile={mobile}
           />
         </div> 
       }/>
@@ -109,6 +113,7 @@ export const App = function () {
         setPromo={setPromo}
         desctop={desctop}
         mobile={mobile}
+        bigMobile={bigMobile}
         />
       }/>
       <Route path="/adopted" element={
@@ -123,12 +128,16 @@ export const App = function () {
         <LicencePage 
         getSum={getSum()}
         basket={basket}
+        desctop={desctop}
+        mobile={mobile}
         />
       }/>
       <Route path="/aboutCompany" element={
         <AboutCompany 
         getSum={getSum()}
         basket={basket}
+        desctop={desctop}
+        mobile={mobile}
         />
       }/>
 
@@ -147,6 +156,10 @@ export const App = function () {
               mobile={mobile}
               desctop={desctop}
               addedBasket={addedBasket}
+          />
+          <MainMenu 
+          mobile={mobile}
+          desctop={desctop}
           />
           <ProductsContainer 
             products={products}
@@ -183,6 +196,7 @@ export const App = function () {
         setPromo={setPromo}
         desctop={desctop}
         mobile={mobile}
+        bigMobile={bigMobile}
         />
       }
       />

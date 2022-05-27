@@ -328,3 +328,14 @@ p {
     }
 }
 
+@media (max-width: 460px) {
+    .firstContainer{
+        padding-bottom: 770px;
+    }
+}
+
+@media (max-width: 420px) {
+    .fiveContainer {
+        display: none;
+    }
+}

@@ -6,10 +6,11 @@ import { Link } from "react-router-dom";
 import { Select } from "../../header/select/Select";
 
 export const AdoptedHeader = ({
-    getSum, basket
+    getSum, basket, mobile, desctop
 }) => {
     return (
-        <div className={styles.header}>
+        
+            <div className={styles.header}>
             <div className={styles.helpHeader}>
             <Link className={styles.headerLogo} to='/'>
             <div>
@@ -47,10 +48,14 @@ export const AdoptedHeader = ({
                 <BasketWindow 
                     getSum={getSum}
                     basket={basket}
+                    mobile={mobile}
+                    desctop={desctop}
                 />
             </div>
             </div>
             
         </div>
+        
+        
     )   
 }

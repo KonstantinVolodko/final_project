@@ -16,6 +16,8 @@ export const AdoptedPage = ({
                 <AdoptedHeader 
                 getSum={getSum}
                 basket={basket}
+                desctop={desctop}
+                mobile={mobile}
                 />
                 }
                 {mobile &&

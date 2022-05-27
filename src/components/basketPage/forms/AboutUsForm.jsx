@@ -287,7 +287,7 @@ export const AboutUsForm = ({
 
                 <div className={styles.sendContainer}>
                     <div className={styles.finalPrice}>Итого: {getSum} ₽</div>
-                    <Link to='/adopted'>
+                    <Link className={styles.linkSend} to='/adopted'>
                     <button onClick={() => clearBasket()} disabled={!formValid}>
                         Оформить заказ
                     </button></Link>

@@ -144,3 +144,29 @@
         margin-left: 20px;
     }
 }
+
+@media (max-width: 425px) {
+    .prodContainer {
+        width: 400px;
+    }
+
+    .name {
+        width: 200px;
+        height: 22px;
+        overflow: hidden;
+    }
+
+    .description {
+        height: 44px;
+        width: 200px;
+        overflow: hidden;
+    }
+
+    .nameContainer {
+        width: 200px;
+    }
+
+    .buttonContainer {
+        gap: 10px;
+    }
+}

@@ -48,6 +48,7 @@ export const ProductsContainer = ({
             </div>
             }
             <div name="pizza" className={styles.filterContainer}>
+                
                 <h1 className={styles.pizzaTitle}>Пицца</h1>
                 {desctop &&
                 <input className={styles.search} type="text" placeholder="Поиск" onChange={(event) => setValueInp(event.target.value)}/>
@@ -60,6 +61,8 @@ export const ProductsContainer = ({
                     mobile={mobile}
                     />
                 </div>
+                
+                
             </div>
             <div className={styles.productsContainer}>
             {

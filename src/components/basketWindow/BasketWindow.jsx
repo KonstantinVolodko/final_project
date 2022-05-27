@@ -68,6 +68,7 @@ export const BasketWindow = ({
       ))}
       </div>
       }
+      
       {mobile &&
       <div>
       {['bottom'].map((anchor) => (

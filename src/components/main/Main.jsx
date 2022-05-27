@@ -11,7 +11,7 @@ import { BasketWindow } from "../basketWindow/BasketWindow";
 
 
 export const Main = ({
-    products, setProducts, setBasket, addedBasket, desctop
+    products, setProducts, setBasket, addedBasket, desctop, mobile
 }) => {
 
     
@@ -30,16 +30,19 @@ export const Main = ({
     
     return (
         <div>
-            <MainMenu />
+            <MainMenu 
+            mobile={mobile}
+            desctop={desctop}
+            />
             <ProductsContainer 
             products={products}
             setBasket={setBasket}
             addedBasket={addedBasket}
             setProducts={setProducts}
             desctop={desctop}
+            mobile={mobile}
             />
             <Footer />
-            
         </div>
     )
 }
